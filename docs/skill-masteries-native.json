@@ -1,0 +1,1586 @@
+[
+  {
+    "id": 48001,
+    "type": 8,
+    "weapon": 0,
+    "group": 48001,
+    "name": "Divine Power",
+    "max_order": 1,
+    "spell_ids": [
+      48001
+    ]
+  },
+  {
+    "id": 48002,
+    "type": 8,
+    "weapon": 0,
+    "group": 48001,
+    "name": "Divine Power",
+    "max_order": 1,
+    "spell_ids": [
+      48002
+    ]
+  },
+  {
+    "id": 48003,
+    "type": 8,
+    "weapon": 0,
+    "group": 48001,
+    "name": "Divine Power",
+    "max_order": 1,
+    "spell_ids": [
+      48003
+    ]
+  },
+  {
+    "id": 48004,
+    "type": 8,
+    "weapon": 0,
+    "group": 48001,
+    "name": "Divine Power",
+    "max_order": 1,
+    "spell_ids": [
+      48004
+    ]
+  },
+  {
+    "id": 48005,
+    "type": 8,
+    "weapon": 0,
+    "group": 48005,
+    "name": "Focus",
+    "max_order": 1,
+    "spell_ids": [
+      48005
+    ]
+  },
+  {
+    "id": 48006,
+    "type": 8,
+    "weapon": 0,
+    "group": 48005,
+    "name": "Focus",
+    "max_order": 1,
+    "spell_ids": [
+      48006
+    ]
+  },
+  {
+    "id": 48007,
+    "type": 8,
+    "weapon": 0,
+    "group": 48005,
+    "name": "Focus",
+    "max_order": 1,
+    "spell_ids": [
+      48007
+    ]
+  },
+  {
+    "id": 48008,
+    "type": 8,
+    "weapon": 0,
+    "group": 48005,
+    "name": "Focus",
+    "max_order": 1,
+    "spell_ids": [
+      48008
+    ]
+  },
+  {
+    "id": 48009,
+    "type": 8,
+    "weapon": 0,
+    "group": 48009,
+    "name": "Murderous Intent",
+    "max_order": 1,
+    "spell_ids": [
+      48009
+    ]
+  },
+  {
+    "id": 48010,
+    "type": 8,
+    "weapon": 0,
+    "group": 48009,
+    "name": "Murderous Intent",
+    "max_order": 1,
+    "spell_ids": [
+      48010
+    ]
+  },
+  {
+    "id": 48011,
+    "type": 8,
+    "weapon": 0,
+    "group": 48009,
+    "name": "Murderous Intent",
+    "max_order": 1,
+    "spell_ids": [
+      48011
+    ]
+  },
+  {
+    "id": 48012,
+    "type": 8,
+    "weapon": 0,
+    "group": 48009,
+    "name": "Murderous Intent",
+    "max_order": 1,
+    "spell_ids": [
+      48012
+    ]
+  },
+  {
+    "id": 48013,
+    "type": 8,
+    "weapon": 0,
+    "group": 48013,
+    "name": "Zeal",
+    "max_order": 1,
+    "spell_ids": [
+      48013
+    ]
+  },
+  {
+    "id": 48014,
+    "type": 8,
+    "weapon": 0,
+    "group": 48013,
+    "name": "Zeal",
+    "max_order": 1,
+    "spell_ids": [
+      48014
+    ]
+  },
+  {
+    "id": 48015,
+    "type": 8,
+    "weapon": 0,
+    "group": 48013,
+    "name": "Zeal",
+    "max_order": 1,
+    "spell_ids": [
+      48015
+    ]
+  },
+  {
+    "id": 48016,
+    "type": 8,
+    "weapon": 0,
+    "group": 48013,
+    "name": "Zeal",
+    "max_order": 1,
+    "spell_ids": [
+      48016
+    ]
+  },
+  {
+    "id": 48017,
+    "type": 8,
+    "weapon": 0,
+    "group": 48017,
+    "name": "Boost",
+    "max_order": 1,
+    "spell_ids": [
+      48017
+    ]
+  },
+  {
+    "id": 48018,
+    "type": 8,
+    "weapon": 0,
+    "group": 48017,
+    "name": "Love Spell - Magic Bullet",
+    "max_order": 1,
+    "spell_ids": [
+      48018
+    ]
+  },
+  {
+    "id": 48019,
+    "type": 8,
+    "weapon": 0,
+    "group": 48017,
+    "name": "Incomplete Love",
+    "max_order": 1,
+    "spell_ids": [
+      48019
+    ]
+  },
+  {
+    "id": 48020,
+    "type": 8,
+    "weapon": 0,
+    "group": 48017,
+    "name": "Shattered Abyss",
+    "max_order": 1,
+    "spell_ids": [
+      48020
+    ]
+  },
+  {
+    "id": 48021,
+    "type": 8,
+    "weapon": 0,
+    "group": 48021,
+    "name": "Broken Mind",
+    "max_order": 1,
+    "spell_ids": [
+      48021
+    ]
+  },
+  {
+    "id": 48022,
+    "type": 8,
+    "weapon": 0,
+    "group": 48021,
+    "name": "Fighting Fist",
+    "max_order": 1,
+    "spell_ids": [
+      48022
+    ]
+  },
+  {
+    "id": 48023,
+    "type": 8,
+    "weapon": 0,
+    "group": 48021,
+    "name": "Hellfire",
+    "max_order": 1,
+    "spell_ids": [
+      48023
+    ]
+  },
+  {
+    "id": 48024,
+    "type": 8,
+    "weapon": 0,
+    "group": 48021,
+    "name": "Shura's Will",
+    "max_order": 1,
+    "spell_ids": [
+      48024
+    ]
+  },
+  {
+    "id": 48025,
+    "type": 10,
+    "weapon": 0,
+    "group": 48025,
+    "name": "Vigor",
+    "max_order": 1,
+    "spell_ids": [
+      48025
+    ]
+  },
+  {
+    "id": 48026,
+    "type": 10,
+    "weapon": 0,
+    "group": 48025,
+    "name": "Vigor",
+    "max_order": 1,
+    "spell_ids": [
+      48026
+    ]
+  },
+  {
+    "id": 48027,
+    "type": 10,
+    "weapon": 0,
+    "group": 48025,
+    "name": "Vigor",
+    "max_order": 1,
+    "spell_ids": [
+      48027
+    ]
+  },
+  {
+    "id": 48028,
+    "type": 10,
+    "weapon": 0,
+    "group": 48025,
+    "name": "Vigor",
+    "max_order": 1,
+    "spell_ids": [
+      48028
+    ]
+  },
+  {
+    "id": 48029,
+    "type": 10,
+    "weapon": 0,
+    "group": 48029,
+    "name": "Iron Wall",
+    "max_order": 1,
+    "spell_ids": [
+      48029
+    ]
+  },
+  {
+    "id": 48030,
+    "type": 10,
+    "weapon": 0,
+    "group": 48029,
+    "name": "Iron Wall",
+    "max_order": 1,
+    "spell_ids": [
+      48030
+    ]
+  },
+  {
+    "id": 48031,
+    "type": 10,
+    "weapon": 0,
+    "group": 48029,
+    "name": "Iron Wall",
+    "max_order": 1,
+    "spell_ids": [
+      48031
+    ]
+  },
+  {
+    "id": 48032,
+    "type": 10,
+    "weapon": 0,
+    "group": 48029,
+    "name": "Iron Wall",
+    "max_order": 1,
+    "spell_ids": [
+      48032
+    ]
+  },
+  {
+    "id": 48033,
+    "type": 10,
+    "weapon": 0,
+    "group": 48033,
+    "name": "Agility",
+    "max_order": 1,
+    "spell_ids": [
+      48033
+    ]
+  },
+  {
+    "id": 48034,
+    "type": 10,
+    "weapon": 0,
+    "group": 48033,
+    "name": "Agility",
+    "max_order": 1,
+    "spell_ids": [
+      48034
+    ]
+  },
+  {
+    "id": 48035,
+    "type": 10,
+    "weapon": 0,
+    "group": 48033,
+    "name": "Agility",
+    "max_order": 1,
+    "spell_ids": [
+      48035
+    ]
+  },
+  {
+    "id": 48036,
+    "type": 10,
+    "weapon": 0,
+    "group": 48033,
+    "name": "Agility",
+    "max_order": 1,
+    "spell_ids": [
+      48036
+    ]
+  },
+  {
+    "id": 48037,
+    "type": 10,
+    "weapon": 0,
+    "group": 48037,
+    "name": "Unyieldingness",
+    "max_order": 1,
+    "spell_ids": [
+      48037
+    ]
+  },
+  {
+    "id": 48038,
+    "type": 10,
+    "weapon": 0,
+    "group": 48037,
+    "name": "Unyieldingness",
+    "max_order": 1,
+    "spell_ids": [
+      48038
+    ]
+  },
+  {
+    "id": 48039,
+    "type": 10,
+    "weapon": 0,
+    "group": 48037,
+    "name": "Unyieldingness",
+    "max_order": 1,
+    "spell_ids": [
+      48039
+    ]
+  },
+  {
+    "id": 48040,
+    "type": 10,
+    "weapon": 0,
+    "group": 48037,
+    "name": "Unyieldingness",
+    "max_order": 1,
+    "spell_ids": [
+      48040
+    ]
+  },
+  {
+    "id": 48041,
+    "type": 10,
+    "weapon": 0,
+    "group": 48041,
+    "name": "Courage",
+    "max_order": 1,
+    "spell_ids": [
+      48041
+    ]
+  },
+  {
+    "id": 48042,
+    "type": 10,
+    "weapon": 0,
+    "group": 48041,
+    "name": "Courage",
+    "max_order": 1,
+    "spell_ids": [
+      48042
+    ]
+  },
+  {
+    "id": 48043,
+    "type": 10,
+    "weapon": 0,
+    "group": 48041,
+    "name": "Courage",
+    "max_order": 1,
+    "spell_ids": [
+      48043
+    ]
+  },
+  {
+    "id": 48044,
+    "type": 10,
+    "weapon": 0,
+    "group": 48041,
+    "name": "Courage",
+    "max_order": 1,
+    "spell_ids": [
+      48044
+    ]
+  },
+  {
+    "id": 48045,
+    "type": 10,
+    "weapon": 0,
+    "group": 48045,
+    "name": "Extreme Speed",
+    "max_order": 1,
+    "spell_ids": [
+      48045
+    ]
+  },
+  {
+    "id": 48046,
+    "type": 10,
+    "weapon": 0,
+    "group": 48045,
+    "name": "Extreme Speed",
+    "max_order": 1,
+    "spell_ids": [
+      48046
+    ]
+  },
+  {
+    "id": 48047,
+    "type": 10,
+    "weapon": 0,
+    "group": 48045,
+    "name": "Extreme Speed",
+    "max_order": 1,
+    "spell_ids": [
+      48047
+    ]
+  },
+  {
+    "id": 48048,
+    "type": 10,
+    "weapon": 0,
+    "group": 48045,
+    "name": "Extreme Speed",
+    "max_order": 1,
+    "spell_ids": [
+      48048
+    ]
+  },
+  {
+    "id": 48049,
+    "type": 11,
+    "weapon": 0,
+    "group": 48049,
+    "name": "Organized Sabotage",
+    "max_order": 1,
+    "spell_ids": [
+      48049
+    ]
+  },
+  {
+    "id": 48050,
+    "type": 11,
+    "weapon": 0,
+    "group": 48049,
+    "name": "Organized Sabotage",
+    "max_order": 1,
+    "spell_ids": [
+      48050
+    ]
+  },
+  {
+    "id": 48051,
+    "type": 11,
+    "weapon": 0,
+    "group": 48049,
+    "name": "Organized Sabotage",
+    "max_order": 1,
+    "spell_ids": [
+      48051
+    ]
+  },
+  {
+    "id": 48052,
+    "type": 11,
+    "weapon": 0,
+    "group": 48049,
+    "name": "Organized Sabotage",
+    "max_order": 1,
+    "spell_ids": [
+      48052
+    ]
+  },
+  {
+    "id": 48053,
+    "type": 11,
+    "weapon": 0,
+    "group": 48053,
+    "name": "Break Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48053
+    ]
+  },
+  {
+    "id": 48054,
+    "type": 11,
+    "weapon": 0,
+    "group": 48053,
+    "name": "Break Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48054
+    ]
+  },
+  {
+    "id": 48055,
+    "type": 11,
+    "weapon": 0,
+    "group": 48053,
+    "name": "Break Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48055
+    ]
+  },
+  {
+    "id": 48056,
+    "type": 11,
+    "weapon": 0,
+    "group": 48053,
+    "name": "Break Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48056
+    ]
+  },
+  {
+    "id": 48057,
+    "type": 11,
+    "weapon": 0,
+    "group": 48057,
+    "name": "Preemptive Strike",
+    "max_order": 1,
+    "spell_ids": [
+      48057
+    ]
+  },
+  {
+    "id": 48058,
+    "type": 11,
+    "weapon": 0,
+    "group": 48057,
+    "name": "Preemptive Strike",
+    "max_order": 1,
+    "spell_ids": [
+      48058
+    ]
+  },
+  {
+    "id": 48059,
+    "type": 11,
+    "weapon": 0,
+    "group": 48057,
+    "name": "Preemptive Strike",
+    "max_order": 1,
+    "spell_ids": [
+      48059
+    ]
+  },
+  {
+    "id": 48060,
+    "type": 11,
+    "weapon": 0,
+    "group": 48057,
+    "name": "Preemptive Strike",
+    "max_order": 1,
+    "spell_ids": [
+      48060
+    ]
+  },
+  {
+    "id": 48061,
+    "type": 11,
+    "weapon": 0,
+    "group": 48061,
+    "name": "Ambush",
+    "max_order": 1,
+    "spell_ids": [
+      48061
+    ]
+  },
+  {
+    "id": 48062,
+    "type": 11,
+    "weapon": 0,
+    "group": 48061,
+    "name": "Ambush",
+    "max_order": 1,
+    "spell_ids": [
+      48062
+    ]
+  },
+  {
+    "id": 48063,
+    "type": 11,
+    "weapon": 0,
+    "group": 48061,
+    "name": "Ambush",
+    "max_order": 1,
+    "spell_ids": [
+      48063
+    ]
+  },
+  {
+    "id": 48064,
+    "type": 11,
+    "weapon": 0,
+    "group": 48061,
+    "name": "Ambush",
+    "max_order": 1,
+    "spell_ids": [
+      48064
+    ]
+  },
+  {
+    "id": 48065,
+    "type": 11,
+    "weapon": 0,
+    "group": 48065,
+    "name": "Expose Weakness",
+    "max_order": 1,
+    "spell_ids": [
+      48065
+    ]
+  },
+  {
+    "id": 48066,
+    "type": 11,
+    "weapon": 0,
+    "group": 48065,
+    "name": "Expose Weakness",
+    "max_order": 1,
+    "spell_ids": [
+      48066
+    ]
+  },
+  {
+    "id": 48067,
+    "type": 11,
+    "weapon": 0,
+    "group": 48065,
+    "name": "Expose Weakness",
+    "max_order": 1,
+    "spell_ids": [
+      48067
+    ]
+  },
+  {
+    "id": 48068,
+    "type": 11,
+    "weapon": 0,
+    "group": 48065,
+    "name": "Expose Weakness",
+    "max_order": 1,
+    "spell_ids": [
+      48068
+    ]
+  },
+  {
+    "id": 48069,
+    "type": 11,
+    "weapon": 0,
+    "group": 48069,
+    "name": "Ars Noxia",
+    "max_order": 1,
+    "spell_ids": [
+      48069
+    ]
+  },
+  {
+    "id": 48070,
+    "type": 11,
+    "weapon": 0,
+    "group": 48069,
+    "name": "Ars Noxia",
+    "max_order": 1,
+    "spell_ids": [
+      48070
+    ]
+  },
+  {
+    "id": 48071,
+    "type": 11,
+    "weapon": 0,
+    "group": 48069,
+    "name": "Ars Noxia",
+    "max_order": 1,
+    "spell_ids": [
+      48071
+    ]
+  },
+  {
+    "id": 48072,
+    "type": 11,
+    "weapon": 0,
+    "group": 48069,
+    "name": "Ars Noxia",
+    "max_order": 1,
+    "spell_ids": [
+      48072
+    ]
+  },
+  {
+    "id": 48627,
+    "type": 12,
+    "weapon": 0,
+    "group": 48627,
+    "name": "The Best Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48627
+    ]
+  },
+  {
+    "id": 48628,
+    "type": 12,
+    "weapon": 0,
+    "group": 48627,
+    "name": "The Best Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48628
+    ]
+  },
+  {
+    "id": 48629,
+    "type": 12,
+    "weapon": 0,
+    "group": 48627,
+    "name": "The Best Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48629
+    ]
+  },
+  {
+    "id": 48630,
+    "type": 12,
+    "weapon": 0,
+    "group": 48627,
+    "name": "The Best Defense",
+    "max_order": 1,
+    "spell_ids": [
+      48630
+    ]
+  },
+  {
+    "id": 48631,
+    "type": 12,
+    "weapon": 0,
+    "group": 48631,
+    "name": "Capoeira",
+    "max_order": 1,
+    "spell_ids": [
+      48631
+    ]
+  },
+  {
+    "id": 48632,
+    "type": 12,
+    "weapon": 0,
+    "group": 48631,
+    "name": "Capoeira",
+    "max_order": 1,
+    "spell_ids": [
+      48632
+    ]
+  },
+  {
+    "id": 48633,
+    "type": 12,
+    "weapon": 0,
+    "group": 48631,
+    "name": "Capoeira",
+    "max_order": 1,
+    "spell_ids": [
+      48633
+    ]
+  },
+  {
+    "id": 48634,
+    "type": 12,
+    "weapon": 0,
+    "group": 48631,
+    "name": "Capoeira",
+    "max_order": 1,
+    "spell_ids": [
+      48634
+    ]
+  },
+  {
+    "id": 48635,
+    "type": 12,
+    "weapon": 0,
+    "group": 48635,
+    "name": "Deep Blue",
+    "max_order": 1,
+    "spell_ids": [
+      48635
+    ]
+  },
+  {
+    "id": 48636,
+    "type": 12,
+    "weapon": 0,
+    "group": 48635,
+    "name": "Deep Blue",
+    "max_order": 1,
+    "spell_ids": [
+      48636
+    ]
+  },
+  {
+    "id": 48637,
+    "type": 12,
+    "weapon": 0,
+    "group": 48635,
+    "name": "Deep Blue",
+    "max_order": 1,
+    "spell_ids": [
+      48637
+    ]
+  },
+  {
+    "id": 48638,
+    "type": 12,
+    "weapon": 0,
+    "group": 48635,
+    "name": "Deep Blue",
+    "max_order": 1,
+    "spell_ids": [
+      48638
+    ]
+  },
+  {
+    "id": 48639,
+    "type": 12,
+    "weapon": 0,
+    "group": 48639,
+    "name": "Omniscience",
+    "max_order": 1,
+    "spell_ids": [
+      48639
+    ]
+  },
+  {
+    "id": 48640,
+    "type": 12,
+    "weapon": 0,
+    "group": 48639,
+    "name": "Omniscience",
+    "max_order": 1,
+    "spell_ids": [
+      48640
+    ]
+  },
+  {
+    "id": 48641,
+    "type": 12,
+    "weapon": 0,
+    "group": 48639,
+    "name": "Omniscience",
+    "max_order": 1,
+    "spell_ids": [
+      48641
+    ]
+  },
+  {
+    "id": 48642,
+    "type": 12,
+    "weapon": 0,
+    "group": 48639,
+    "name": "Omniscience",
+    "max_order": 1,
+    "spell_ids": [
+      48642
+    ]
+  },
+  {
+    "id": 49159,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49159,
+    "name": "Mighty Lightning Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49159
+    ]
+  },
+  {
+    "id": 49160,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49159,
+    "name": "Mighty Lightning Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49160
+    ]
+  },
+  {
+    "id": 49161,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49159,
+    "name": "Mighty Lightning Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49161
+    ]
+  },
+  {
+    "id": 49162,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49159,
+    "name": "Mighty Lightning Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49162
+    ]
+  },
+  {
+    "id": 49163,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49163,
+    "name": "Mighty Shadow Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49163
+    ]
+  },
+  {
+    "id": 49164,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49163,
+    "name": "Mighty Shadow Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49164
+    ]
+  },
+  {
+    "id": 49165,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49163,
+    "name": "Mighty Shadow Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49165
+    ]
+  },
+  {
+    "id": 49166,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49163,
+    "name": "Mighty Shadow Lash",
+    "max_order": 1,
+    "spell_ids": [
+      49166
+    ]
+  },
+  {
+    "id": 49167,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49167,
+    "name": "Holy Hauling Salvation",
+    "max_order": 1,
+    "spell_ids": [
+      49167
+    ]
+  },
+  {
+    "id": 49168,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49167,
+    "name": "Holy Hauling Salvation",
+    "max_order": 1,
+    "spell_ids": [
+      49168
+    ]
+  },
+  {
+    "id": 49169,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49167,
+    "name": "Holy Hauling Salvation",
+    "max_order": 1,
+    "spell_ids": [
+      49169
+    ]
+  },
+  {
+    "id": 49170,
+    "type": 7,
+    "weapon": 131072,
+    "group": 49167,
+    "name": "Holy Hauling Salvation",
+    "max_order": 1,
+    "spell_ids": [
+      49170
+    ]
+  },
+  {
+    "id": 49171,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49171,
+    "name": "Reincarnation: Sin",
+    "max_order": 1,
+    "spell_ids": [
+      49171
+    ]
+  },
+  {
+    "id": 49172,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49171,
+    "name": "Reincarnation: Sin",
+    "max_order": 1,
+    "spell_ids": [
+      49172
+    ]
+  },
+  {
+    "id": 49173,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49171,
+    "name": "Reincarnation: Sin",
+    "max_order": 1,
+    "spell_ids": [
+      49173
+    ]
+  },
+  {
+    "id": 49174,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49171,
+    "name": "Reincarnation: Sin",
+    "max_order": 1,
+    "spell_ids": [
+      49174
+    ]
+  },
+  {
+    "id": 49175,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49175,
+    "name": "Reincarnation: Punishment",
+    "max_order": 1,
+    "spell_ids": [
+      49175
+    ]
+  },
+  {
+    "id": 49176,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49175,
+    "name": "Reincarnation: Punishment",
+    "max_order": 1,
+    "spell_ids": [
+      49176
+    ]
+  },
+  {
+    "id": 49177,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49175,
+    "name": "Reincarnation: Punishment",
+    "max_order": 1,
+    "spell_ids": [
+      49177
+    ]
+  },
+  {
+    "id": 49178,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49175,
+    "name": "Reincarnation: Punishment",
+    "max_order": 1,
+    "spell_ids": [
+      49178
+    ]
+  },
+  {
+    "id": 49179,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49179,
+    "name": "Blood Whip: Entwining",
+    "max_order": 1,
+    "spell_ids": [
+      49179
+    ]
+  },
+  {
+    "id": 49180,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49179,
+    "name": "Blood Whip: Entwining",
+    "max_order": 1,
+    "spell_ids": [
+      49180
+    ]
+  },
+  {
+    "id": 49181,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49179,
+    "name": "Blood Whip: Entwining",
+    "max_order": 1,
+    "spell_ids": [
+      49181
+    ]
+  },
+  {
+    "id": 49182,
+    "type": 9,
+    "weapon": 131072,
+    "group": 49179,
+    "name": "Blood Whip: Entwining",
+    "max_order": 1,
+    "spell_ids": [
+      49182
+    ]
+  },
+  {
+    "id": 49183,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49183,
+    "name": "Shadow Slash: Break",
+    "max_order": 1,
+    "spell_ids": [
+      49183
+    ]
+  },
+  {
+    "id": 49184,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49183,
+    "name": "Shadow Slash: Break",
+    "max_order": 1,
+    "spell_ids": [
+      49184
+    ]
+  },
+  {
+    "id": 49185,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49183,
+    "name": "Shadow Slash: Break",
+    "max_order": 1,
+    "spell_ids": [
+      49185
+    ]
+  },
+  {
+    "id": 49186,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49183,
+    "name": "Shadow Slash: Break",
+    "max_order": 1,
+    "spell_ids": [
+      49186
+    ]
+  },
+  {
+    "id": 49187,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49187,
+    "name": "Shadow Slash: Strike",
+    "max_order": 1,
+    "spell_ids": [
+      49187
+    ]
+  },
+  {
+    "id": 49188,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49187,
+    "name": "Shadow Slash: Strike",
+    "max_order": 1,
+    "spell_ids": [
+      49188
+    ]
+  },
+  {
+    "id": 49189,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49187,
+    "name": "Shadow Slash: Strike",
+    "max_order": 1,
+    "spell_ids": [
+      49189
+    ]
+  },
+  {
+    "id": 49190,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49187,
+    "name": "Shadow Slash: Strike",
+    "max_order": 1,
+    "spell_ids": [
+      49190
+    ]
+  },
+  {
+    "id": 49191,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49191,
+    "name": "Burning Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49191
+    ]
+  },
+  {
+    "id": 49192,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49191,
+    "name": "Burning Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49192
+    ]
+  },
+  {
+    "id": 49193,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49191,
+    "name": "Burning Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49193
+    ]
+  },
+  {
+    "id": 49194,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49191,
+    "name": "Burning Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49194
+    ]
+  },
+  {
+    "id": 49195,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49195,
+    "name": "Hellish Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49195
+    ]
+  },
+  {
+    "id": 49196,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49195,
+    "name": "Hellish Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49196
+    ]
+  },
+  {
+    "id": 49197,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49195,
+    "name": "Hellish Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49197
+    ]
+  },
+  {
+    "id": 49198,
+    "type": 12,
+    "weapon": 133120,
+    "group": 49195,
+    "name": "Hellish Darkflame Magic Realm",
+    "max_order": 1,
+    "spell_ids": [
+      49198
+    ]
+  },
+  {
+    "id": 49199,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49199,
+    "name": "Annihilating Scorching Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49199
+    ]
+  },
+  {
+    "id": 49200,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49199,
+    "name": "Annihilating Scorching Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49200
+    ]
+  },
+  {
+    "id": 49201,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49199,
+    "name": "Annihilating Scorching Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49201
+    ]
+  },
+  {
+    "id": 49202,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49199,
+    "name": "Annihilating Scorching Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49202
+    ]
+  },
+  {
+    "id": 49203,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49203,
+    "name": "Annihilating Pyroblast Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49203
+    ]
+  },
+  {
+    "id": 49204,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49203,
+    "name": "Annihilating Pyroblast Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49204
+    ]
+  },
+  {
+    "id": 49205,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49203,
+    "name": "Annihilating Pyroblast Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49205
+    ]
+  },
+  {
+    "id": 49206,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49203,
+    "name": "Annihilating Pyroblast Wheel",
+    "max_order": 1,
+    "spell_ids": [
+      49206
+    ]
+  },
+  {
+    "id": 49207,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49207,
+    "name": "Frost Ice Spike",
+    "max_order": 1,
+    "spell_ids": [
+      49207
+    ]
+  },
+  {
+    "id": 49208,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49207,
+    "name": "Frost Ice Spike",
+    "max_order": 1,
+    "spell_ids": [
+      49208
+    ]
+  },
+  {
+    "id": 49209,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49207,
+    "name": "Frost Ice Spike",
+    "max_order": 1,
+    "spell_ids": [
+      49209
+    ]
+  },
+  {
+    "id": 49210,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49207,
+    "name": "Frost Ice Spike",
+    "max_order": 1,
+    "spell_ids": [
+      49210
+    ]
+  },
+  {
+    "id": 49211,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49211,
+    "name": "Shadow Ice Stab",
+    "max_order": 1,
+    "spell_ids": [
+      49211
+    ]
+  },
+  {
+    "id": 49212,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49211,
+    "name": "Shadow Ice Stab",
+    "max_order": 1,
+    "spell_ids": [
+      49212
+    ]
+  },
+  {
+    "id": 49213,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49211,
+    "name": "Shadow Ice Stab",
+    "max_order": 1,
+    "spell_ids": [
+      49213
+    ]
+  },
+  {
+    "id": 49214,
+    "type": 12,
+    "weapon": 163840,
+    "group": 49211,
+    "name": "Shadow Ice Stab",
+    "max_order": 1,
+    "spell_ids": [
+      49214
+    ]
+  }
+]

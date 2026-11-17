@@ -1,0 +1,14 @@
+{
+  "server": "100.64.0.10",
+  "login_port": 6543,
+  "files": [
+    {
+      "file": "connect.ini",
+      "sha256": "eb0c4a7b74efbc765cade418c3bbd28a0df0c67a87345b93a43189e8bf16fb9a"
+    },
+    {
+      "file": "connects.ini",
+      "sha256": "18003e230bad2e1df0041fd51c2e2a98e92d27aea9950e773443146a7744602e"
+    }
+  ]
+}

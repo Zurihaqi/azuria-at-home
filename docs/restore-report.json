@@ -1,0 +1,15 @@
+{
+  "FFAccount": {
+    "public_tables": 24
+  },
+  "FFDB1": {
+    "public_tables": 178
+  },
+  "FFMember": {
+    "public_tables": 14
+  },
+  "restored_accounts": 3,
+  "restored_characters": 0,
+  "result": "passed_database_restore_in_isolated_cluster",
+  "limits": "No characters existed at backup time. Full VM/gameplay restoration remains untested."
+}

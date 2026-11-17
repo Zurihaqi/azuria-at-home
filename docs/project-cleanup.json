@@ -1,0 +1,121 @@
+{
+  "timestamp_utc": "2026-10-29T14:11:14.5195079Z",
+  "root": "D:\\Games\\Aura Kingdom Private Server",
+  "removed": [
+    {
+      "path": "client\\Aura Kingdom V15 Clean",
+      "bytes": 27251345257,
+      "files": 111670
+    },
+    {
+      "path": "staging\\yokohiro",
+      "bytes": 2220587272,
+      "files": 4216
+    },
+    {
+      "path": "staging\\ultimate\\hxsy\\ZoneServer\\ZoneServer.damage-cap-test",
+      "bytes": 496496884,
+      "files": 1
+    },
+    {
+      "path": "downloads\\client",
+      "bytes": 11130400277,
+      "files": 1
+    },
+    {
+      "path": "downloads\\server",
+      "bytes": 644500652,
+      "files": 2
+    },
+    {
+      "path": "downloads\\bins",
+      "bytes": 192044518,
+      "files": 1
+    },
+    {
+      "path": "downloads\\database",
+      "bytes": 0,
+      "files": 0
+    },
+    {
+      "path": "downloads\\gatewayfix",
+      "bytes": 0,
+      "files": 0
+    },
+    {
+      "path": "downloads\\music",
+      "bytes": 750662324,
+      "files": 153
+    },
+    {
+      "path": "downloads\\official-client",
+      "bytes": 110765619,
+      "files": 6
+    },
+    {
+      "path": "downloads\\map-compat-source.tar.gz",
+      "bytes": 44734725,
+      "files": 1
+    },
+    {
+      "path": "downloads\\setup.tar",
+      "bytes": 204800,
+      "files": 1
+    },
+    {
+      "path": "downloads\\MEGAcmdSetup64.exe",
+      "bytes": 47016144,
+      "files": 1
+    },
+    {
+      "path": "downloads\\megacmd-page.html",
+      "bytes": 153011,
+      "files": 1
+    },
+    {
+      "path": "downloads\\vm-progress.png",
+      "bytes": 3070,
+      "files": 1
+    }
+  ],
+  "total_removed_bytes": 42888914553,
+  "preserved": [
+    "Active Requiem client",
+    "VM disks and snapshot chain",
+    "All private backups and credentials",
+    "Dashboard and bot code",
+    "Primary server research files in staging/ultimate",
+    "Original V15 recovered tables",
+    "Debian ISO referenced by VirtualBox"
+  ],
+  "protected_sha256": {
+    "bots\\probe_login.py": "BA9D15A3D6F5B05C115634AD4CD96971FA222D43845591E33F2AF4DBB0C2B01F",
+    "ops\\Start-Server.ps1": "F9AB55199DEA06B7FDB2BA1815B37E1FB2578B2B973EE2A18BBA27F6FB39ABE3",
+    "client\\Requiem Aurakingdom\\data\\db\\C_Mission.ini": "521E13C09E7582C7ECD1DEEFA75E09239ADA9D001D25837ED27517B4BB0E577E",
+    "client\\Requiem Aurakingdom\\Game.exe": "E4E30CC93E532DD9C0949845920B61C0D2B6A28870BDE98BDF59D1ED3CA1F90D",
+    "staging\\ultimate\\hxsy\\ZoneServer\\ZoneServer": "363784BD678708BFB54C767B7A2EB33E4313E0BB18A4BC28CEBEC051224BD42F",
+    "client\\Requiem Aurakingdom\\data\\db\\C_Item.ini": "53BA8A93BAE4A199A82726E788E80CF764FF10D8FABCCA684DE223127D068120",
+    "client\\Requiem Aurakingdom\\game.bin": "242D9908FEBED1427E56EAAEF298AF27050F538D1F40854161F8F353D057BC1F",
+    "client\\Requiem Aurakingdom\\connect.ini": "EB0C4A7B74EFBC765CADE418C3BBD28A0DF0C67A87345B93A43189E8BF16FB9A",
+    "dashboard\\server.py": "2BA64E156BEF07A6C8098A1A71072BA592EEC58D0EC63A9665C1AAE9202480C3"
+  },
+  "protected_files_verified": true,
+  "remaining_project_bytes": 59316702817,
+  "remaining_top_level_bytes": {
+    "client": 30585511198,
+    "vm": 24432240549,
+    "staging": 2543183874,
+    "private": 1161721717,
+    "downloads": 412691080,
+    "ops": 93102122,
+    "docs": 86265720,
+    "bots": 1237359,
+    "vendor": 521197,
+    "dashboard": 224158,
+    "START-HERE.md": 2056,
+    "Play Aura Kingdom.lnk": 1488,
+    "Start Dashboard.cmd": 125,
+    "Start Server.cmd": 114,
+    ".gitignore": 60
+  }
+}

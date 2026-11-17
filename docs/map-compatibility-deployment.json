@@ -1,0 +1,30 @@
+{
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\map-compatibility-20261025T080028Z",
+  "scenes_audited": 866,
+  "files_restored": 331,
+  "scene_files_restored": 323,
+  "collision_files_restored": 8,
+  "geometry_remaps_fixed": [
+    "S703.ini",
+    "S706.ini",
+    "S709.ini",
+    "S714.ini",
+    "S719.ini",
+    "S720.ini"
+  ],
+  "all_866_scenes_match_original_archive": true,
+  "render_models_checked": 153,
+  "render_models_verified": 152,
+  "unchanged_scenes_with_unverified_model": [
+    {
+      "path": "map/model/S048/S048.fsm",
+      "crc": "93a88806",
+      "original_crc": "29a409d2",
+      "matches_original": false
+    }
+  ],
+  "original_model_download": "MEGA returned HTTP 509; S048 model left untouched. Its dependent scene configs already matched the server and were not changed.",
+  "server_restarted": false,
+  "database_modified": false,
+  "validation": "Original scene CRCs and post-write SHA256 verified; Sky Tower and Gaia Chronicle gameplay checks pending"
+}

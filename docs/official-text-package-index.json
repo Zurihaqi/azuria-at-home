@@ -1,0 +1,51 @@
+[
+  {
+    "name": "data\\db\\C_Biology.ini",
+    "offset": 8970841,
+    "packed": 788181,
+    "size": 4204802,
+    "pkg": 361
+  },
+  {
+    "name": "data\\db\\C_Enchant.ini",
+    "offset": 3202743,
+    "packed": 1645894,
+    "size": 7370090,
+    "pkg": 362
+  },
+  {
+    "name": "data\\db\\C_EquipSet.ini",
+    "offset": 4848637,
+    "packed": 13040,
+    "size": 32571,
+    "pkg": 362
+  },
+  {
+    "name": "data\\db\\C_Item.ini",
+    "offset": 5231492,
+    "packed": 1076166,
+    "size": 4988394,
+    "pkg": 362
+  },
+  {
+    "name": "data\\db\\C_ItemMall.ini",
+    "offset": 6393803,
+    "packed": 804532,
+    "size": 4318075,
+    "pkg": 362
+  },
+  {
+    "name": "data\\db\\C_Mission.ini",
+    "offset": 7294163,
+    "packed": 328086,
+    "size": 1112012,
+    "pkg": 362
+  },
+  {
+    "name": "data\\db\\C_Title.ini",
+    "offset": 613,
+    "packed": 160844,
+    "size": 501230,
+    "pkg": 363
+  }
+]

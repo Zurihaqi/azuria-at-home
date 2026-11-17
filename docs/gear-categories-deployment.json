@@ -1,0 +1,19 @@
+{
+  "backup": "/var/backups/aurakingdom/pre-gear-categories-20261024T153057Z",
+  "items": 3630,
+  "sections": 40,
+  "point": 1,
+  "special_price": 0,
+  "original_shop_stock_unchanged": true,
+  "quest_tables_unchanged": true,
+  "character": "Zrymund",
+  "level": 99,
+  "spare_attack_points": 1000,
+  "spare_defense_points": 1000,
+  "weapon_mastery_levels": {
+    "0": 70,
+    "1": 70
+  },
+  "mastery_cap_source": "Live CFormula AllFormulaParas +0x8d8 = 70; SetWeaponExpertLevel accepts types 0 and 1",
+  "validation": "Database values and quest/original stock hashes verified; runtime/client validation pending"
+}

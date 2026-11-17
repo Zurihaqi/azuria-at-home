@@ -1,0 +1,17 @@
+[
+  {
+    "path": "downloads\\server\\hxsy.rar",
+    "bytes": 285958615,
+    "sha256": "65d96cfd1778060ab80bfd88bfcf185c69515d3bf50cea7662b0d9135e377bef"
+  },
+  {
+    "path": "downloads\\server\\hxsy.zip",
+    "bytes": 358542037,
+    "sha256": "ff7e039fe3300050d85f1d2c6c3abcdda2f84c076217343a82246ad3953f2b0d"
+  },
+  {
+    "path": "downloads\\bins\\BINS.rar",
+    "bytes": 192044518,
+    "sha256": "92b80a3a668fb2bce434f7f2fd575e67fe2a5c54d09d7d910ae120f872ce9664"
+  }
+]

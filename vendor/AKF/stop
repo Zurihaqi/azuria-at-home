@@ -1,0 +1,138 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+
+AK_STOP_VERSION="2.0.0"
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+
+if [[ -r "$SCRIPT_DIR/common.sh" ]]; then
+    . "$SCRIPT_DIR/common.sh"
+elif [[ -r "/root/hxsy/common.sh" ]]; then
+    . "/root/hxsy/common.sh"
+else
+    echo "ERROR: common.sh not found next to this script." >&2
+    exit 1
+fi
+
+ak_conf_load
+INSTALL_DIR="$SCRIPT_DIR"
+[[ -d ${AK_INSTALL_DIR:-} && -x "${AK_INSTALL_DIR:-}/stop" ]] && INSTALL_DIR="$AK_INSTALL_DIR"
+
+KEEP_DAYS=14
+GRACE_SECONDS=20
+
+usage() {
+    cat <<EOF
+Aura Kingdom Server shutdown ${AK_STOP_VERSION}
+
+Usage: ./stop [options]
+
+  --dir=PATH      Override the installation folder
+  --keep-logs     Do not archive the current log files
+  --help          Show this text
+EOF
+}
+
+KEEP_LOGS=0
+for arg in "$@"; do
+    case "$arg" in
+        --dir=*)     INSTALL_DIR="${arg#*=}" ;;
+        --keep-logs) KEEP_LOGS=1 ;;
+        --help|-h)   usage; exit 0 ;;
+        *)           usage; exit 1 ;;
+    esac
+done
+
+INSTALL_DIR="${INSTALL_DIR%/}"
+LOG_DIR="$INSTALL_DIR/Logs"
+RUN_DIR="$LOG_DIR/run"
+ARCHIVE_DIR="$LOG_DIR/archive/$(date +%Y-%m-%d)"
+
+[[ -d $INSTALL_DIR ]] || { echo "$(t not_installed "$INSTALL_DIR")" >&2; exit 1; }
+
+mkdir -p "$LOG_DIR" "$RUN_DIR"
+ak_log_init "$LOG_DIR/shutdown.log"
+
+pid_file() { printf '%s/%s.pid' "$RUN_DIR" "$1"; }
+
+server_pid() {
+    ak_server_pid "$INSTALL_DIR" "$1" "$(pid_file "$1")"
+}
+
+stop_server() {
+    local name="$1" pid i round forced=0 started=0
+
+    for round in 1 2 3; do
+        pid=$(server_pid "$name") || break
+
+        if (( started == 0 )); then
+            ui_step_start "$(t srv_stop "$name")"
+            started=1
+        fi
+
+        kill -TERM "$pid" 2>/dev/null || true
+        for (( i = 0; i < GRACE_SECONDS * 2; i++ )); do
+            [[ -d "/proc/$pid" ]] || break
+            sleep 0.5
+        done
+
+        if [[ -d "/proc/$pid" ]]; then
+            kill -KILL "$pid" 2>/dev/null || true
+            sleep 1
+            forced=1
+        fi
+    done
+
+    rm -f "$(pid_file "$name")"
+
+    if (( started == 0 )); then
+        ui_info "$(t srv_idle "$name")"
+    elif (( forced == 1 )); then
+        ui_step_end warn
+        ui_warn "$(t srv_forced "$name")"
+    else
+        ui_step_end ok "$(t srv_stopped "$name")"
+    fi
+    return 0
+}
+
+archive_logs() {
+    (( KEEP_LOGS == 1 )) && return 0
+    local moved=0 file name
+    mkdir -p "$ARCHIVE_DIR"
+
+    for name in "${AK_SERVERS[@]}"; do
+        while IFS= read -r file; do
+            [[ -s $file ]] || { rm -f "$file"; continue; }
+            mv "$file" "$ARCHIVE_DIR/${name}_$(date +%H%M%S)_$(basename "$file")"
+            moved=1
+        done < <(find "$INSTALL_DIR/$name" -maxdepth 1 -type f \( -name '*.log' -o -name '*.log.*' \) 2>/dev/null)
+
+        file="$LOG_DIR/$name.out"
+        if [[ -s $file ]]; then
+            mv "$file" "$ARCHIVE_DIR/${name}_$(date +%H%M%S).out"
+            moved=1
+        else
+            rm -f "$file"
+        fi
+    done
+
+    find "$LOG_DIR/archive" -mindepth 1 -maxdepth 1 -type d -mtime "+$KEEP_DAYS" -exec rm -rf {} + 2>/dev/null || true
+    find "$LOG_DIR/Startup" -maxdepth 1 -type f -mtime "+$KEEP_DAYS" -delete 2>/dev/null || true
+
+    (( moved == 1 )) && ui_info "$(t logs_archived "$ARCHIVE_DIR")" || rmdir "$ARCHIVE_DIR" 2>/dev/null || true
+    return 0
+}
+
+ui_banner "$(t stop_title)" "$INSTALL_DIR"
+
+AK_STEP_TOTAL=${#AK_SERVERS[@]}
+for (( idx = ${#AK_SERVERS[@]} - 1; idx >= 0; idx-- )); do
+    stop_server "${AK_SERVERS[$idx]}"
+done
+
+archive_logs
+
+printf '\n'
+ui_ok "$(t all_stopped)"
+printf '\n'

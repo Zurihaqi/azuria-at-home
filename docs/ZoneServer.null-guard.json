@@ -1,0 +1,19 @@
+{
+  "file": "/root/hxsy/ZoneServer/ZoneServer",
+  "original_sha256": "a396b0c6e25998821f831c177189c34e1aea8311fe0b10a00f29a079b3a0e798",
+  "patched_sha256": "433b43a6da745c137c90cc08b4b0dd5e1ea2a8add362cd4aa17338497622486c",
+  "guards": [
+    {
+      "site": "0xbc786c",
+      "skip": "0xbc7860",
+      "thunk": "0x16ba000",
+      "original": "6683380275ee"
+    },
+    {
+      "site": "0xbc7924",
+      "skip": "0xbc7918",
+      "thunk": "0x16ba018",
+      "original": "6683380275ee"
+    }
+  ]
+}

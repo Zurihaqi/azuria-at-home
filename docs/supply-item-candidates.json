@@ -1,0 +1,6248 @@
+{
+  "eidolon": [
+    {
+      "id": 11045,
+      "type": "69",
+      "name": "Small Experience Crystal",
+      "level": ""
+    },
+    {
+      "id": 11046,
+      "type": "69",
+      "name": "Medium Experience Crystal",
+      "level": ""
+    },
+    {
+      "id": 11047,
+      "type": "69",
+      "name": "Large Experience Crystal",
+      "level": ""
+    },
+    {
+      "id": 11048,
+      "type": "69",
+      "name": "Pure Experience Crystal",
+      "level": ""
+    },
+    {
+      "id": 11049,
+      "type": "63",
+      "name": "Eidolon Energy Crystal",
+      "level": ""
+    },
+    {
+      "id": 11188,
+      "type": "57",
+      "name": "Sparkling Evolutionary Beads",
+      "level": "50"
+    },
+    {
+      "id": 11189,
+      "type": "57",
+      "name": "Brilliant Evolutionary Beads",
+      "level": "60"
+    },
+    {
+      "id": 11712,
+      "type": "58",
+      "name": "Ancient Eidolon Fragments",
+      "level": ""
+    },
+    {
+      "id": 11825,
+      "type": "63",
+      "name": "Worn Out Card: Eidolon",
+      "level": ""
+    },
+    {
+      "id": 11949,
+      "type": "64",
+      "name": "Flashing Card: Eidolon",
+      "level": ""
+    },
+    {
+      "id": 14128,
+      "type": "62",
+      "name": "Two-star Eidolon Suit Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 14315,
+      "type": "62",
+      "name": "Two-star Eidolon Suit Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 16534,
+      "type": "69",
+      "name": "Dazzling Experience Crystal",
+      "level": ""
+    },
+    {
+      "id": 16541,
+      "type": "62",
+      "name": "Eidolon Pet: Heroism and Strength",
+      "level": ""
+    },
+    {
+      "id": 16840,
+      "type": "69",
+      "name": "Dazzling Experience Crystal (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 17330,
+      "type": "62",
+      "name": "Eidolon Fireworks Bag",
+      "level": "1"
+    },
+    {
+      "id": 17460,
+      "type": "62",
+      "name": "Eidolon Accessory Box (Flame)",
+      "level": ""
+    },
+    {
+      "id": 17461,
+      "type": "62",
+      "name": "Eidolon Accessory Box (Ice)",
+      "level": ""
+    },
+    {
+      "id": 17462,
+      "type": "62",
+      "name": "Eidolon Accessory Box (Storm)",
+      "level": ""
+    },
+    {
+      "id": 17463,
+      "type": "62",
+      "name": "Eidolon Accessory Box (Lightning)",
+      "level": ""
+    },
+    {
+      "id": 17464,
+      "type": "62",
+      "name": "Eidolon Accessory Box (Holy Light)",
+      "level": ""
+    },
+    {
+      "id": 17465,
+      "type": "62",
+      "name": "Eidolon Accessory Box (Dark)",
+      "level": ""
+    },
+    {
+      "id": 17467,
+      "type": "69",
+      "name": "Eidolon EXP Crystal (4 Million)",
+      "level": ""
+    },
+    {
+      "id": 17468,
+      "type": "69",
+      "name": "Eidolon EXP Crystal (40 Million)",
+      "level": ""
+    },
+    {
+      "id": 18617,
+      "type": "62",
+      "name": "Eidolons Contest Participation Pack",
+      "level": "10"
+    },
+    {
+      "id": 18652,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Ayako",
+      "level": ""
+    },
+    {
+      "id": 18653,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Muse",
+      "level": ""
+    },
+    {
+      "id": 18654,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Serena",
+      "level": ""
+    },
+    {
+      "id": 18655,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Astraea",
+      "level": ""
+    },
+    {
+      "id": 18656,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Harmonia",
+      "level": ""
+    },
+    {
+      "id": 18657,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Tyr",
+      "level": ""
+    },
+    {
+      "id": 18658,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Dante",
+      "level": ""
+    },
+    {
+      "id": 18659,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Bealdor",
+      "level": ""
+    },
+    {
+      "id": 18660,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Alucard",
+      "level": ""
+    },
+    {
+      "id": 18661,
+      "type": "63",
+      "name": "Fusion Formula: Special Eidolon Statue: Uriel",
+      "level": ""
+    },
+    {
+      "id": 18946,
+      "type": "68",
+      "name": "Taunting Eidolon Battle Scroll",
+      "level": "30"
+    },
+    {
+      "id": 19984,
+      "type": "69",
+      "name": "Experience Crystal (4 Million)",
+      "level": ""
+    },
+    {
+      "id": 20581,
+      "type": "57",
+      "name": "Eidolon Training Grounds",
+      "level": ""
+    },
+    {
+      "id": 20600,
+      "type": "57",
+      "name": "Eidolons Area - Cadilla Felwood",
+      "level": ""
+    },
+    {
+      "id": 20726,
+      "type": "69",
+      "name": "Gorgeous Eidolons XP Crystal",
+      "level": ""
+    },
+    {
+      "id": 20727,
+      "type": "69",
+      "name": "Eidolon XP Rainbow Crystal",
+      "level": ""
+    },
+    {
+      "id": 20728,
+      "type": "69",
+      "name": "Eidolon XP Stone",
+      "level": ""
+    },
+    {
+      "id": 20729,
+      "type": "69",
+      "name": "Gorgeous Eidolons XP Crystal (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 20730,
+      "type": "69",
+      "name": "Eidolon XP Rainbow Crystal (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 20731,
+      "type": "69",
+      "name": "Eidolon XP Stone (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 21658,
+      "type": "62",
+      "name": "Intermediate Eidolon Accessory Box (Flame)",
+      "level": ""
+    },
+    {
+      "id": 21659,
+      "type": "62",
+      "name": "Intermediate Eidolon Accessory Box (Ice)",
+      "level": ""
+    },
+    {
+      "id": 21660,
+      "type": "62",
+      "name": "Intermediate Eidolon Accessory Box (Storm)",
+      "level": ""
+    },
+    {
+      "id": 21661,
+      "type": "62",
+      "name": "Intermediate Eidolon Accessory Box (Lightning)",
+      "level": ""
+    },
+    {
+      "id": 21662,
+      "type": "62",
+      "name": "Intermediate Eidolon Accessory Box (Holy Light)",
+      "level": ""
+    },
+    {
+      "id": 21663,
+      "type": "62",
+      "name": "Intermediate Eidolon Accessory Box (Dark)",
+      "level": ""
+    },
+    {
+      "id": 21664,
+      "type": "62",
+      "name": "Lv.80 Eidolon Accessory Collection Chest",
+      "level": ""
+    },
+    {
+      "id": 23760,
+      "type": "57",
+      "name": "Eidolon Area - Knowledge Bank",
+      "level": ""
+    },
+    {
+      "id": 24005,
+      "type": "89",
+      "name": "Eidolon Statue: Demeter",
+      "level": ""
+    },
+    {
+      "id": 24006,
+      "type": "89",
+      "name": "Eidolon Poster (A)",
+      "level": ""
+    },
+    {
+      "id": 24007,
+      "type": "89",
+      "name": "Eidolon Poster (B)",
+      "level": ""
+    },
+    {
+      "id": 24008,
+      "type": "89",
+      "name": "Eidolon Poster (C)",
+      "level": ""
+    },
+    {
+      "id": 24009,
+      "type": "89",
+      "name": "Eidolon Statue: Hades",
+      "level": ""
+    },
+    {
+      "id": 24013,
+      "type": "89",
+      "name": "Eidolon Statue: Hermes",
+      "level": ""
+    },
+    {
+      "id": 24034,
+      "type": "89",
+      "name": "Eidolon Statue: Succubus",
+      "level": ""
+    },
+    {
+      "id": 24035,
+      "type": "89",
+      "name": "Eidolon Statue: Cerberus",
+      "level": ""
+    },
+    {
+      "id": 24040,
+      "type": "89",
+      "name": "Eidolon Statue: Idun",
+      "level": ""
+    },
+    {
+      "id": 24044,
+      "type": "89",
+      "name": "Eidolon Statue: Nidhogg",
+      "level": ""
+    },
+    {
+      "id": 24045,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Tyr",
+      "level": ""
+    },
+    {
+      "id": 24046,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Ayako",
+      "level": ""
+    },
+    {
+      "id": 24052,
+      "type": "89",
+      "name": "Eidolon Statue: Qingniao",
+      "level": ""
+    },
+    {
+      "id": 24053,
+      "type": "89",
+      "name": "Eidolon Statue: Festival Muramasa",
+      "level": ""
+    },
+    {
+      "id": 24054,
+      "type": "89",
+      "name": "Eidolon Statue: Elizabeth",
+      "level": ""
+    },
+    {
+      "id": 24055,
+      "type": "89",
+      "name": "Eidolon Statue: Seiryuu",
+      "level": ""
+    },
+    {
+      "id": 24058,
+      "type": "89",
+      "name": "Eidolon Statue: Aoandon",
+      "level": ""
+    },
+    {
+      "id": 24059,
+      "type": "89",
+      "name": "Eidolon Statue: Sif",
+      "level": ""
+    },
+    {
+      "id": 24060,
+      "type": "89",
+      "name": "Eidolon Statue: Ares",
+      "level": ""
+    },
+    {
+      "id": 24061,
+      "type": "89",
+      "name": "Eidolon Statue: Summer Alucard",
+      "level": ""
+    },
+    {
+      "id": 24062,
+      "type": "89",
+      "name": "Eidolon Statue: Summer Nidhogg",
+      "level": ""
+    },
+    {
+      "id": 24065,
+      "type": "89",
+      "name": "Eidolon Statue: Tsukuyomi",
+      "level": ""
+    },
+    {
+      "id": 24068,
+      "type": "89",
+      "name": "Eidolon Statue: Ullr",
+      "level": ""
+    },
+    {
+      "id": 24069,
+      "type": "89",
+      "name": "Eidolon Statue: Halloween Zashi",
+      "level": ""
+    },
+    {
+      "id": 24070,
+      "type": "89",
+      "name": "Eidolon Statue: Sakuya-hime",
+      "level": ""
+    },
+    {
+      "id": 24071,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Lumikki",
+      "level": ""
+    },
+    {
+      "id": 24074,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Alice",
+      "level": ""
+    },
+    {
+      "id": 24075,
+      "type": "89",
+      "name": "Eidolon Statue: Andrea",
+      "level": ""
+    },
+    {
+      "id": 24076,
+      "type": "89",
+      "name": "Eidolon Statue: Iwanaga-hime",
+      "level": ""
+    },
+    {
+      "id": 24077,
+      "type": "89",
+      "name": "Eidolon Statue: Urd",
+      "level": ""
+    },
+    {
+      "id": 24078,
+      "type": "89",
+      "name": "Eidolon Statue: Skuld",
+      "level": ""
+    },
+    {
+      "id": 24081,
+      "type": "89",
+      "name": "Eidolon Statue: Kingyo-hime",
+      "level": ""
+    },
+    {
+      "id": 24082,
+      "type": "89",
+      "name": "Eidolon Statue: Persephone",
+      "level": ""
+    },
+    {
+      "id": 24083,
+      "type": "89",
+      "name": "Eidolon Statue: Alina",
+      "level": ""
+    },
+    {
+      "id": 24084,
+      "type": "89",
+      "name": "Eidolon Statue: Summer Michaela",
+      "level": ""
+    },
+    {
+      "id": 24085,
+      "type": "89",
+      "name": "Eidolon Statue: Otohime",
+      "level": ""
+    },
+    {
+      "id": 24088,
+      "type": "89",
+      "name": "Eidolon Statue: Bastet",
+      "level": ""
+    },
+    {
+      "id": 24090,
+      "type": "89",
+      "name": "Eidolon Statue: Halloween Zephyrine",
+      "level": ""
+    },
+    {
+      "id": 24091,
+      "type": "89",
+      "name": "Eidolon Statue: Orochi",
+      "level": ""
+    },
+    {
+      "id": 24094,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Muse",
+      "level": ""
+    },
+    {
+      "id": 24095,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Amaterasu",
+      "level": ""
+    },
+    {
+      "id": 24096,
+      "type": "89",
+      "name": "Eidolon Statue: Festival Succubus",
+      "level": ""
+    },
+    {
+      "id": 24101,
+      "type": "89",
+      "name": "Eidolon Statue: Thumbelina",
+      "level": ""
+    },
+    {
+      "id": 24102,
+      "type": "89",
+      "name": "Eidolon Statue: Genbu",
+      "level": ""
+    },
+    {
+      "id": 24111,
+      "type": "89",
+      "name": "Eidolon Statue: Raphael",
+      "level": ""
+    },
+    {
+      "id": 24114,
+      "type": "89",
+      "name": "Eidolon Statue: Inaba",
+      "level": ""
+    },
+    {
+      "id": 24115,
+      "type": "89",
+      "name": "Eidolon Statue: Salome",
+      "level": ""
+    },
+    {
+      "id": 24116,
+      "type": "89",
+      "name": "Eidolon Statue: Summer Persephone",
+      "level": ""
+    },
+    {
+      "id": 24117,
+      "type": "89",
+      "name": "Eidolon Statue: Abe no Seimei",
+      "level": ""
+    },
+    {
+      "id": 24118,
+      "type": "89",
+      "name": "Eidolon Statue: Rachel",
+      "level": ""
+    },
+    {
+      "id": 24119,
+      "type": "89",
+      "name": "Eidolon Statue: Nekomata",
+      "level": ""
+    },
+    {
+      "id": 24120,
+      "type": "89",
+      "name": "Eidolon Statue: Queen of Hearts",
+      "level": ""
+    },
+    {
+      "id": 24122,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Raphael",
+      "level": ""
+    },
+    {
+      "id": 24123,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Idun",
+      "level": ""
+    },
+    {
+      "id": 24124,
+      "type": "89",
+      "name": "Eidolon Statue: Hestia",
+      "level": ""
+    },
+    {
+      "id": 24125,
+      "type": "89",
+      "name": "Eidolon Statue - Festival Elizabeth",
+      "level": ""
+    },
+    {
+      "id": 24130,
+      "type": "89",
+      "name": "Eidolon Statue: Little Red Riding Hood",
+      "level": ""
+    },
+    {
+      "id": 24133,
+      "type": "89",
+      "name": "Eidolon Statue: Komainu",
+      "level": ""
+    },
+    {
+      "id": 24138,
+      "type": "89",
+      "name": "Eidolon Statue: Percival",
+      "level": ""
+    },
+    {
+      "id": 24139,
+      "type": "89",
+      "name": "Eidolon Statue: Siren",
+      "level": ""
+    },
+    {
+      "id": 24145,
+      "type": "89",
+      "name": "Eidolon Statue: Qianyu",
+      "level": ""
+    },
+    {
+      "id": 24146,
+      "type": "89",
+      "name": "Eidolon Statue: Friga",
+      "level": ""
+    },
+    {
+      "id": 24147,
+      "type": "89",
+      "name": "Eidolon Statue: Hoder",
+      "level": ""
+    },
+    {
+      "id": 24172,
+      "type": "89",
+      "name": "Eidolon Statue: Alladim",
+      "level": ""
+    },
+    {
+      "id": 24174,
+      "type": "89",
+      "name": "Eidolon Statue: Kaguya",
+      "level": ""
+    },
+    {
+      "id": 24180,
+      "type": "89",
+      "name": "Eidolon Statue: Eris",
+      "level": ""
+    },
+    {
+      "id": 24181,
+      "type": "89",
+      "name": "Eidolon Statue: DaQiao",
+      "level": ""
+    },
+    {
+      "id": 24184,
+      "type": "89",
+      "name": "Eidolon Statue: Summer Shuten-douji",
+      "level": ""
+    },
+    {
+      "id": 24185,
+      "type": "89",
+      "name": "Eidolon Statue: Gaia",
+      "level": ""
+    },
+    {
+      "id": 24190,
+      "type": "89",
+      "name": "Eidolon Statue: Jormungandr",
+      "level": ""
+    },
+    {
+      "id": 24191,
+      "type": "89",
+      "name": "Eidolon Statue: Anubis",
+      "level": ""
+    },
+    {
+      "id": 24192,
+      "type": "89",
+      "name": "Eidolon Statue: Thor",
+      "level": ""
+    },
+    {
+      "id": 24193,
+      "type": "89",
+      "name": "Eidolon Statue: Santa Andrea",
+      "level": ""
+    },
+    {
+      "id": 24809,
+      "type": "89",
+      "name": "Eidolon Statue: Serif",
+      "level": ""
+    },
+    {
+      "id": 24810,
+      "type": "89",
+      "name": "Eidolon Statue: Merrilee",
+      "level": ""
+    },
+    {
+      "id": 24811,
+      "type": "89",
+      "name": "Eidolon Statue: Grimm",
+      "level": ""
+    },
+    {
+      "id": 24812,
+      "type": "89",
+      "name": "Eidolon Statue: Alessa",
+      "level": ""
+    },
+    {
+      "id": 24813,
+      "type": "89",
+      "name": "Eidolon Statue: Gigas",
+      "level": ""
+    },
+    {
+      "id": 24814,
+      "type": "89",
+      "name": "Eidolon Statue: Aelius",
+      "level": ""
+    },
+    {
+      "id": 24815,
+      "type": "89",
+      "name": "Eidolon Statue: Abraxas",
+      "level": ""
+    },
+    {
+      "id": 24816,
+      "type": "89",
+      "name": "Eidolon Statue: Eligos",
+      "level": ""
+    },
+    {
+      "id": 24817,
+      "type": "89",
+      "name": "Eidolon Statue: Sigrun",
+      "level": ""
+    },
+    {
+      "id": 24818,
+      "type": "89",
+      "name": "Eidolon Statue: Uzuriel",
+      "level": ""
+    },
+    {
+      "id": 24819,
+      "type": "89",
+      "name": "Eidolon Statue: Tanith",
+      "level": ""
+    },
+    {
+      "id": 24820,
+      "type": "89",
+      "name": "Eidolon Statue: Maja",
+      "level": ""
+    },
+    {
+      "id": 24821,
+      "type": "89",
+      "name": "Eidolon Statue: Bel-Chandra",
+      "level": ""
+    },
+    {
+      "id": 24822,
+      "type": "89",
+      "name": "Eidolon Statue: Vayu",
+      "level": ""
+    },
+    {
+      "id": 24823,
+      "type": "89",
+      "name": "Eidolon Statue: Nazrudin",
+      "level": ""
+    },
+    {
+      "id": 24824,
+      "type": "89",
+      "name": "Eidolon Statue: Yarnaros",
+      "level": ""
+    },
+    {
+      "id": 24825,
+      "type": "89",
+      "name": "Eidolon Statue: Ghodroon",
+      "level": ""
+    },
+    {
+      "id": 24826,
+      "type": "89",
+      "name": "Eidolon Statue: Quelkulan",
+      "level": ""
+    },
+    {
+      "id": 24827,
+      "type": "89",
+      "name": "Eidolon Statue: Zaahir",
+      "level": ""
+    },
+    {
+      "id": 24828,
+      "type": "89",
+      "name": "Eidolon Statue: Cyril",
+      "level": ""
+    },
+    {
+      "id": 24829,
+      "type": "89",
+      "name": "Eidolon Statue: Kotonoha",
+      "level": ""
+    },
+    {
+      "id": 24830,
+      "type": "89",
+      "name": "Eidolon Statue: Tigerius Caesar",
+      "level": ""
+    },
+    {
+      "id": 24831,
+      "type": "89",
+      "name": "Eidolon Statue: Bahadur",
+      "level": ""
+    },
+    {
+      "id": 24832,
+      "type": "89",
+      "name": "Eidolon Statue: Tsubaki",
+      "level": ""
+    },
+    {
+      "id": 24833,
+      "type": "89",
+      "name": "Eidolon Statue: Cleopawtra",
+      "level": ""
+    },
+    {
+      "id": 24834,
+      "type": "89",
+      "name": "Eidolon Statue: Serena",
+      "level": ""
+    },
+    {
+      "id": 24835,
+      "type": "89",
+      "name": "Eidolon Statue: Endora",
+      "level": ""
+    },
+    {
+      "id": 24836,
+      "type": "89",
+      "name": "Eidolon Statue: Vermilion",
+      "level": ""
+    },
+    {
+      "id": 24837,
+      "type": "89",
+      "name": "Eidolon Statue: Shirayuki",
+      "level": ""
+    },
+    {
+      "id": 24838,
+      "type": "89",
+      "name": "Eidolon Statue: Kaiser Zeta",
+      "level": ""
+    },
+    {
+      "id": 24839,
+      "type": "89",
+      "name": "Eidolon Statue: Hel",
+      "level": ""
+    },
+    {
+      "id": 24840,
+      "type": "89",
+      "name": "Eidolon Statue: Alucard",
+      "level": ""
+    },
+    {
+      "id": 24841,
+      "type": "89",
+      "name": "Eidolon Statue: Bealdor",
+      "level": ""
+    },
+    {
+      "id": 24842,
+      "type": "89",
+      "name": "Eidolon Statue: Kusanagi",
+      "level": ""
+    },
+    {
+      "id": 24843,
+      "type": "89",
+      "name": "Eidolon Statue: Hansel and Gretel",
+      "level": ""
+    },
+    {
+      "id": 24844,
+      "type": "89",
+      "name": "Eidolon Statue: Astraea",
+      "level": ""
+    },
+    {
+      "id": 24845,
+      "type": "89",
+      "name": "Eidolon Statue: Cesela",
+      "level": ""
+    },
+    {
+      "id": 24846,
+      "type": "89",
+      "name": "Eidolon Statue: Diao Chan",
+      "level": ""
+    },
+    {
+      "id": 24847,
+      "type": "89",
+      "name": "Eidolon Statue: Uriel",
+      "level": ""
+    },
+    {
+      "id": 24848,
+      "type": "89",
+      "name": "Eidolon Statue: Amaterasu",
+      "level": ""
+    },
+    {
+      "id": 24849,
+      "type": "89",
+      "name": "Eidolon Statue: Alice",
+      "level": ""
+    },
+    {
+      "id": 24850,
+      "type": "89",
+      "name": "Eidolon Statue: Ayako",
+      "level": ""
+    },
+    {
+      "id": 24892,
+      "type": "89",
+      "name": "Eidolon Statue: Eternia",
+      "level": ""
+    },
+    {
+      "id": 24895,
+      "type": "89",
+      "name": "Eidolon Statue: Yumikaze",
+      "level": ""
+    },
+    {
+      "id": 24896,
+      "type": "89",
+      "name": "Eidolon Statue: Zephyrine",
+      "level": ""
+    },
+    {
+      "id": 24900,
+      "type": "89",
+      "name": "Eidolon Statue: Dante",
+      "level": ""
+    },
+    {
+      "id": 24904,
+      "type": "89",
+      "name": "Eidolon Statue: Harmonia",
+      "level": ""
+    },
+    {
+      "id": 24906,
+      "type": "89",
+      "name": "Eidolon Statue: Faust",
+      "level": ""
+    },
+    {
+      "id": 24915,
+      "type": "89",
+      "name": "Eidolon Statue: Zashi",
+      "level": ""
+    },
+    {
+      "id": 24922,
+      "type": "89",
+      "name": "Eidolon Statue: Muse",
+      "level": ""
+    },
+    {
+      "id": 24925,
+      "type": "89",
+      "name": "Eidolon Statue: Lumikki",
+      "level": ""
+    },
+    {
+      "id": 24928,
+      "type": "89",
+      "name": "Eidolon Statue: Tyr",
+      "level": ""
+    },
+    {
+      "id": 24929,
+      "type": "89",
+      "name": "Eidolon Statue: Nalani",
+      "level": ""
+    },
+    {
+      "id": 24932,
+      "type": "89",
+      "name": "Eidolon Statue: Pandora",
+      "level": ""
+    },
+    {
+      "id": 24933,
+      "type": "89",
+      "name": "Eidolon Statue: Kitami",
+      "level": ""
+    },
+    {
+      "id": 24935,
+      "type": "89",
+      "name": "Eidolon Statue: Undine",
+      "level": ""
+    },
+    {
+      "id": 24936,
+      "type": "89",
+      "name": "Eidolon Statue: Verdandi",
+      "level": ""
+    },
+    {
+      "id": 24941,
+      "type": "89",
+      "name": "Special Eidolon Statue: Ayako",
+      "level": ""
+    },
+    {
+      "id": 24942,
+      "type": "89",
+      "name": "Special Eidolon Statue: Muse",
+      "level": ""
+    },
+    {
+      "id": 24943,
+      "type": "89",
+      "name": "Special Eidolon Statue: Serena",
+      "level": ""
+    },
+    {
+      "id": 24944,
+      "type": "89",
+      "name": "Special Eidolon Statue: Astraea",
+      "level": ""
+    },
+    {
+      "id": 24945,
+      "type": "89",
+      "name": "Special Eidolon Statue: Harmonia",
+      "level": ""
+    },
+    {
+      "id": 24946,
+      "type": "89",
+      "name": "Special Eidolon Statue: Tyr",
+      "level": ""
+    },
+    {
+      "id": 24947,
+      "type": "89",
+      "name": "Special Eidolon Statue: Dante",
+      "level": ""
+    },
+    {
+      "id": 24948,
+      "type": "89",
+      "name": "Special Eidolon Statue: Bealdor",
+      "level": ""
+    },
+    {
+      "id": 24949,
+      "type": "89",
+      "name": "Special Eidolon Statue: Alucard",
+      "level": ""
+    },
+    {
+      "id": 24950,
+      "type": "89",
+      "name": "Special Eidolon Statue: Uriel",
+      "level": ""
+    },
+    {
+      "id": 24951,
+      "type": "89",
+      "name": "Eidolon Pillow - Ayako",
+      "level": ""
+    },
+    {
+      "id": 24952,
+      "type": "89",
+      "name": "Eidolon Pillow - Muse",
+      "level": ""
+    },
+    {
+      "id": 24953,
+      "type": "89",
+      "name": "Eidolon Pillow - Serena",
+      "level": ""
+    },
+    {
+      "id": 24954,
+      "type": "89",
+      "name": "Eidolon Pillow - Astraea",
+      "level": ""
+    },
+    {
+      "id": 24955,
+      "type": "89",
+      "name": "Eidolon Pillow - Harmonia",
+      "level": ""
+    },
+    {
+      "id": 24956,
+      "type": "89",
+      "name": "Eidolon Pillow - Tyr",
+      "level": ""
+    },
+    {
+      "id": 24957,
+      "type": "89",
+      "name": "Eidolon Pillow - Dante",
+      "level": ""
+    },
+    {
+      "id": 24958,
+      "type": "89",
+      "name": "Eidolon Pillow - Bealdor",
+      "level": ""
+    },
+    {
+      "id": 24959,
+      "type": "89",
+      "name": "Eidolon Pillow - Alucard",
+      "level": ""
+    },
+    {
+      "id": 24960,
+      "type": "89",
+      "name": "Eidolon Pillow - Uriel",
+      "level": ""
+    },
+    {
+      "id": 24968,
+      "type": "89",
+      "name": "Eidolon Statue: Justicia",
+      "level": ""
+    },
+    {
+      "id": 24984,
+      "type": "89",
+      "name": "Eidolon Statue: Michaela",
+      "level": ""
+    },
+    {
+      "id": 24988,
+      "type": "89",
+      "name": "Eidolon Statue: Muramasa",
+      "level": ""
+    },
+    {
+      "id": 24989,
+      "type": "89",
+      "name": "Eidolon Statue: Venus",
+      "level": ""
+    },
+    {
+      "id": 24995,
+      "type": "89",
+      "name": "Eidolon Statue: Izanami",
+      "level": ""
+    },
+    {
+      "id": 24996,
+      "type": "89",
+      "name": "Eidolon Statue: Hebe",
+      "level": ""
+    },
+    {
+      "id": 24997,
+      "type": "89",
+      "name": "Eidolon Statue - Benkei",
+      "level": ""
+    },
+    {
+      "id": 25000,
+      "type": "89",
+      "name": "Eidolon Statue: Eirene",
+      "level": ""
+    },
+    {
+      "id": 28715,
+      "type": "57",
+      "name": "Superior Eidolon Emblem. Vitality of Spring",
+      "level": ""
+    },
+    {
+      "id": 31649,
+      "type": "57",
+      "name": "Eidolon Card",
+      "level": ""
+    },
+    {
+      "id": 31687,
+      "type": "57",
+      "name": "Eidolons Contest Ticket",
+      "level": ""
+    },
+    {
+      "id": 31980,
+      "type": "57",
+      "name": "Eidolon's Hand-Made Chocolate",
+      "level": ""
+    },
+    {
+      "id": 32094,
+      "type": "62",
+      "name": "Festival Eidolon Card Pack",
+      "level": ""
+    },
+    {
+      "id": 32157,
+      "type": "62",
+      "name": "Academic Eidolon Card Pack",
+      "level": ""
+    },
+    {
+      "id": 32201,
+      "type": "57",
+      "name": "Eidolons Meet and Greet Coupon",
+      "level": ""
+    },
+    {
+      "id": 32809,
+      "type": "62",
+      "name": "Sanctuary Festival Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 36318,
+      "type": "62",
+      "name": "Eidolon in Arms Fragment Bag (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 36344,
+      "type": "62",
+      "name": "Eidolon in Arms Fragment Bag II (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 37597,
+      "type": "61",
+      "name": "Eidolon Dark Set",
+      "level": ""
+    },
+    {
+      "id": 39197,
+      "type": "71",
+      "name": "GM Eidolon Accessory",
+      "level": "1"
+    },
+    {
+      "id": 39198,
+      "type": "73",
+      "name": "GM ATK Eidolon Boost",
+      "level": ""
+    },
+    {
+      "id": 39199,
+      "type": "73",
+      "name": "GM DEF Eidolon Boost",
+      "level": ""
+    },
+    {
+      "id": 39351,
+      "type": "81",
+      "name": "TEST Experience Crystal (GM)",
+      "level": "60"
+    },
+    {
+      "id": 39826,
+      "type": "71",
+      "name": "2201Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39827,
+      "type": "71",
+      "name": "2202Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39828,
+      "type": "71",
+      "name": "2203Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39829,
+      "type": "71",
+      "name": "2204Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39830,
+      "type": "71",
+      "name": "2205Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39831,
+      "type": "71",
+      "name": "2206Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39832,
+      "type": "71",
+      "name": "2207Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39833,
+      "type": "71",
+      "name": "2208Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39834,
+      "type": "71",
+      "name": "2209Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39835,
+      "type": "71",
+      "name": "2210Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39836,
+      "type": "71",
+      "name": "2212Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39837,
+      "type": "71",
+      "name": "2213Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39838,
+      "type": "71",
+      "name": "2214Eidolon Accessory",
+      "level": "10"
+    },
+    {
+      "id": 39972,
+      "type": "72",
+      "name": "Test Eidolon Energy",
+      "level": ""
+    },
+    {
+      "id": 40163,
+      "type": "69",
+      "name": "Eidolon XP Crystal",
+      "level": ""
+    },
+    {
+      "id": 40164,
+      "type": "69",
+      "name": "Eidolon XP Crystal (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40201,
+      "type": "57",
+      "name": "Brilliant Evolutionary Beads",
+      "level": "50"
+    },
+    {
+      "id": 40202,
+      "type": "57",
+      "name": "Brilliant Evolutionary Beads",
+      "level": "60"
+    },
+    {
+      "id": 40457,
+      "type": "83",
+      "name": "1-Star Eidolon Purification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40458,
+      "type": "83",
+      "name": "1-Star Eidolon Purification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40459,
+      "type": "83",
+      "name": "2-Star Eidolon Purification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40460,
+      "type": "83",
+      "name": "2-Star Eidolon Purification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40461,
+      "type": "83",
+      "name": "3-Star Eidolon Purification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40462,
+      "type": "83",
+      "name": "3-Star Eidolon Purification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40463,
+      "type": "83",
+      "name": "4-Star Eidolon Purification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40464,
+      "type": "83",
+      "name": "4-Star Eidolon Purification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40591,
+      "type": "57",
+      "name": "Brilliant Evolutionary Beads Coupon (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40711,
+      "type": "63",
+      "name": "Brilliant Evolutionary Beads Fragment",
+      "level": ""
+    },
+    {
+      "id": 40782,
+      "type": "57",
+      "name": "Eidolon Oath Ring",
+      "level": "80"
+    },
+    {
+      "id": 40785,
+      "type": "57",
+      "name": "Eidolon Oath Ring Coupon (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40835,
+      "type": "63",
+      "name": "Brilliant Evolutionary Beads Coupon (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40916,
+      "type": "57",
+      "name": "Eidolon Costume Voucher (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40951,
+      "type": "57",
+      "name": "Eidolon Den Expansion Coupon",
+      "level": ""
+    },
+    {
+      "id": 40952,
+      "type": "57",
+      "name": "Eidolon Den Expansion Coupon (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40953,
+      "type": "103",
+      "name": "Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 40954,
+      "type": "103",
+      "name": "Eidolon Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41049,
+      "type": "57",
+      "name": "Eidolon Wishing Coin",
+      "level": ""
+    },
+    {
+      "id": 41050,
+      "type": "57",
+      "name": "Eidolon Wishing Coin (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41053,
+      "type": "57",
+      "name": "Eidolon Exchange Voucher III (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41062,
+      "type": "57",
+      "name": "Eidolon Exchange Voucher IV (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41413,
+      "type": "57",
+      "name": "Eidolon Accessory Stat Shuffle Stone I",
+      "level": ""
+    },
+    {
+      "id": 41414,
+      "type": "57",
+      "name": "Eidolon Accessory Stat Shuffle Stone I (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 41419,
+      "type": "57",
+      "name": "Eidolon's Token Stat Shuffle Stone I",
+      "level": ""
+    },
+    {
+      "id": 41420,
+      "type": "57",
+      "name": "Eidolon's Token Stat Shuffle Stone I (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 45582,
+      "type": "57",
+      "name": "Brilliant Evolutionary Bead Fragment (Non-tradable)",
+      "level": "50"
+    },
+    {
+      "id": 45875,
+      "type": "89",
+      "name": "Eidolon Pillow - Serena",
+      "level": ""
+    },
+    {
+      "id": 45876,
+      "type": "89",
+      "name": "Eidolon Pillow - Alucard",
+      "level": ""
+    },
+    {
+      "id": 45877,
+      "type": "89",
+      "name": "Eidolon Pillow - Alucard",
+      "level": ""
+    },
+    {
+      "id": 45878,
+      "type": "89",
+      "name": "Eidolon Pillow - Alucard",
+      "level": ""
+    },
+    {
+      "id": 45879,
+      "type": "89",
+      "name": "Eidolon Pillow - Ayako",
+      "level": ""
+    },
+    {
+      "id": 45880,
+      "type": "89",
+      "name": "Eidolon Pillow - Ayako",
+      "level": ""
+    },
+    {
+      "id": 45881,
+      "type": "89",
+      "name": "Eidolons Pillow - Eternia",
+      "level": ""
+    },
+    {
+      "id": 45882,
+      "type": "89",
+      "name": "Eidolons Pillow - Eternia",
+      "level": ""
+    },
+    {
+      "id": 45958,
+      "type": "57",
+      "name": "Eidolon Exchange Voucher I (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45995,
+      "type": "57",
+      "name": "Eidolon Exchange Voucher II (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 46008,
+      "type": "57",
+      "name": "Valentine's Exchange Voucher: Male Eidolon",
+      "level": ""
+    },
+    {
+      "id": 46009,
+      "type": "57",
+      "name": "Valentine's Exchange Voucher: Female Eidolon",
+      "level": ""
+    },
+    {
+      "id": 46042,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 1",
+      "level": ""
+    },
+    {
+      "id": 46043,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 2",
+      "level": ""
+    },
+    {
+      "id": 46044,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 3",
+      "level": ""
+    },
+    {
+      "id": 46045,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 4",
+      "level": ""
+    },
+    {
+      "id": 46046,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 5",
+      "level": ""
+    },
+    {
+      "id": 46047,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 6",
+      "level": ""
+    },
+    {
+      "id": 46048,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 7",
+      "level": ""
+    },
+    {
+      "id": 46049,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 8",
+      "level": ""
+    },
+    {
+      "id": 46050,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 9",
+      "level": ""
+    },
+    {
+      "id": 46051,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 10",
+      "level": ""
+    },
+    {
+      "id": 46052,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 11",
+      "level": ""
+    },
+    {
+      "id": 46053,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 12",
+      "level": ""
+    },
+    {
+      "id": 46054,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 13",
+      "level": ""
+    },
+    {
+      "id": 46055,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 14",
+      "level": ""
+    },
+    {
+      "id": 46056,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 15",
+      "level": ""
+    },
+    {
+      "id": 46057,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 16",
+      "level": ""
+    },
+    {
+      "id": 46058,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 17",
+      "level": ""
+    },
+    {
+      "id": 46059,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 18",
+      "level": ""
+    },
+    {
+      "id": 46060,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 19",
+      "level": ""
+    },
+    {
+      "id": 46061,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 20",
+      "level": ""
+    },
+    {
+      "id": 46062,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 21",
+      "level": ""
+    },
+    {
+      "id": 46063,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 22",
+      "level": ""
+    },
+    {
+      "id": 46064,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 23",
+      "level": ""
+    },
+    {
+      "id": 46065,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 24",
+      "level": ""
+    },
+    {
+      "id": 46066,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 25",
+      "level": ""
+    },
+    {
+      "id": 46067,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 26",
+      "level": ""
+    },
+    {
+      "id": 46068,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 27",
+      "level": ""
+    },
+    {
+      "id": 46069,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 28",
+      "level": ""
+    },
+    {
+      "id": 46070,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 29",
+      "level": ""
+    },
+    {
+      "id": 46071,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 30",
+      "level": ""
+    },
+    {
+      "id": 46072,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 31",
+      "level": ""
+    },
+    {
+      "id": 46073,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 32",
+      "level": ""
+    },
+    {
+      "id": 46074,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 33",
+      "level": ""
+    },
+    {
+      "id": 46075,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 34",
+      "level": ""
+    },
+    {
+      "id": 46076,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 35",
+      "level": ""
+    },
+    {
+      "id": 46077,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 36",
+      "level": ""
+    },
+    {
+      "id": 46078,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 37",
+      "level": ""
+    },
+    {
+      "id": 46079,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 38",
+      "level": ""
+    },
+    {
+      "id": 46080,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 39",
+      "level": ""
+    },
+    {
+      "id": 46081,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 40",
+      "level": ""
+    },
+    {
+      "id": 46082,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 41",
+      "level": ""
+    },
+    {
+      "id": 46083,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 42",
+      "level": ""
+    },
+    {
+      "id": 46084,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 43",
+      "level": ""
+    },
+    {
+      "id": 46085,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 44",
+      "level": ""
+    },
+    {
+      "id": 46086,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 45",
+      "level": ""
+    },
+    {
+      "id": 46087,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 46",
+      "level": ""
+    },
+    {
+      "id": 46088,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 47",
+      "level": ""
+    },
+    {
+      "id": 46089,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 48",
+      "level": ""
+    },
+    {
+      "id": 46090,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 49",
+      "level": ""
+    },
+    {
+      "id": 46091,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 50",
+      "level": ""
+    },
+    {
+      "id": 46092,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 51",
+      "level": ""
+    },
+    {
+      "id": 46093,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 52",
+      "level": ""
+    },
+    {
+      "id": 46094,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 53",
+      "level": ""
+    },
+    {
+      "id": 46095,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 54",
+      "level": ""
+    },
+    {
+      "id": 46096,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 55",
+      "level": ""
+    },
+    {
+      "id": 46097,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 56",
+      "level": ""
+    },
+    {
+      "id": 46098,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 57",
+      "level": ""
+    },
+    {
+      "id": 46099,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 58",
+      "level": ""
+    },
+    {
+      "id": 46100,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 59",
+      "level": ""
+    },
+    {
+      "id": 46101,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 60",
+      "level": ""
+    },
+    {
+      "id": 46102,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 61",
+      "level": ""
+    },
+    {
+      "id": 46103,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 62",
+      "level": ""
+    },
+    {
+      "id": 46104,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 63",
+      "level": ""
+    },
+    {
+      "id": 46105,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 64",
+      "level": ""
+    },
+    {
+      "id": 46106,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 65",
+      "level": ""
+    },
+    {
+      "id": 46107,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 66",
+      "level": ""
+    },
+    {
+      "id": 46108,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 67",
+      "level": ""
+    },
+    {
+      "id": 46109,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 68",
+      "level": ""
+    },
+    {
+      "id": 46110,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 69",
+      "level": ""
+    },
+    {
+      "id": 46111,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 70",
+      "level": ""
+    },
+    {
+      "id": 46112,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 71",
+      "level": ""
+    },
+    {
+      "id": 46113,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 72",
+      "level": ""
+    },
+    {
+      "id": 46114,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 73",
+      "level": ""
+    },
+    {
+      "id": 46115,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 74",
+      "level": ""
+    },
+    {
+      "id": 46116,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 75",
+      "level": ""
+    },
+    {
+      "id": 46117,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 76",
+      "level": ""
+    },
+    {
+      "id": 46118,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 77",
+      "level": ""
+    },
+    {
+      "id": 46119,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 78",
+      "level": ""
+    },
+    {
+      "id": 46120,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 79",
+      "level": ""
+    },
+    {
+      "id": 46121,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 80",
+      "level": ""
+    },
+    {
+      "id": 46122,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 81",
+      "level": ""
+    },
+    {
+      "id": 46123,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 82",
+      "level": ""
+    },
+    {
+      "id": 46124,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 83",
+      "level": ""
+    },
+    {
+      "id": 46125,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 84",
+      "level": ""
+    },
+    {
+      "id": 46126,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 85",
+      "level": ""
+    },
+    {
+      "id": 46127,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 86",
+      "level": ""
+    },
+    {
+      "id": 46128,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 87",
+      "level": ""
+    },
+    {
+      "id": 46129,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 88",
+      "level": ""
+    },
+    {
+      "id": 46130,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 89",
+      "level": ""
+    },
+    {
+      "id": 46131,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 90",
+      "level": ""
+    },
+    {
+      "id": 46132,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 91",
+      "level": ""
+    },
+    {
+      "id": 46133,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 92",
+      "level": ""
+    },
+    {
+      "id": 46134,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 93",
+      "level": ""
+    },
+    {
+      "id": 46135,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 94",
+      "level": ""
+    },
+    {
+      "id": 46136,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 95",
+      "level": ""
+    },
+    {
+      "id": 46137,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 96",
+      "level": ""
+    },
+    {
+      "id": 46138,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 97",
+      "level": ""
+    },
+    {
+      "id": 46139,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 98",
+      "level": ""
+    },
+    {
+      "id": 46140,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 99",
+      "level": ""
+    },
+    {
+      "id": 46141,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 100",
+      "level": ""
+    },
+    {
+      "id": 46260,
+      "type": "57",
+      "name": "Japanese Version Expansion Update Souvenir - Eidolon Exchange Voucher",
+      "level": ""
+    },
+    {
+      "id": 46314,
+      "type": "57",
+      "name": "Title: Eidolon Challenger",
+      "level": ""
+    },
+    {
+      "id": 46420,
+      "type": "57",
+      "name": "Japanese Version Valentine's Day Eidolons Voucher",
+      "level": ""
+    },
+    {
+      "id": 46466,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 101",
+      "level": ""
+    },
+    {
+      "id": 46467,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 102",
+      "level": ""
+    },
+    {
+      "id": 46468,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 103",
+      "level": ""
+    },
+    {
+      "id": 46469,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 104",
+      "level": ""
+    },
+    {
+      "id": 46470,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 105",
+      "level": ""
+    },
+    {
+      "id": 46471,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 106",
+      "level": ""
+    },
+    {
+      "id": 46472,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 107",
+      "level": ""
+    },
+    {
+      "id": 46473,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 108",
+      "level": ""
+    },
+    {
+      "id": 46474,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 109",
+      "level": ""
+    },
+    {
+      "id": 46475,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 110",
+      "level": ""
+    },
+    {
+      "id": 46476,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 111",
+      "level": ""
+    },
+    {
+      "id": 46477,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 112",
+      "level": ""
+    },
+    {
+      "id": 46478,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 113",
+      "level": ""
+    },
+    {
+      "id": 46479,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 114",
+      "level": ""
+    },
+    {
+      "id": 46480,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 115",
+      "level": ""
+    },
+    {
+      "id": 46481,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 116",
+      "level": ""
+    },
+    {
+      "id": 46482,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 117",
+      "level": ""
+    },
+    {
+      "id": 46483,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 118",
+      "level": ""
+    },
+    {
+      "id": 46484,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 119",
+      "level": ""
+    },
+    {
+      "id": 46485,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 120",
+      "level": ""
+    },
+    {
+      "id": 46486,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 121",
+      "level": ""
+    },
+    {
+      "id": 46487,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 122",
+      "level": ""
+    },
+    {
+      "id": 46488,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 123",
+      "level": ""
+    },
+    {
+      "id": 46489,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 124",
+      "level": ""
+    },
+    {
+      "id": 46490,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 125",
+      "level": ""
+    },
+    {
+      "id": 46491,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 126",
+      "level": ""
+    },
+    {
+      "id": 46492,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 127",
+      "level": ""
+    },
+    {
+      "id": 46493,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 128",
+      "level": ""
+    },
+    {
+      "id": 46494,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 129",
+      "level": ""
+    },
+    {
+      "id": 46495,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 130",
+      "level": ""
+    },
+    {
+      "id": 46496,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 131",
+      "level": ""
+    },
+    {
+      "id": 46497,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 132",
+      "level": ""
+    },
+    {
+      "id": 46498,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 133",
+      "level": ""
+    },
+    {
+      "id": 46499,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 134",
+      "level": ""
+    },
+    {
+      "id": 46500,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 135",
+      "level": ""
+    },
+    {
+      "id": 46501,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 136",
+      "level": ""
+    },
+    {
+      "id": 46502,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 137",
+      "level": ""
+    },
+    {
+      "id": 46503,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 138",
+      "level": ""
+    },
+    {
+      "id": 46504,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 139",
+      "level": ""
+    },
+    {
+      "id": 46505,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 140",
+      "level": ""
+    },
+    {
+      "id": 46506,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 141",
+      "level": ""
+    },
+    {
+      "id": 46507,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 142",
+      "level": ""
+    },
+    {
+      "id": 46508,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 143",
+      "level": ""
+    },
+    {
+      "id": 46509,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 144",
+      "level": ""
+    },
+    {
+      "id": 46510,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 145",
+      "level": ""
+    },
+    {
+      "id": 46511,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 146",
+      "level": ""
+    },
+    {
+      "id": 46512,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 147",
+      "level": ""
+    },
+    {
+      "id": 46513,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 148",
+      "level": ""
+    },
+    {
+      "id": 46514,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 149",
+      "level": ""
+    },
+    {
+      "id": 46515,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 150",
+      "level": ""
+    },
+    {
+      "id": 46516,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 151",
+      "level": ""
+    },
+    {
+      "id": 46517,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 152",
+      "level": ""
+    },
+    {
+      "id": 46518,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 153",
+      "level": ""
+    },
+    {
+      "id": 46519,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 154",
+      "level": ""
+    },
+    {
+      "id": 46520,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 155",
+      "level": ""
+    },
+    {
+      "id": 46521,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 156",
+      "level": ""
+    },
+    {
+      "id": 46522,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 157",
+      "level": ""
+    },
+    {
+      "id": 46523,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 158",
+      "level": ""
+    },
+    {
+      "id": 46524,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 159",
+      "level": ""
+    },
+    {
+      "id": 46525,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 160",
+      "level": ""
+    },
+    {
+      "id": 46526,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 161",
+      "level": ""
+    },
+    {
+      "id": 46527,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 162",
+      "level": ""
+    },
+    {
+      "id": 46528,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 163",
+      "level": ""
+    },
+    {
+      "id": 46529,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 164",
+      "level": ""
+    },
+    {
+      "id": 46530,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 165",
+      "level": ""
+    },
+    {
+      "id": 46531,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 166",
+      "level": ""
+    },
+    {
+      "id": 46532,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 167",
+      "level": ""
+    },
+    {
+      "id": 46533,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 168",
+      "level": ""
+    },
+    {
+      "id": 46534,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 169",
+      "level": ""
+    },
+    {
+      "id": 46535,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 170",
+      "level": ""
+    },
+    {
+      "id": 46536,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 171",
+      "level": ""
+    },
+    {
+      "id": 46537,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 172",
+      "level": ""
+    },
+    {
+      "id": 46538,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 173",
+      "level": ""
+    },
+    {
+      "id": 46539,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 174",
+      "level": ""
+    },
+    {
+      "id": 46540,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 175",
+      "level": ""
+    },
+    {
+      "id": 46541,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 176",
+      "level": ""
+    },
+    {
+      "id": 46542,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 177",
+      "level": ""
+    },
+    {
+      "id": 46543,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 178",
+      "level": ""
+    },
+    {
+      "id": 46544,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 179",
+      "level": ""
+    },
+    {
+      "id": 46545,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 180",
+      "level": ""
+    },
+    {
+      "id": 46546,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 181",
+      "level": ""
+    },
+    {
+      "id": 46547,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 182",
+      "level": ""
+    },
+    {
+      "id": 46548,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 183",
+      "level": ""
+    },
+    {
+      "id": 46549,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 184",
+      "level": ""
+    },
+    {
+      "id": 46550,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 185",
+      "level": ""
+    },
+    {
+      "id": 46551,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 186",
+      "level": ""
+    },
+    {
+      "id": 46552,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 187",
+      "level": ""
+    },
+    {
+      "id": 46553,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 188",
+      "level": ""
+    },
+    {
+      "id": 46554,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 189",
+      "level": ""
+    },
+    {
+      "id": 46555,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 190",
+      "level": ""
+    },
+    {
+      "id": 46556,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 191",
+      "level": ""
+    },
+    {
+      "id": 46557,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 192",
+      "level": ""
+    },
+    {
+      "id": 46558,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 193",
+      "level": ""
+    },
+    {
+      "id": 46559,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 194",
+      "level": ""
+    },
+    {
+      "id": 46560,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 195",
+      "level": ""
+    },
+    {
+      "id": 46561,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 196",
+      "level": ""
+    },
+    {
+      "id": 46562,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 197",
+      "level": ""
+    },
+    {
+      "id": 46563,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 198",
+      "level": ""
+    },
+    {
+      "id": 46564,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 199",
+      "level": ""
+    },
+    {
+      "id": 46565,
+      "type": "57",
+      "name": "Japanese Eidolon Archive Exchange Scroll 200",
+      "level": ""
+    },
+    {
+      "id": 46695,
+      "type": "57",
+      "name": "Japanese Version Summer Eidolons Voucher",
+      "level": ""
+    },
+    {
+      "id": 51157,
+      "type": "89",
+      "name": "Custom Furniture: Eidolons' Portrait (A)",
+      "level": ""
+    },
+    {
+      "id": 51158,
+      "type": "89",
+      "name": "Custom Furniture: Eidolons' Portrait (B)",
+      "level": ""
+    },
+    {
+      "id": 60015,
+      "type": "62",
+      "name": "Moonlight Kunoichi Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60033,
+      "type": "62",
+      "name": "Moonlight Maiden Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60081,
+      "type": "62",
+      "name": "Infernal Efreet Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60097,
+      "type": "62",
+      "name": "Midnight Witch Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60120,
+      "type": "62",
+      "name": "Phoenix Enchantress Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60130,
+      "type": "62",
+      "name": "Eidolon Key Fragment Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 60153,
+      "type": "62",
+      "name": "Steel Wings Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60158,
+      "type": "62",
+      "name": "Dark Night Queen Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60166,
+      "type": "62",
+      "name": "Alucard's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60191,
+      "type": "62",
+      "name": "Bringer of Light Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60200,
+      "type": "62",
+      "name": "Kusanagi Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60222,
+      "type": "62",
+      "name": "Eidolon Key Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60304,
+      "type": "62",
+      "name": "Mistress of Moonshadow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60338,
+      "type": "62",
+      "name": "Eidolon Supervalue Gift Chest",
+      "level": ""
+    },
+    {
+      "id": 60347,
+      "type": "62",
+      "name": "Eidolon Emblem Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 60348,
+      "type": "62",
+      "name": "Eidolon Emblem Treasure Chest (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60384,
+      "type": "62",
+      "name": "Fiery Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60398,
+      "type": "62",
+      "name": "Goddess of Creation Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60419,
+      "type": "62",
+      "name": "Alice's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60428,
+      "type": "62",
+      "name": "Moonlight Kunoichi Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60429,
+      "type": "62",
+      "name": "Moonlight Maiden Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60430,
+      "type": "62",
+      "name": "Infernal Efreet Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60431,
+      "type": "62",
+      "name": "Midnight Witch Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60432,
+      "type": "62",
+      "name": "Vermilion War Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60433,
+      "type": "62",
+      "name": "The Lady of Evening Snow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60434,
+      "type": "62",
+      "name": "Blazing Justice Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60435,
+      "type": "62",
+      "name": "Dark Night Queen Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60436,
+      "type": "62",
+      "name": "Alucard Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60437,
+      "type": "62",
+      "name": "Dawn of Light Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60438,
+      "type": "62",
+      "name": "Kusanagi Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60439,
+      "type": "62",
+      "name": "Goddess of War Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60440,
+      "type": "62",
+      "name": "Gruesome Twosome Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60441,
+      "type": "62",
+      "name": "Mistress of Moonshadow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60442,
+      "type": "62",
+      "name": "Luminous Beauty Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60443,
+      "type": "62",
+      "name": "Fiery Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60444,
+      "type": "62",
+      "name": "Goddess of Creation Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60706,
+      "type": "62",
+      "name": "Lupine Gourmand Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60723,
+      "type": "62",
+      "name": "Timekeeper's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60735,
+      "type": "62",
+      "name": "Eidolon Costume Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60736,
+      "type": "62",
+      "name": "Storm Huntress' Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60743,
+      "type": "62",
+      "name": "Eidolon Purification Scroll Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60761,
+      "type": "62",
+      "name": "Zephyrine Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60769,
+      "type": "62",
+      "name": "Dark Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60784,
+      "type": "62",
+      "name": "Light of Spring Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60793,
+      "type": "62",
+      "name": "Fortune's Flame Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60831,
+      "type": "62",
+      "name": "Mysterious Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60832,
+      "type": "62",
+      "name": "Rare Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60833,
+      "type": "62",
+      "name": "Gorgeous Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60846,
+      "type": "62",
+      "name": "Divine Diva Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60857,
+      "type": "62",
+      "name": "Snow Princess Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60869,
+      "type": "62",
+      "name": "Heroic Glory Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60885,
+      "type": "62",
+      "name": "Midnight Witch Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60896,
+      "type": "62",
+      "name": "Goddess of War Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60904,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60905,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60906,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60907,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60908,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60909,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60910,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60911,
+      "type": "62",
+      "name": "Eidolon Outfit Set (Undefined)",
+      "level": ""
+    },
+    {
+      "id": 60919,
+      "type": "62",
+      "name": "Azure Secret Stone Sprite Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60930,
+      "type": "62",
+      "name": "Goddess of Destiny Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60939,
+      "type": "62",
+      "name": "Goddess of Justice Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60952,
+      "type": "62",
+      "name": "Guardian Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60963,
+      "type": "62",
+      "name": "Imperial Sprite Swordmaiden Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60975,
+      "type": "62",
+      "name": "Instant Love Bow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 60996,
+      "type": "62",
+      "name": "Great Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60997,
+      "type": "62",
+      "name": "Happy Eidolon Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 60999,
+      "type": "62",
+      "name": "Acheron Lady Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 61052,
+      "type": "62",
+      "name": "Eidolon Accessory Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 61136,
+      "type": "62",
+      "name": "Flame Eidolon Token Pack",
+      "level": ""
+    },
+    {
+      "id": 61137,
+      "type": "62",
+      "name": "Storm Eidolon Token Pack",
+      "level": ""
+    },
+    {
+      "id": 61138,
+      "type": "62",
+      "name": "Lightning Eidolon Token Pack",
+      "level": ""
+    },
+    {
+      "id": 61139,
+      "type": "62",
+      "name": "Ice Eidolon Token Pack",
+      "level": ""
+    },
+    {
+      "id": 61140,
+      "type": "62",
+      "name": "Holy Light Eidolon Token Pack",
+      "level": ""
+    },
+    {
+      "id": 61141,
+      "type": "62",
+      "name": "Dark Eidolon Token Pack",
+      "level": ""
+    },
+    {
+      "id": 61146,
+      "type": "62",
+      "name": "Sweet Dreams Eidolon Pillow Chest",
+      "level": ""
+    },
+    {
+      "id": 61147,
+      "type": "62",
+      "name": "Special Eidolon Statue Fusion Formula Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 62002,
+      "type": "62",
+      "name": "Goddess of Youth Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62012,
+      "type": "62",
+      "name": "Ice Sprite Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62022,
+      "type": "62",
+      "name": "Innocent Forest Sprite Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62033,
+      "type": "62",
+      "name": "King of Pandemonium Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62046,
+      "type": "62",
+      "name": "God's Messenger Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62065,
+      "type": "62",
+      "name": "Charming Love Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62079,
+      "type": "62",
+      "name": "Hell Hound Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62096,
+      "type": "62",
+      "name": "Goddess of Eternity Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62110,
+      "type": "62",
+      "name": "Calamity Dragon Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62112,
+      "type": "62",
+      "name": "Santa Ayako's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62121,
+      "type": "62",
+      "name": "Wings of Happiness Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62157,
+      "type": "62",
+      "name": "Lightning Queen Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62168,
+      "type": "62",
+      "name": "Succubus' Speech Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62180,
+      "type": "62",
+      "name": "Golden Goddess Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62193,
+      "type": "62",
+      "name": "Brutal God of War Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62206,
+      "type": "62",
+      "name": "Summer Dragon Tyrant Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62207,
+      "type": "62",
+      "name": "Summer Calamity Dragon Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62223,
+      "type": "62",
+      "name": "Nightland Lord Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62236,
+      "type": "62",
+      "name": "Ice Sword God Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62247,
+      "type": "62",
+      "name": "Halloween Sprite Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62250,
+      "type": "62",
+      "name": "New Santa Ayako's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62251,
+      "type": "62",
+      "name": "New Santa Tyr's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62252,
+      "type": "62",
+      "name": "New Calamity Dragon Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62253,
+      "type": "62",
+      "name": "New Goddess of Eternity Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62254,
+      "type": "62",
+      "name": "New Hell Hound Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62255,
+      "type": "62",
+      "name": "New Charming Love Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62256,
+      "type": "62",
+      "name": "New God's Messenger Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62257,
+      "type": "62",
+      "name": "New King of Pandemonium Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62258,
+      "type": "62",
+      "name": "New Caring Forest Fairy Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62259,
+      "type": "62",
+      "name": "New Snow Sprite Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62260,
+      "type": "62",
+      "name": "New Goddess of Youth Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62261,
+      "type": "62",
+      "name": "New Lady Styx Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62262,
+      "type": "62",
+      "name": "New Instant Love Bow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62263,
+      "type": "62",
+      "name": "New Imperial Sprite Swordmaiden Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62264,
+      "type": "62",
+      "name": "New Guardian Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62265,
+      "type": "62",
+      "name": "New Goddess of Justice Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62266,
+      "type": "62",
+      "name": "New Goddess of Destiny Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62267,
+      "type": "62",
+      "name": "New Azure Secret Stone Sprite Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62268,
+      "type": "62",
+      "name": "New Goddess of Battle Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62269,
+      "type": "62",
+      "name": "New Midnight Witch Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62270,
+      "type": "62",
+      "name": "New Heroic Glory Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62271,
+      "type": "62",
+      "name": "New Snow Princess Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62272,
+      "type": "62",
+      "name": "New Divine Diva Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62273,
+      "type": "62",
+      "name": "New Fortune's Flame Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62274,
+      "type": "62",
+      "name": "New Light of Spring Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62275,
+      "type": "62",
+      "name": "New Dark Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62276,
+      "type": "62",
+      "name": "New Zephyrine Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62277,
+      "type": "62",
+      "name": "New Storm Huntress Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62278,
+      "type": "62",
+      "name": "New Timekeeper Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62279,
+      "type": "62",
+      "name": "New Lupine Gourmand Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62280,
+      "type": "62",
+      "name": "New Tea Party Queen Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62281,
+      "type": "62",
+      "name": "New Goddess of Creation Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62282,
+      "type": "62",
+      "name": "New Fiery Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62283,
+      "type": "62",
+      "name": "New Luminous Beauty Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62284,
+      "type": "62",
+      "name": "New Mistress of Moonshadow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62285,
+      "type": "62",
+      "name": "New Gruesome Twosome Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62286,
+      "type": "62",
+      "name": "New Goddess of War Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62287,
+      "type": "62",
+      "name": "New Kusanagi Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62288,
+      "type": "62",
+      "name": "New Dawn of Light Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62289,
+      "type": "62",
+      "name": "New Alucard Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62290,
+      "type": "62",
+      "name": "New Dark Night Queen Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62291,
+      "type": "62",
+      "name": "New Blazing Justice Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62292,
+      "type": "62",
+      "name": "New Lady of Evening Snow Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62293,
+      "type": "62",
+      "name": "New Vermilion War Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62294,
+      "type": "62",
+      "name": "New Midnight Witch Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62295,
+      "type": "62",
+      "name": "New Infernal Efreet Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62296,
+      "type": "62",
+      "name": "New Moonlight Maiden Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62297,
+      "type": "62",
+      "name": "New Moonlight Kunoichi Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62306,
+      "type": "62",
+      "name": "Falling Cherry Blossoms Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62313,
+      "type": "62",
+      "name": "Christmas Snow Princess Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62316,
+      "type": "62",
+      "name": "Tea Party Queen's Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62338,
+      "type": "62",
+      "name": "Goddess of Eternal Blessings Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62339,
+      "type": "62",
+      "name": "Pruina Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62359,
+      "type": "62",
+      "name": "Twilight Goddess Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62368,
+      "type": "62",
+      "name": "Goddess of the Future Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62383,
+      "type": "62",
+      "name": "Shiny Crystal Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62397,
+      "type": "62",
+      "name": "Queen of the Underworld Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62409,
+      "type": "62",
+      "name": "Summer Guardian Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62422,
+      "type": "62",
+      "name": "Ocean Goddess Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62438,
+      "type": "62",
+      "name": "Cat Protector Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62448,
+      "type": "62",
+      "name": "Guardian of the Temple Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62449,
+      "type": "104",
+      "name": "Custom Eidolon Accessory Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 62470,
+      "type": "62",
+      "name": "Serpent God Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62476,
+      "type": "62",
+      "name": "Festive Divine Diva Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62489,
+      "type": "62",
+      "name": "Festive Goddess of Creation Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62504,
+      "type": "62",
+      "name": "New Year Charming Love Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62524,
+      "type": "62",
+      "name": "Eidolon Key Fragment Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 62532,
+      "type": "62",
+      "name": "[Greed Gluttonery] Eidolon Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62533,
+      "type": "104",
+      "name": "[Greed Gluttonery] Eidolon Lucky Pack (Free choice)",
+      "level": ""
+    },
+    {
+      "id": 62534,
+      "type": "62",
+      "name": "New Eidolon Key Fragment Treasure Chest (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62535,
+      "type": "62",
+      "name": "New Eidolon Key Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62556,
+      "type": "62",
+      "name": "Flower Fairy Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62565,
+      "type": "104",
+      "name": "Time Traveler's Lucky Pack (Free choice) (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62573,
+      "type": "62",
+      "name": "Goddess of the Sky Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62587,
+      "type": "62",
+      "name": "Healing Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62602,
+      "type": "62",
+      "name": "Soulbonder Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62615,
+      "type": "62",
+      "name": "Lethal Lover Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62636,
+      "type": "62",
+      "name": "Summer Queen of the Underworld Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62669,
+      "type": "62",
+      "name": "Assorted Eidolon Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62670,
+      "type": "104",
+      "name": "Assorted Eidolon Lucky Pack (Free choice)",
+      "level": ""
+    },
+    {
+      "id": 62678,
+      "type": "62",
+      "name": "Great Shaman Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62696,
+      "type": "62",
+      "name": "Archangel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62713,
+      "type": "62",
+      "name": "Cat Lady Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62739,
+      "type": "62",
+      "name": "Queen of Wonderland Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62756,
+      "type": "62",
+      "name": "Healing Angel Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62757,
+      "type": "62",
+      "name": "Santa Goddess of Eternity Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62780,
+      "type": "62",
+      "name": "Goddess of the Home Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62792,
+      "type": "62",
+      "name": "Bloodthirsty Baroness Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62813,
+      "type": "62",
+      "name": "Assorted Eidolon Lucky Pack II (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62814,
+      "type": "104",
+      "name": "Assorted Eidolon Lucky Pack II (Free choice)",
+      "level": ""
+    },
+    {
+      "id": 62839,
+      "type": "62",
+      "name": "Crescent Maiden Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62861,
+      "type": "62",
+      "name": "Exorcist Messenger Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62884,
+      "type": "62",
+      "name": "Heart of the Chalice Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62896,
+      "type": "62",
+      "name": "Deep Sea Diva Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 62945,
+      "type": "62",
+      "name": "Goddess of Harvest Lucky Pack (Eidolon)",
+      "level": ""
+    },
+    {
+      "id": 63051,
+      "type": "62",
+      "name": "Phoenix Enchantress Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63052,
+      "type": "62",
+      "name": "Eidolon Key Fragment Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 63059,
+      "type": "62",
+      "name": "Kusanagi Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63084,
+      "type": "62",
+      "name": "Kusanagi Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63117,
+      "type": "62",
+      "name": "Moonlight Maiden Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63131,
+      "type": "62",
+      "name": "Eidolon Lucky Treasure Chest",
+      "level": ""
+    },
+    {
+      "id": 63136,
+      "type": "62",
+      "name": "Eidolon Accessory Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63162,
+      "type": "62",
+      "name": "Goddess of Creation Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63164,
+      "type": "62",
+      "name": "Eidolon Supervalue Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63166,
+      "type": "62",
+      "name": "Fiery Angel Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63185,
+      "type": "62",
+      "name": "Enchanting Eidolon Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63201,
+      "type": "62",
+      "name": "Fiery Angel Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63205,
+      "type": "62",
+      "name": "Tea Party Queen Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63213,
+      "type": "62",
+      "name": "Eidolon Purification Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 63234,
+      "type": "62",
+      "name": "Eidolon Hidden Treasure (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63254,
+      "type": "62",
+      "name": "Zephyrine Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63294,
+      "type": "62",
+      "name": "Eidolon Fragment Pack x1",
+      "level": ""
+    },
+    {
+      "id": 63326,
+      "type": "62",
+      "name": "Eidolon Fantasy Pack",
+      "level": ""
+    },
+    {
+      "id": 63337,
+      "type": "62",
+      "name": "Eidolons' Portrait Pack",
+      "level": ""
+    },
+    {
+      "id": 63360,
+      "type": "62",
+      "name": "Nightstalker Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63361,
+      "type": "62",
+      "name": "Fortune's Flame Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63362,
+      "type": "62",
+      "name": "Divine Diva Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63383,
+      "type": "62",
+      "name": "Luminous Beauty Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63384,
+      "type": "62",
+      "name": "Goddess of Destiny Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63385,
+      "type": "62",
+      "name": "Guardian Angel Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63407,
+      "type": "62",
+      "name": "Eidolon Large Lucky Pack (Non-tradable) (Lvl 70)",
+      "level": "70"
+    },
+    {
+      "id": 63408,
+      "type": "62",
+      "name": "Eidolon Large Lucky Pack (Non-tradable) (Lvl 80)",
+      "level": "80"
+    },
+    {
+      "id": 63409,
+      "type": "62",
+      "name": "Eidolon Large Lucky Pack (Non-tradable) (Lvl 90)",
+      "level": "90"
+    },
+    {
+      "id": 63410,
+      "type": "62",
+      "name": "Eidolon Large Lucky Pack (Non-tradable) (Lvl 95)",
+      "level": "95"
+    },
+    {
+      "id": 63411,
+      "type": "62",
+      "name": "Eidolon Large Lucky Pack (Non-tradable) (Lvl 99)",
+      "level": "99"
+    },
+    {
+      "id": 63422,
+      "type": "62",
+      "name": "Eidolons Related Giift Box",
+      "level": ""
+    },
+    {
+      "id": 63444,
+      "type": "62",
+      "name": "Eidolon Lover Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63573,
+      "type": "62",
+      "name": "Eidolon's Set Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63601,
+      "type": "62",
+      "name": "Moonlight Maiden Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63602,
+      "type": "62",
+      "name": "Mistress of Moonshadow Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63603,
+      "type": "62",
+      "name": "Fortune's Flame Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63604,
+      "type": "62",
+      "name": "Snow Princess Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63605,
+      "type": "62",
+      "name": "Goddess of Battle Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63606,
+      "type": "62",
+      "name": "Goddess of Youth Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63607,
+      "type": "62",
+      "name": "Luminous Beauty Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63608,
+      "type": "62",
+      "name": "Goddess of War Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63609,
+      "type": "62",
+      "name": "Storm Huntress Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63610,
+      "type": "62",
+      "name": "Caring Forest Fairy Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63611,
+      "type": "62",
+      "name": "Instant Love Bow Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63612,
+      "type": "62",
+      "name": "Gruesome Twosome Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63613,
+      "type": "62",
+      "name": "Heroic Glory Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63614,
+      "type": "62",
+      "name": "Dawn of Light Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63615,
+      "type": "62",
+      "name": "Alucard Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63616,
+      "type": "62",
+      "name": "Dark Angel Lucky Pack (Eidolon) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63626,
+      "type": "62",
+      "name": "Unidentified Lv. 75 Eidolon Accessory",
+      "level": ""
+    },
+    {
+      "id": 63712,
+      "type": "62",
+      "name": "Eidolon Pet Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 64060,
+      "type": "62",
+      "name": "Eidolon Key Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 64063,
+      "type": "62",
+      "name": "Ayako's Key Treasure Chest (Eidolon)",
+      "level": "60"
+    },
+    {
+      "id": 64426,
+      "type": "62",
+      "name": "Summer Eidolon Pack",
+      "level": ""
+    },
+    {
+      "id": 64430,
+      "type": "62",
+      "name": "Eidolon XP Box",
+      "level": ""
+    },
+    {
+      "id": 64437,
+      "type": "62",
+      "name": "Eidolon-Pillow-Box",
+      "level": ""
+    },
+    {
+      "id": 64582,
+      "type": "62",
+      "name": "Eidolon Paradise",
+      "level": ""
+    }
+  ],
+  "enhancement": [
+    {
+      "id": 11027,
+      "type": "60",
+      "name": "Armor Fortification Scroll (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 11028,
+      "type": "60",
+      "name": "Weapon Fortification Scroll (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 11664,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 11665,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 13637,
+      "type": "99",
+      "name": "Kaiser Zeta's Fortification Components",
+      "level": "60"
+    },
+    {
+      "id": 32657,
+      "type": "62",
+      "name": "Advanced Fortification Box (Non-Tradable)",
+      "level": "60"
+    },
+    {
+      "id": 32714,
+      "type": "57",
+      "name": "Fortification Crystal",
+      "level": ""
+    },
+    {
+      "id": 32715,
+      "type": "57",
+      "name": "Fortification Toolkit",
+      "level": ""
+    },
+    {
+      "id": 39006,
+      "type": "60",
+      "name": "TEST Defense Fortification Enchant Scroll",
+      "level": ""
+    },
+    {
+      "id": 39007,
+      "type": "60",
+      "name": "TEST Attack Fortification Enchant Scroll",
+      "level": ""
+    },
+    {
+      "id": 39212,
+      "type": "60",
+      "name": "Fortification Test",
+      "level": ""
+    },
+    {
+      "id": 39521,
+      "type": "60",
+      "name": "TEST Weapon Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 39522,
+      "type": "60",
+      "name": "TEST Armor Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 39523,
+      "type": "60",
+      "name": "TEST Weapon Fortification Scroll(Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 39524,
+      "type": "60",
+      "name": "TEST Armor Fortification Scroll(Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 39525,
+      "type": "60",
+      "name": "TEST Advanced Weapon Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 39526,
+      "type": "60",
+      "name": "TEST Advanced Armor Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 39527,
+      "type": "60",
+      "name": "TEST Advanced Weapon Fortification Scroll(Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 39528,
+      "type": "60",
+      "name": "TEST Advanced Armor Fortification Scroll(Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 40049,
+      "type": "60",
+      "name": "Weapon Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40050,
+      "type": "60",
+      "name": "Weapon Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40051,
+      "type": "60",
+      "name": "Armor Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40052,
+      "type": "60",
+      "name": "Armor Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40053,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40054,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40055,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40056,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40063,
+      "type": "60",
+      "name": "5th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40064,
+      "type": "60",
+      "name": "5th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40065,
+      "type": "60",
+      "name": "10th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40066,
+      "type": "60",
+      "name": "10th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40067,
+      "type": "60",
+      "name": "15th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40068,
+      "type": "60",
+      "name": "15th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40069,
+      "type": "60",
+      "name": "5th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40070,
+      "type": "60",
+      "name": "5th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40071,
+      "type": "60",
+      "name": "10th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40072,
+      "type": "60",
+      "name": "10th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40073,
+      "type": "60",
+      "name": "15th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40074,
+      "type": "60",
+      "name": "15th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40197,
+      "type": "60",
+      "name": "20th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40198,
+      "type": "60",
+      "name": "20th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40199,
+      "type": "60",
+      "name": "20th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40200,
+      "type": "60",
+      "name": "20th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40517,
+      "type": "60",
+      "name": "Accessory Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40518,
+      "type": "60",
+      "name": "Accessory Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40519,
+      "type": "60",
+      "name": "Advanced Accessory Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40520,
+      "type": "60",
+      "name": "Advanced Accessory Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40521,
+      "type": "60",
+      "name": "Lv.5 Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40522,
+      "type": "60",
+      "name": "5th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40523,
+      "type": "60",
+      "name": "Lv.10 Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40524,
+      "type": "60",
+      "name": "10th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40525,
+      "type": "60",
+      "name": "Lv.15 Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40526,
+      "type": "60",
+      "name": "15th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40575,
+      "type": "60",
+      "name": "20th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40633,
+      "type": "60",
+      "name": "Superior Weapon Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40634,
+      "type": "60",
+      "name": "Superior Weapon Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40635,
+      "type": "60",
+      "name": "Superior Armor Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40636,
+      "type": "60",
+      "name": "Superior Armor Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40637,
+      "type": "60",
+      "name": "Superior Accessory Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40638,
+      "type": "60",
+      "name": "Superior Accessory Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40639,
+      "type": "60",
+      "name": "Super Weapon Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40640,
+      "type": "60",
+      "name": "Super Weapon Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40641,
+      "type": "60",
+      "name": "Super Armor Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40642,
+      "type": "60",
+      "name": "Super Armor Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40643,
+      "type": "60",
+      "name": "Super Accessory Fortification Scroll",
+      "level": ""
+    },
+    {
+      "id": 40644,
+      "type": "60",
+      "name": "Super Accessory Fortification Scroll (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40645,
+      "type": "60",
+      "name": "25th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40646,
+      "type": "60",
+      "name": "25th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40647,
+      "type": "60",
+      "name": "30th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40648,
+      "type": "60",
+      "name": "30th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40649,
+      "type": "60",
+      "name": "35th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40650,
+      "type": "60",
+      "name": "35th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40651,
+      "type": "60",
+      "name": "40th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 40652,
+      "type": "60",
+      "name": "40th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40653,
+      "type": "60",
+      "name": "25th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40654,
+      "type": "60",
+      "name": "25th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40655,
+      "type": "60",
+      "name": "30th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40656,
+      "type": "60",
+      "name": "30th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40657,
+      "type": "60",
+      "name": "35th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40658,
+      "type": "60",
+      "name": "35th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40659,
+      "type": "60",
+      "name": "40th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 40660,
+      "type": "60",
+      "name": "40th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40661,
+      "type": "60",
+      "name": "25th-Order Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40662,
+      "type": "60",
+      "name": "25th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40663,
+      "type": "60",
+      "name": "30th-Order Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40664,
+      "type": "60",
+      "name": "30th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40665,
+      "type": "60",
+      "name": "35th-Order Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40666,
+      "type": "60",
+      "name": "35th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40667,
+      "type": "60",
+      "name": "40th-Order Accessory Fortification",
+      "level": ""
+    },
+    {
+      "id": 40668,
+      "type": "60",
+      "name": "40th-Order Accessory Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45016,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll 1",
+      "level": ""
+    },
+    {
+      "id": 45017,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll 2",
+      "level": ""
+    },
+    {
+      "id": 45018,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll 3",
+      "level": ""
+    },
+    {
+      "id": 45019,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll 1",
+      "level": ""
+    },
+    {
+      "id": 45020,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll 2",
+      "level": ""
+    },
+    {
+      "id": 45021,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll 3",
+      "level": ""
+    },
+    {
+      "id": 45022,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll 1 (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45023,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll 2 (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45024,
+      "type": "60",
+      "name": "Advanced Weapon Fortification Scroll 3 (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45025,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll 1 (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45026,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll 2 (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45027,
+      "type": "60",
+      "name": "Advanced Armor Fortification Scroll 3 (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45028,
+      "type": "60",
+      "name": "15th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 45029,
+      "type": "60",
+      "name": "18th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 45030,
+      "type": "60",
+      "name": "19th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 45031,
+      "type": "60",
+      "name": "20th-Order Weapon Fortification",
+      "level": ""
+    },
+    {
+      "id": 45032,
+      "type": "60",
+      "name": "15th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45033,
+      "type": "60",
+      "name": "18th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45034,
+      "type": "60",
+      "name": "19th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45035,
+      "type": "60",
+      "name": "20th-Order Weapon Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45036,
+      "type": "60",
+      "name": "15th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 45037,
+      "type": "60",
+      "name": "18th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 45038,
+      "type": "60",
+      "name": "19th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 45039,
+      "type": "60",
+      "name": "20th-Order Armor Fortification",
+      "level": ""
+    },
+    {
+      "id": 45040,
+      "type": "60",
+      "name": "15th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45041,
+      "type": "60",
+      "name": "18th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45042,
+      "type": "60",
+      "name": "19th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 45043,
+      "type": "60",
+      "name": "20th-Order Armor Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60194,
+      "type": "62",
+      "name": "Advanced Weapon Fortification Scroll Gift Box (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60211,
+      "type": "62",
+      "name": "Advanced Armor Fortification Scroll Gift Box (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60824,
+      "type": "62",
+      "name": "Advanced Weapon Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60825,
+      "type": "62",
+      "name": "Advanced Armor Fortification Scroll Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 60826,
+      "type": "62",
+      "name": "Advanced Accessory Fortification Scroll Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 61034,
+      "type": "62",
+      "name": "Advanced Fortification Scroll Gift Box (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 61035,
+      "type": "62",
+      "name": "15th-Order Fortification Gift Box (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62085,
+      "type": "62",
+      "name": "Lavish Weapon Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62086,
+      "type": "62",
+      "name": "Lavish Armor Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62087,
+      "type": "62",
+      "name": "Lavish Accessory Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62088,
+      "type": "62",
+      "name": "Advanced Lavish Weapon Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62089,
+      "type": "62",
+      "name": "Advanced Lavish Armor Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62090,
+      "type": "62",
+      "name": "Advanced Lavish Accessory Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 62548,
+      "type": "104",
+      "name": "20th-Order Fortification Lucky Pack (Free choice) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63037,
+      "type": "62",
+      "name": "Fortification Scrolls Pack",
+      "level": ""
+    },
+    {
+      "id": 63120,
+      "type": "62",
+      "name": "Fortification Treasure Chest (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63153,
+      "type": "62",
+      "name": "Accessory Fortification Lucky Pack",
+      "level": ""
+    },
+    {
+      "id": 63223,
+      "type": "62",
+      "name": "Double Fortification Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63275,
+      "type": "62",
+      "name": "Advanced Fortification Scroll Lucky Pack (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63309,
+      "type": "62",
+      "name": "Advanced Fortification Scrolls Chest (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63527,
+      "type": "62",
+      "name": "LV20 Fortification (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 63699,
+      "type": "104",
+      "name": "30th-Order Fortification Voucher Lucky Pack (Free choice)",
+      "level": ""
+    },
+    {
+      "id": 64424,
+      "type": "62",
+      "name": "Card Fortification  Box",
+      "level": ""
+    },
+    {
+      "id": 64425,
+      "type": "62",
+      "name": "Equipment Fortification Box",
+      "level": ""
+    }
+  ],
+  "forging": [
+    {
+      "id": 10479,
+      "type": "58",
+      "name": "Cyan Iron Ore",
+      "level": "30"
+    },
+    {
+      "id": 10485,
+      "type": "58",
+      "name": "Purple Gold Ore",
+      "level": "60"
+    },
+    {
+      "id": 10500,
+      "type": "58",
+      "name": "Lava Alloy",
+      "level": "40"
+    },
+    {
+      "id": 10501,
+      "type": "58",
+      "name": "Magnetic Alloy",
+      "level": "40"
+    },
+    {
+      "id": 10502,
+      "type": "58",
+      "name": "Corrosive Alloy",
+      "level": "50"
+    },
+    {
+      "id": 10503,
+      "type": "58",
+      "name": "Solid Alloy",
+      "level": "50"
+    },
+    {
+      "id": 10504,
+      "type": "58",
+      "name": "Electrochemical Alloy",
+      "level": "60"
+    },
+    {
+      "id": 10505,
+      "type": "58",
+      "name": "Magical Force Alloy",
+      "level": "60"
+    },
+    {
+      "id": 10506,
+      "type": "58",
+      "name": "Crystal Circuit Alloy",
+      "level": "60"
+    },
+    {
+      "id": 10569,
+      "type": "57",
+      "name": "Moisture-Proof Alloy",
+      "level": "50"
+    },
+    {
+      "id": 10585,
+      "type": "57",
+      "name": "Fluorescent Ore",
+      "level": "40"
+    },
+    {
+      "id": 12141,
+      "type": "62",
+      "name": "Lv.40 Refining Materials Box",
+      "level": ""
+    },
+    {
+      "id": 12142,
+      "type": "62",
+      "name": "Lv.50 Refining Materials Box",
+      "level": ""
+    },
+    {
+      "id": 12143,
+      "type": "62",
+      "name": "Lv.60 Refining Materials Box",
+      "level": ""
+    },
+    {
+      "id": 13328,
+      "type": "3",
+      "name": "Jesper Energized Alloy Belt",
+      "level": "65"
+    },
+    {
+      "id": 14231,
+      "type": "66",
+      "name": "Stalwart Helmet Refining Core",
+      "level": "70"
+    },
+    {
+      "id": 14232,
+      "type": "66",
+      "name": "Stalwart Armor Refining Core",
+      "level": "70"
+    },
+    {
+      "id": 14233,
+      "type": "66",
+      "name": "Stalwart Gloves Refining Core",
+      "level": "70"
+    },
+    {
+      "id": 14234,
+      "type": "66",
+      "name": "Stalwart Boots Refining Core",
+      "level": "70"
+    },
+    {
+      "id": 14235,
+      "type": "66",
+      "name": "Stalwart Belt Refining Core",
+      "level": "70"
+    },
+    {
+      "id": 14236,
+      "type": "66",
+      "name": "Stalwart Trophy Refining Core",
+      "level": "70"
+    },
+    {
+      "id": 14251,
+      "type": "58",
+      "name": "Strengthened Alloy",
+      "level": "70"
+    },
+    {
+      "id": 14252,
+      "type": "58",
+      "name": "Gilded Alloy",
+      "level": "70"
+    },
+    {
+      "id": 14253,
+      "type": "58",
+      "name": "Smelted Alloy",
+      "level": "70"
+    },
+    {
+      "id": 14364,
+      "type": "57",
+      "name": "Damaged Corroded Ore",
+      "level": "1"
+    },
+    {
+      "id": 14373,
+      "type": "57",
+      "name": "Damaged Frozen Ore",
+      "level": "1"
+    },
+    {
+      "id": 14376,
+      "type": "57",
+      "name": "Slightly Damaged Corroded Ore",
+      "level": "1"
+    },
+    {
+      "id": 14385,
+      "type": "57",
+      "name": "Slightly Damaged Frozen Ore",
+      "level": "1"
+    },
+    {
+      "id": 14388,
+      "type": "57",
+      "name": "Well Preserved Corroded Ore",
+      "level": "1"
+    },
+    {
+      "id": 14397,
+      "type": "57",
+      "name": "Fine Frozen Ore",
+      "level": "1"
+    },
+    {
+      "id": 14400,
+      "type": "57",
+      "name": "Top-Quality Corroded Ore",
+      "level": "1"
+    },
+    {
+      "id": 14409,
+      "type": "57",
+      "name": "Flawless Frozen Ore",
+      "level": "1"
+    },
+    {
+      "id": 14547,
+      "type": "62",
+      "name": "LV70 Refining Materials Box",
+      "level": ""
+    },
+    {
+      "id": 15012,
+      "type": "67",
+      "name": "Crafting Recipe: Guzigla's Bloodied Sharp Tooth",
+      "level": "70"
+    },
+    {
+      "id": 15013,
+      "type": "67",
+      "name": "Crafting Recipe: Von's True Notes",
+      "level": "70"
+    },
+    {
+      "id": 15014,
+      "type": "67",
+      "name": "Crafting Recipe: Black Knight's Promissory Breastpin",
+      "level": "70"
+    },
+    {
+      "id": 15109,
+      "type": "62",
+      "name": "Cyan Iron Ore Lucky Pack (100 Included)",
+      "level": ""
+    },
+    {
+      "id": 15125,
+      "type": "62",
+      "name": "Molten Iron Ore Gift Box (100 Included)",
+      "level": ""
+    },
+    {
+      "id": 15132,
+      "type": "62",
+      "name": "Tinted Gold Ore Lucky Pack (100 Included)",
+      "level": ""
+    },
+    {
+      "id": 15356,
+      "type": "37",
+      "name": "Ashe's Blood-Stained Ore",
+      "level": "75"
+    },
+    {
+      "id": 16233,
+      "type": "58",
+      "name": "Wind Ore",
+      "level": "80"
+    },
+    {
+      "id": 16241,
+      "type": "58",
+      "name": "Blue Pumice Ore",
+      "level": "80"
+    },
+    {
+      "id": 16242,
+      "type": "58",
+      "name": "Soulsucker Ore",
+      "level": "80"
+    },
+    {
+      "id": 16245,
+      "type": "58",
+      "name": "Soul Alloy",
+      "level": "80"
+    },
+    {
+      "id": 16246,
+      "type": "58",
+      "name": "Time Alloy",
+      "level": "80"
+    },
+    {
+      "id": 16247,
+      "type": "58",
+      "name": "Chaos Alloy",
+      "level": "80"
+    },
+    {
+      "id": 16248,
+      "type": "65",
+      "name": "Brilliant Refining Core",
+      "level": "80"
+    },
+    {
+      "id": 16249,
+      "type": "65",
+      "name": "Flash Refining Core",
+      "level": "80"
+    },
+    {
+      "id": 16250,
+      "type": "65",
+      "name": "Arcane Refining Core",
+      "level": "80"
+    },
+    {
+      "id": 16269,
+      "type": "57",
+      "name": "Shattered Crystal Ore",
+      "level": ""
+    },
+    {
+      "id": 16542,
+      "type": "58",
+      "name": "Alchemical Alloy",
+      "level": "80"
+    },
+    {
+      "id": 16654,
+      "type": "57",
+      "name": "Lunar Ore",
+      "level": ""
+    },
+    {
+      "id": 16658,
+      "type": "57",
+      "name": "Black Iron Ore",
+      "level": ""
+    },
+    {
+      "id": 16660,
+      "type": "57",
+      "name": "Corroded Gold Ore",
+      "level": ""
+    },
+    {
+      "id": 16974,
+      "type": "62",
+      "name": "Cyan Iron Ore Lucky Pack (5 Included)",
+      "level": ""
+    },
+    {
+      "id": 16979,
+      "type": "62",
+      "name": "Molten Iron Ore Lucky Pack (5 Included)",
+      "level": ""
+    },
+    {
+      "id": 17454,
+      "type": "39",
+      "name": "Gandam Alloy Armor",
+      "level": "85"
+    },
+    {
+      "id": 17876,
+      "type": "58",
+      "name": "Chrono Ore",
+      "level": "90"
+    },
+    {
+      "id": 17883,
+      "type": "58",
+      "name": "Samsara Alloy",
+      "level": "90"
+    },
+    {
+      "id": 17884,
+      "type": "58",
+      "name": "Divine Alloy",
+      "level": "90"
+    },
+    {
+      "id": 17885,
+      "type": "58",
+      "name": "Demonshriek Alloy",
+      "level": "90"
+    },
+    {
+      "id": 18308,
+      "type": "39",
+      "name": "Ravine Crystalline Ore",
+      "level": "90"
+    },
+    {
+      "id": 18940,
+      "type": "21",
+      "name": "Refining Lance",
+      "level": "18"
+    },
+    {
+      "id": 19029,
+      "type": "57",
+      "name": "Rusty Iron Ore",
+      "level": ""
+    },
+    {
+      "id": 19291,
+      "type": "58",
+      "name": "Red Ore",
+      "level": "95"
+    },
+    {
+      "id": 19296,
+      "type": "58",
+      "name": "Marine Alloy",
+      "level": "101"
+    },
+    {
+      "id": 19297,
+      "type": "58",
+      "name": "Ocean Haze Alloy",
+      "level": "101"
+    },
+    {
+      "id": 19298,
+      "type": "58",
+      "name": "Maple Leaf Alloy",
+      "level": "101"
+    },
+    {
+      "id": 19492,
+      "type": "65",
+      "name": "Demonic Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19493,
+      "type": "65",
+      "name": "Inked Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19494,
+      "type": "65",
+      "name": "Mirror Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19495,
+      "type": "66",
+      "name": "Trickster Mask Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19496,
+      "type": "66",
+      "name": "Trickster Armor Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19497,
+      "type": "66",
+      "name": "Trickster Hands Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19498,
+      "type": "66",
+      "name": "Trickster Boots Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19499,
+      "type": "66",
+      "name": "Trickster Belt Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19500,
+      "type": "66",
+      "name": "Trickster Trophy Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 19501,
+      "type": "66",
+      "name": "Trickster Accessory Refining Core",
+      "level": "101"
+    },
+    {
+      "id": 20499,
+      "type": "62",
+      "name": "Wind Ore (100 pcs.)",
+      "level": ""
+    },
+    {
+      "id": 20507,
+      "type": "62",
+      "name": "Blue Pumice Ore (100 pcs.)",
+      "level": ""
+    },
+    {
+      "id": 20932,
+      "type": "65",
+      "name": "Assault Refining Core",
+      "level": "110"
+    },
+    {
+      "id": 20933,
+      "type": "65",
+      "name": "Hurricane Refining Core",
+      "level": "110"
+    },
+    {
+      "id": 20934,
+      "type": "65",
+      "name": "Arcanum Refining Core",
+      "level": "110"
+    },
+    {
+      "id": 20937,
+      "type": "66",
+      "name": "Plated Gloves Refining Core",
+      "level": "110"
+    },
+    {
+      "id": 20938,
+      "type": "66",
+      "name": "Plated Boots Refining Core",
+      "level": "110"
+    },
+    {
+      "id": 20940,
+      "type": "66",
+      "name": "Plated Refining Core",
+      "level": "110"
+    },
+    {
+      "id": 20942,
+      "type": "58",
+      "name": "Copper Alloy",
+      "level": "110"
+    },
+    {
+      "id": 20943,
+      "type": "58",
+      "name": "Magic Master Alloy",
+      "level": "110"
+    },
+    {
+      "id": 20944,
+      "type": "58",
+      "name": "Silver Alloy",
+      "level": "110"
+    },
+    {
+      "id": 22351,
+      "type": "65",
+      "name": "Soul Hunter Refining Core",
+      "level": "120"
+    },
+    {
+      "id": 22352,
+      "type": "65",
+      "name": "Shining Refining Core",
+      "level": "120"
+    },
+    {
+      "id": 22353,
+      "type": "65",
+      "name": "Spiral Refining Core",
+      "level": "120"
+    },
+    {
+      "id": 22361,
+      "type": "58",
+      "name": "Zeta Alloy",
+      "level": "120"
+    },
+    {
+      "id": 22362,
+      "type": "58",
+      "name": "Secret Honor Alloy",
+      "level": "120"
+    },
+    {
+      "id": 22363,
+      "type": "58",
+      "name": "Holy Light Alloy",
+      "level": "120"
+    },
+    {
+      "id": 22563,
+      "type": "57",
+      "name": "Raw Crystal Ore",
+      "level": ""
+    },
+    {
+      "id": 25493,
+      "type": "81",
+      "name": "Duel Card: Magical Ore Beast",
+      "level": "60"
+    },
+    {
+      "id": 30020,
+      "type": "57",
+      "name": "Shiny Metal Ore",
+      "level": ""
+    },
+    {
+      "id": 30702,
+      "type": "58",
+      "name": "Incandescent Alloy",
+      "level": "8"
+    },
+    {
+      "id": 30704,
+      "type": "58",
+      "name": "Starlight Alloy",
+      "level": "18"
+    },
+    {
+      "id": 30706,
+      "type": "58",
+      "name": "Brilliant Alloy",
+      "level": "28"
+    },
+    {
+      "id": 31208,
+      "type": "57",
+      "name": "Unrefined Glittering Ore",
+      "level": ""
+    },
+    {
+      "id": 31221,
+      "type": "57",
+      "name": "Glittering Ore",
+      "level": ""
+    },
+    {
+      "id": 31227,
+      "type": "57",
+      "name": "Unknown Ore",
+      "level": ""
+    },
+    {
+      "id": 31273,
+      "type": "57",
+      "name": "Small Ore Fragment",
+      "level": ""
+    },
+    {
+      "id": 32081,
+      "type": "57",
+      "name": "Ingot Treasure Pan",
+      "level": ""
+    },
+    {
+      "id": 32082,
+      "type": "57",
+      "name": "Ingot Treasure Pan",
+      "level": ""
+    },
+    {
+      "id": 32083,
+      "type": "57",
+      "name": "Ingot Treasure Pan",
+      "level": ""
+    },
+    {
+      "id": 32730,
+      "type": "57",
+      "name": "Discarded Iron Ore",
+      "level": ""
+    },
+    {
+      "id": 32817,
+      "type": "63",
+      "name": "Garland Crafting Manual",
+      "level": ""
+    },
+    {
+      "id": 32823,
+      "type": "63",
+      "name": "Secret Garland Crafting Manual",
+      "level": ""
+    },
+    {
+      "id": 33988,
+      "type": "58",
+      "name": "Shadow Hunting Alloy",
+      "level": "130"
+    },
+    {
+      "id": 33989,
+      "type": "58",
+      "name": "Secret Alloy",
+      "level": "130"
+    },
+    {
+      "id": 33990,
+      "type": "58",
+      "name": "Layer Wave Alloy",
+      "level": "130"
+    },
+    {
+      "id": 34187,
+      "type": "67",
+      "name": "Refined Forging Recipe: Demon Eye",
+      "level": "130"
+    },
+    {
+      "id": 35001,
+      "type": "58",
+      "name": "Greenblue Ore",
+      "level": "30"
+    },
+    {
+      "id": 35004,
+      "type": "58",
+      "name": "Icefire Ore",
+      "level": "30"
+    },
+    {
+      "id": 36110,
+      "type": "57",
+      "name": "Laterite Ore",
+      "level": ""
+    },
+    {
+      "id": 36111,
+      "type": "57",
+      "name": "Laterite Crystal Ore",
+      "level": ""
+    },
+    {
+      "id": 39319,
+      "type": "57",
+      "name": "Test Emblem Helmet Refining (Training) Stone",
+      "level": ""
+    },
+    {
+      "id": 39936,
+      "type": "57",
+      "name": "Forging Guarantee Scroll 120%",
+      "level": ""
+    },
+    {
+      "id": 39937,
+      "type": "57",
+      "name": "Forging Guarantee Scroll 125%",
+      "level": ""
+    },
+    {
+      "id": 39938,
+      "type": "57",
+      "name": "Forging Guarantee Scroll 130%",
+      "level": ""
+    },
+    {
+      "id": 40083,
+      "type": "102",
+      "name": "SLv.30 Equipment Refining Stone (Orange) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40721,
+      "type": "57",
+      "name": "Refining Scroll of Blessing",
+      "level": ""
+    },
+    {
+      "id": 40722,
+      "type": "57",
+      "name": "Refining Scroll of Blessing (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40723,
+      "type": "57",
+      "name": "Refining Scroll of Miracle",
+      "level": ""
+    },
+    {
+      "id": 40724,
+      "type": "57",
+      "name": "Refining Scroll of Miracle (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40897,
+      "type": "102",
+      "name": "Equipment Refining Stone",
+      "level": ""
+    },
+    {
+      "id": 40898,
+      "type": "102",
+      "name": "Equipment Refining Stone (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40899,
+      "type": "102",
+      "name": "Destiny Equipment Refining Stone",
+      "level": ""
+    },
+    {
+      "id": 40900,
+      "type": "102",
+      "name": "Destiny Equipment Refining Stone (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40901,
+      "type": "102",
+      "name": "Blessed Equipment Refining Stone",
+      "level": ""
+    },
+    {
+      "id": 40902,
+      "type": "102",
+      "name": "Blessed Equipment Refining Stone (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40903,
+      "type": "63",
+      "name": "Equipment Refining Stone Fragment (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40904,
+      "type": "102",
+      "name": "Lv.90 Equipment Refining Stone (Orange) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40905,
+      "type": "102",
+      "name": "Lv.95 Equipment Refining Stone (Gold) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40906,
+      "type": "102",
+      "name": "SLv.1 Equipment Refining Stone (Orange) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40907,
+      "type": "102",
+      "name": "SLv.5 Equipment Refining Stone (Gold) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 40910,
+      "type": "102",
+      "name": "Mysterious Equipment Refining Stone (DMG)",
+      "level": ""
+    },
+    {
+      "id": 40911,
+      "type": "102",
+      "name": "Mysterious Equipment Refining Stone (CRIT)",
+      "level": ""
+    },
+    {
+      "id": 40912,
+      "type": "102",
+      "name": "Mysterious Equipment Refining Stone (SPD)",
+      "level": ""
+    },
+    {
+      "id": 40913,
+      "type": "102",
+      "name": "Mysterious Equipment Refining Stone (HP)",
+      "level": ""
+    },
+    {
+      "id": 40914,
+      "type": "102",
+      "name": "Mysterious Equipment Refining Stone (DEF)",
+      "level": ""
+    },
+    {
+      "id": 40915,
+      "type": "102",
+      "name": "Mysterious Equipment Refining Stone (EVA)",
+      "level": ""
+    },
+    {
+      "id": 41037,
+      "type": "102",
+      "name": "SLv.10 Equipment Refining Stone (Orange) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41054,
+      "type": "57",
+      "name": "Gold Equipment Reforging Potion",
+      "level": ""
+    },
+    {
+      "id": 41055,
+      "type": "57",
+      "name": "Gold Equipment Reforging Potion (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41428,
+      "type": "102",
+      "name": "SLv.15 Equipment Refining Stone (Gold) (Non-tradable)",
+      "level": ""
+    },
+    {
+      "id": 41548,
+      "type": "102",
+      "name": "SLv20 Equipment Refining Stone (Orange) (Non-Tradable)",
+      "level": ""
+    },
+    {
+      "id": 41717,
+      "type": "102",
+      "name": "SLv.25 Equipment Refining Stone (Gold) (Limited)",
+      "level": ""
+    },
+    {
+      "id": 51106,
+      "type": "35",
+      "name": "Back: Alloy Dragon Wings",
+      "level": ""
+    },
+    {
+      "id": 56402,
+      "type": "63",
+      "name": "Fusion Formula: Back: Alloy Dragon Wings",
+      "level": ""
+    },
+    {
+      "id": 61001,
+      "type": "62",
+      "name": "Forging Contest: Champion",
+      "level": "50"
+    },
+    {
+      "id": 61002,
+      "type": "62",
+      "name": "Forging Contest: Runner Up",
+      "level": "50"
+    },
+    {
+      "id": 61003,
+      "type": "62",
+      "name": "Forging Contest: Third Place",
+      "level": "50"
+    },
+    {
+      "id": 61004,
+      "type": "62",
+      "name": "Forging Contest: Top 10",
+      "level": "50"
+    },
+    {
+      "id": 61005,
+      "type": "62",
+      "name": "Forging Grand Master: Top 30 Reward",
+      "level": "50"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\sovereign-v2-20261025T053956Z",
+  "files": [
+    "C_Enchant.ini",
+    "T_Enchant.ini",
+    "C_Item.ini",
+    "T_Item.ini",
+    "C_EquipSet.ini",
+    "T_EquipSet.ini",
+    "C_Parameter.ini",
+    "T_ItemMall.ini",
+    "T_Biology.ini",
+    "T_Mission.ini",
+    "T_Title.ini"
+  ]
+}

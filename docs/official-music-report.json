@@ -1,0 +1,398 @@
+{
+  "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+  "downloaded": [
+    {
+      "name": "bgm002_1",
+      "size": 5856421,
+      "sha256": "5b2e4a81c846a5d82f142fabc01bd0339d323b120eb19164557ce78c54c0e3d9",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 142361212
+    },
+    {
+      "name": "bgm006",
+      "size": 4748193,
+      "sha256": "7f4520988ea94c102aa997fdc04b4bc65d77f111b5f9bd5dd94a373088855787",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 179875031
+    },
+    {
+      "name": "bgm007",
+      "size": 6269003,
+      "sha256": "a2d47a9ca595781d866e18a597398da7187cac6ebf820857fb02d0198257b255",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 188434666
+    },
+    {
+      "name": "bgm005",
+      "size": 5575277,
+      "sha256": "42aa48632d0f1327b9445250815937da1aa336263db68962abb3db7d83d75475",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 169751851
+    },
+    {
+      "name": "bgm008",
+      "size": 5454928,
+      "sha256": "7f62efac6396f79d8679d3067cf577edf1a38aedfa4a17a3bced92bd89f6ccb2",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 198862595
+    },
+    {
+      "name": "bgm009",
+      "size": 5509915,
+      "sha256": "76b814c496f69929d01c8398b5c5cc1efe5ba4210bf290e9289b7509b376d085",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 207824031
+    },
+    {
+      "name": "bgm012",
+      "size": 5393970,
+      "sha256": "312f81c455d8a0b6433e354057a111b9d7b7002b0d7c8254c11263c123f605fc",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 236797832
+    },
+    {
+      "name": "bgm013",
+      "size": 5578254,
+      "sha256": "30279e35b1dcc2c91a09d52fa14f1756a669f3b42e9ed7d0a470caa4b2f16ff2",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 246312540
+    },
+    {
+      "name": "bgm010",
+      "size": 4788228,
+      "sha256": "89f4cac7584c1315c71f222c184bedafb0118e06a59a53cb4ed8557516c6d502",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 216720371
+    },
+    {
+      "name": "bgm014",
+      "size": 4178955,
+      "sha256": "24b6109a4996e0f2eaf0dc53986242ca10a55531510247597effcfdd5467518c",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 194696299
+    },
+    {
+      "name": "bgm015",
+      "size": 3532353,
+      "sha256": "594454f8857e7aca8014218f11739eb7e2f755412a1725175757cf4b8c557952",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 204313510
+    },
+    {
+      "name": "bgm011",
+      "size": 5741844,
+      "sha256": "fa5ff383fb4e538a2bf1f94261ac67499f647eac5002db663ebb2a1baf22653b",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 226179331
+    },
+    {
+      "name": "bgm016",
+      "size": 7578132,
+      "sha256": "8b03143935b24985522dd81fc0ff8ae2a3e44d0341a541a66139bb366065f9c5",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 263957791
+    },
+    {
+      "name": "bgm019",
+      "size": 6369159,
+      "sha256": "267000e5c290bc057dc7dd7fa509c7dc12b049387cbe9ff9db3faf89fafa0f83",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 284167480
+    },
+    {
+      "name": "bgm018",
+      "size": 6502368,
+      "sha256": "1dd57407b8d86bd17a0806356f1017997a3a5a528992e510932231dc58b7abd3",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 277675967
+    },
+    {
+      "name": "bgm017",
+      "size": 6159999,
+      "sha256": "5a3186a7a342fe940a6933c01ec6c017b5d738016af2a1d94fd22c06ea0189c0",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 271523424
+    },
+    {
+      "name": "bgm022",
+      "size": 5238307,
+      "sha256": "605cfd05e5b95f4ccf14d638ac615d25440a6b00f59ee6e570bbaf5cd7b71ea9",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 309701878
+    },
+    {
+      "name": "bgm021",
+      "size": 7663629,
+      "sha256": "fe4c7d0e9d75322f01433f77e6d4c8244838c03a07ab88e24c66e408cfa5222e",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 295656851
+    },
+    {
+      "name": "bgm023",
+      "size": 5788215,
+      "sha256": "2cd577f9c679e5d32f713b051d59b0b9f6fffd0419af2d31531f974934c6b1ed",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 321192300
+    },
+    {
+      "name": "bgm020",
+      "size": 5142403,
+      "sha256": "bdd81bfafa68c602671179e62ad802f87cd3bc8dab02543fbcdc170f115be6f8",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 290522594
+    },
+    {
+      "name": "bgm025",
+      "size": 1651512,
+      "sha256": "055a97ba1fbf0141ee5cd616edd4895af35b3e1647fb441435ce80982303fc1a",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 333671456
+    },
+    {
+      "name": "bgm024",
+      "size": 6708792,
+      "sha256": "05e01e93464359c7f1feb3cb0180915f037e3e57f5f5a21e29802ca7c2fdca7f",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 326972051
+    },
+    {
+      "name": "bgm027",
+      "size": 5635753,
+      "sha256": "482e760e99a67eed6a80b50aaf594522ea017d912536cfac5cb61978732532fe",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 341170387
+    },
+    {
+      "name": "bgm029",
+      "size": 7503328,
+      "sha256": "e0bd7f7f7394303856bfd2dd9501625ceb6330c1aadec97831e9f2f5f3d5a65e",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 348289682
+    },
+    {
+      "name": "bgm028",
+      "size": 1521176,
+      "sha256": "527741d853a79646d25cc1c55e50d16056745c7babe8beb858b6033a55b2f6ca",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 346785935
+    },
+    {
+      "name": "bgm031",
+      "size": 6262752,
+      "sha256": "ae8fa7d0012ca127bb3e9dac862a0e86f2c9ea6b772527e53a4a71c207482bc0",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 361813840
+    },
+    {
+      "name": "bgm026",
+      "size": 5873307,
+      "sha256": "ebf7cf6e01188964e7c4fc4f89db35012a4d89510f37124835d9843637aa3ef5",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 335304512
+    },
+    {
+      "name": "bgm032",
+      "size": 7782117,
+      "sha256": "4925d56bc59433ca522576f2131c0fc21128de05725bb54eb69462c4488a238d",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 368063691
+    },
+    {
+      "name": "bgm035",
+      "size": 5085239,
+      "sha256": "009a7f9953d2def85dcd784587127059a296f441c317a8b72a0596026e608812",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 384865323
+    },
+    {
+      "name": "bgm030",
+      "size": 6055557,
+      "sha256": "f801efd018cff445ec0175764ab994e19e38397a114294c16f7806647657c9a6",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 355775419
+    },
+    {
+      "name": "bgm033",
+      "size": 4051836,
+      "sha256": "5fa8c0abdeeadd204c9d262a1492a9dd512a0beee08d0111ed98c28343879c88",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 375840024
+    },
+    {
+      "name": "bgm037",
+      "size": 4713784,
+      "sha256": "9248dee97b3c171f22ea0697aa21d608a5abf7d30d6dd12ca898619da9c6d2fc",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 395510712
+    },
+    {
+      "name": "bgm036",
+      "size": 5576306,
+      "sha256": "95195f4db6e13cf8aedb6a2b2282da4d35ebce9b1e30af6a88732805cec6c451",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 389941349
+    },
+    {
+      "name": "bgm034",
+      "size": 4996858,
+      "sha256": "266557f5a95668edf9137184426836bf4fa22c934be5b3c490ee16e070305214",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 379879934
+    },
+    {
+      "name": "bgm039",
+      "size": 6133339,
+      "sha256": "aa3613a2f969215ad45d0ff785aa1eef0031dd2d48e6c415bece4b42ac8b9055",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 406198350
+    },
+    {
+      "name": "bgm041",
+      "size": 5218266,
+      "sha256": "c23ac280b5d0daa83bb734fcfae097b4b91eb5f2200ac767760ffc8540e260a2",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 418754141
+    },
+    {
+      "name": "bgm038",
+      "size": 6003690,
+      "sha256": "4677e1d9bc9da588f99cc337843c1ba8d32a5782fec83713044ec0f506469331",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 400213401
+    },
+    {
+      "name": "bgm043",
+      "size": 3464325,
+      "sha256": "d3bea5edbb5cbf89d4efee233ee1726d45b15e0553b07ee36d7edd25a64ccab3",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 430704677
+    },
+    {
+      "name": "bgm045",
+      "size": 4459423,
+      "sha256": "309be3cb8c59cdfd5542ba0cc887c9580259407610eee7522a2c3a7e0ed99620",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 440406823
+    },
+    {
+      "name": "bgm040",
+      "size": 6455843,
+      "sha256": "097a8199b7ce0790698e7425974fa9a87311e567df828f70b4edd4f0d5f7f9b4",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 412322664
+    },
+    {
+      "name": "bgm046",
+      "size": 4975365,
+      "sha256": "07fd2d85aec0bdf00066c3c40a298bb636c91749b69338b68a12a068e2f55c02",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 444858789
+    },
+    {
+      "name": "bgm042",
+      "size": 6760526,
+      "sha256": "3aa6dd79ea6e3eb93d7c24369ff5e1768203902da668bcf748325cd2e62ce075",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 423962787
+    },
+    {
+      "name": "bgm701",
+      "size": 5892023,
+      "sha256": "f686d92a4776ea583ed47c917d854bc1ebbce2c60f901fcb6727c1cacd9bc638",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 735877461
+    },
+    {
+      "name": "bgm703",
+      "size": 5190096,
+      "sha256": "2b78dda28bde3245648346ceef7eaf392c9de3bdc6f31f682deb56ced7cc2f71",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 748139166
+    },
+    {
+      "name": "bgm706",
+      "size": 8217679,
+      "sha256": "85493ca80c671ad9c59a7e1485aaeb5711bc00ad722b671cc1d0e81330824a97",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 761768583
+    },
+    {
+      "name": "bgm707",
+      "size": 6409605,
+      "sha256": "4cd221b6439f679132e1063373fa745559d0e02257edd94376ab466ea71f96b3",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 769972078
+    },
+    {
+      "name": "bgm702",
+      "size": 6384158,
+      "sha256": "2f4ef8921da0ea4ced335ac42631836e4734693eeb844eb2e1b9460951efbab1",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 741763873
+    },
+    {
+      "name": "bgm705",
+      "size": 8458174,
+      "sha256": "e758f02a8cb747e9d83832b074766729a41bf4770640df467482a0acd10ce7cd",
+      "source": "https://dlg.x-legend.tw/install/AKOnline_20231116.zip",
+      "cabinet": 2,
+      "cabinet_offset": 753323610
+    }
+  ],
+  "failed": [],
+  "unavailable": [
+    "bgm047",
+    "bgm048",
+    "bgm134",
+    "bgm135",
+    "bgm406",
+    "bgmcabal"
+  ]
+}

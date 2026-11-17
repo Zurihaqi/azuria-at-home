@@ -1,0 +1,17 @@
+{
+  "backup": "/var/backups/aurakingdom/eidolon-repair-20261031T083502Z",
+  "gift_entries": 37,
+  "skill_patch": {
+    "address": 4814675,
+    "offset": 620371,
+    "before": "0fbf936a010000",
+    "after": "31d29090909090"
+  },
+  "skill_tests": 8,
+  "preserved_pending_links": "[{\"elf_id\":50000006,\"template_id\":232,\"link_time\":-1}, \n {\"elf_id\":50000012,\"template_id\":239,\"link_time\":-1}, \n {\"elf_id\":50000004,\"template_id\":240,\"link_time\":-1}]",
+  "bot_units_stopped": [
+    "ak-bot-awan",
+    "ak-bot-arden"
+  ],
+  "gameplay_verified": false
+}

@@ -1,0 +1,756 @@
+[
+  {
+    "id": 50478,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50478,
+        "type": 3,
+        "flags": 1,
+        "weapon": 133120,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50480,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50480,
+        "type": 3,
+        "flags": 1,
+        "weapon": 163840,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50484,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50484,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50472,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50472,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50485,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50485,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50474,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50474,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50471,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50471,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50470,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50470,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50330,
+    "occurrences": 3,
+    "ranks": [
+      {
+        "id": 50330,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50331,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50331,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50477,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50477,
+        "type": 3,
+        "flags": 1,
+        "weapon": 133120,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50220,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50220,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50469,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50469,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50334,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50334,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50213,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50213,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50482,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50482,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50219,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50219,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50329,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50329,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50333,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50333,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50475,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50475,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50328,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50328,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50327,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50327,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50326,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50326,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50462,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50462,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50737,
+    "missing": true
+  },
+  {
+    "id": 62343,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 62343,
+        "type": 2,
+        "flags": 3,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50488,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50488,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50332,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50332,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50338,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50338,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50339,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50339,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50468,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50468,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50467,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50467,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50466,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50466,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50323,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50323,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50335,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50335,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50201,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50201,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50487,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50487,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50476,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50476,
+        "type": 3,
+        "flags": 1,
+        "weapon": 133120,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50216,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50216,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50324,
+    "occurrences": 3,
+    "ranks": [
+      {
+        "id": 50324,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50336,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50336,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50473,
+    "occurrences": 2,
+    "ranks": [
+      {
+        "id": 50473,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50217,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50217,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50325,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50325,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50463,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50463,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50464,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50464,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50465,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50465,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50483,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50483,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50481,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50481,
+        "type": 3,
+        "flags": 1,
+        "weapon": 163840,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50486,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50486,
+        "type": 1,
+        "flags": 1,
+        "weapon": 0,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  },
+  {
+    "id": 50479,
+    "occurrences": 1,
+    "ranks": [
+      {
+        "id": 50479,
+        "type": 3,
+        "flags": 1,
+        "weapon": 163840,
+        "level": 0,
+        "learn_limit": 0,
+        "class": 0
+      }
+    ]
+  }
+]

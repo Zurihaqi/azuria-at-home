@@ -1,0 +1,31 @@
+{
+  "set": "Zrymund's Astral Sovereign",
+  "backup": "/var/backups/aurakingdom/pre-custom-set-20261024T191715Z",
+  "item_ids": [
+    61586,
+    61587,
+    61588,
+    61589,
+    61590,
+    61591,
+    61592,
+    61593,
+    61594,
+    61595,
+    61596
+  ],
+  "enchant_ids": [
+    180001,
+    180002
+  ],
+  "mall_sections": 44,
+  "mall_items": 10627,
+  "quest_hashes_unchanged": true,
+  "gold_unchanged": true,
+  "delivery": "Item Mall -> AP -> Gear Catalog -> Zrymund Sovereign Set, 1 AP each",
+  "validation": "11 native item stat records, two enchant definitions, complete 44-section mall cache, quest/gold preservation verified. Equipping effects and custom purchases require player validation.",
+  "native_item_stats_verified": true,
+  "enchant_definitions_loaded": 2,
+  "live_custom_mall_items": 11,
+  "services_online": 6
+}

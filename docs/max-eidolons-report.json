@@ -1,0 +1,43 @@
+{
+  "backup": "/var/backups/aurakingdom/max-eidolons-20261031T092525Z",
+  "account": 2419,
+  "character": 50000001,
+  "total": 150,
+  "created": 136,
+  "active": [
+    [
+      50000001,
+      6,
+      0,
+      0
+    ],
+    [
+      50000004,
+      240,
+      3,
+      0
+    ],
+    [
+      50000006,
+      232,
+      1,
+      0
+    ],
+    [
+      50000012,
+      239,
+      2,
+      0
+    ]
+  ],
+  "storage": 146,
+  "level": 99,
+  "stars": 4,
+  "affection": 10,
+  "protected_quest_tables": 13,
+  "character_unchanged": true,
+  "inventory_unchanged": true,
+  "other_accounts_unchanged": true,
+  "native_hp_tests": 150,
+  "gameplay_verified": false
+}

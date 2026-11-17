@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Astral • Aura Kingdom Control</title><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body>
+<div id="login" class="login-screen">
+  <form id="login-form" class="login-card">
+    <div class="brand-mark">✦</div><span class="eyebrow">YOUR PRIVATE REALM</span>
+    <h1>Astral Control</h1><p>Aura Kingdom server administration</p>
+    <label>Administrator<input name="username" value="admin" autocomplete="username" required></label>
+    <label>Password<input name="password" type="password" autocomplete="current-password" required></label>
+    <p id="login-error" class="error" role="alert"></p><button class="primary" type="submit">Enter your realm <span>→</span></button>
+    <small>Local access only · Separate from your game login<br>Login details are in private/dashboard/LOGIN.txt</small>
+  </form>
+</div>
+<div id="shell" hidden>
+  <aside>
+    <a class="brand" href="#overview"><b class="brand-mark">✦</b><span>ASTRAL<small>REALM CONTROL</small></span></a>
+    <div class="realm-tag"><span class="dot"></span>Aura Kingdom <b>V15</b></div>
+    <span class="nav-heading">WORKSPACE</span>
+    <nav aria-label="Main navigation">
+      <a href="#overview" data-page="overview"><span>◈</span>Overview</a>
+      <a href="#players" data-page="players"><span>♙</span>Players</a>
+      <a href="#bots" data-page="bots"><span>◇</span>Bots</a>
+      <a href="#mall" data-page="mall"><span>▦</span>Item Mall</a>
+      <a href="#events" data-page="events"><span>✧</span>Events</a>
+      <a href="#operations" data-page="operations"><span>⚙</span>Operations</a>
+    </nav>
+    <div class="sidebar-note"><span>PRIVATE NETWORK</span><b>Tailscale VPN</b><small>Zero-trust mesh active</small></div>
+    <div class="admin"><div class="avatar">A</div><div>Administrator<small>Local owner</small></div><button id="logout" class="icon-button" aria-label="Sign out" title="Sign out">↪</button></div>
+  </aside>
+  <main>
+    <header><div class="breadcrumb">Workspace <span>/</span> <b id="breadcrumb">Overview</b></div><div class="header-right"><span id="connection" class="connection">Checking server</span><span id="clock"></span></div></header>
+    <div class="page-heading"><div><span class="eyebrow" id="page-eyebrow">YOUR REALM AT A GLANCE</span><h1 id="page-title">Server overview</h1><p id="page-description">A quiet place to keep your adventures running.</p></div><button id="refresh" class="secondary">↻ <span>Refresh</span></button></div>
+    <div id="alert" class="notice" role="status" hidden></div>
+    <section id="content" aria-live="polite"></section>
+    <footer><span>ASTRAL CONTROL <b>·</b> AURA KINGDOM V15</span><span>Private server · Local administration</span></footer>
+  </main>
+</div>
+<dialog id="modal"><form id="modal-form"><div class="modal-heading"><div><span class="eyebrow" id="modal-eyebrow">REALM MANAGEMENT</span><h2 id="modal-title"></h2></div><button type="button" id="modal-close" class="icon-button" aria-label="Close">×</button></div><div id="modal-body"></div><p id="modal-error" class="error" role="alert"></p><div class="modal-actions"><button type="button" id="modal-cancel" class="secondary">Cancel</button><button type="submit" id="modal-submit" class="primary">Save changes</button></div></form></dialog>
+<div id="job-bar" role="status" hidden><span class="spinner"></span><span id="job-message">Working…</span></div>
+</body></html>

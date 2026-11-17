@@ -1,0 +1,53 @@
+{
+  "whip_pen_before": 90,
+  "whip_pen_after": 999,
+  "other_piece_pen": 100,
+  "other_pieces": 10,
+  "full_set_pen": 1999,
+  "enchant_id": 180003,
+  "files": [
+    {
+      "name": "S_Item.ini",
+      "before_sha256": "92a2cad55edc554d3671c4cd6f881ade2677888bf0cdd91671d882b898b93525",
+      "after_sha256": "3400aec384f0078de24c67cfab7e457c5ce7d9baefcb9a19faffeb415220e0c5",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\staging\\pen-source\\S_Item.ini"
+    },
+    {
+      "name": "S_Enchant.ini",
+      "before_sha256": "8a0730483006ba71bea5e11024d3a999cc5825a9d705a810d1f574b422490f6f",
+      "after_sha256": "4f967f9d0a6cb8541b45797f4083d1da3660cd13e723ef2fcbd0af87d5d1bdf5",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\staging\\pen-source\\S_Enchant.ini"
+    },
+    {
+      "name": "C_Item.ini",
+      "before_sha256": "49eb85d58cb8a2f193f1e5ee7af9a477cef4110d3ba3fdcf911d1379994f139a",
+      "after_sha256": "ab33863c7b423900340c2a827a1ad18d01c0efd6c65abfd432763b199818a5b5",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\C_Item.ini"
+    },
+    {
+      "name": "C_Enchant.ini",
+      "before_sha256": "f9c8a25323b5dd2e5336e1ac519d3f816ceb2a55d4c1964c2a4ac933e3560981",
+      "after_sha256": "a45f30fe16ef7a692f1ccdd30fc4ab8a632a21e4653eb859f07ceb1e03715d7a",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\C_Enchant.ini"
+    },
+    {
+      "name": "T_Item.ini",
+      "before_sha256": "b29ec93b9eb512f6c6fa76fc74424f414a84793192d1e1ae1daf56fd4468b836",
+      "after_sha256": "9b9f4b861d4bd05718c7f4c9e40c8d36ba9ec024e7265a5b84083ff8ba6d64c9",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Item.ini"
+    },
+    {
+      "name": "T_Enchant.ini",
+      "before_sha256": "d3521a6486f5a429728f993dedfd7cb3a6c83ad693c82907147ad8545b1cfaf9",
+      "after_sha256": "1d5dffcb9e3995ec18031beb062f5b44cb191a339dfaaf37e9f7158098ed2acc",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Enchant.ini"
+    }
+  ],
+  "status": "prepared_not_applied",
+  "waiting_for": "Zrymund offline and game closed",
+  "native_parameter_range": [
+    -999,
+    999
+  ],
+  "last_observed_character_level": 120
+}

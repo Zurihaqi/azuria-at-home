@@ -1,0 +1,8 @@
+{
+  "setting": "HideOtherCharacter",
+  "before": 1,
+  "after": 0,
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\show-other-players-20261026T155356Z",
+  "only_setting_changed": true,
+  "requires_client_reload": true
+}

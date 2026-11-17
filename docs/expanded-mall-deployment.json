@@ -1,0 +1,19 @@
+{
+  "backup": "/var/backups/aurakingdom/pre-expanded-mall-20261024T160819Z",
+  "mall_items": 10616,
+  "mall_sections": 43,
+  "titles": 5442,
+  "panels": 245,
+  "medals": 96,
+  "medal_table": "player_characters_achievement9",
+  "envoy_points": 1000,
+  "quest_tables_unchanged": true,
+  "original_stock_unchanged": true,
+  "fortification": "Native upgrade routine, up to +30 on supported types",
+  "stars": "5 on eligible quality/type equipment",
+  "validation": "DB/hash checks and complete live shop cache verified. Enhancement hook passed 18 emulated cases. Character entry, shop display/purchase upgrades and unlock UI pending player validation.",
+  "live_cache_verified": true,
+  "live_cached_items": 10616,
+  "live_sections": 43,
+  "services_online": 6
+}

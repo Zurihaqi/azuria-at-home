@@ -1,0 +1,15 @@
+[Unit]
+Description=Aura Kingdom restricted guest input firewall
+Before=tailscaled.service aurakingdom.service
+After=network-pre.target
+Wants=network-pre.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStartPre=/usr/sbin/nft add table inet ak_guard
+ExecStart=/usr/sbin/nft -f /etc/ak-firewall.nft
+ExecReload=/usr/sbin/nft -f /etc/ak-firewall.nft
+
+[Install]
+WantedBy=multi-user.target

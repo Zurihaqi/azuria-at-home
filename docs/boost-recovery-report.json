@@ -1,0 +1,9 @@
+{
+  "character": "Zrymund",
+  "test_level": 99,
+  "gold_base_units": 1000000000,
+  "gear_and_stat_modifications": "reverted to original values",
+  "pending_incompatible_gear_mail": "removed",
+  "quest_tables_unchanged": true,
+  "changed_quest_tables": []
+}

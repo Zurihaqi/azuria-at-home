@@ -1,0 +1,10 @@
+{
+  "mode": "borderless fullscreen",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\borderless-20261026T155829Z",
+  "launcher": "D:\\Games\\Aura Kingdom Private Server\\ops\\Play-Borderless.ps1",
+  "visual_validation": "pending next launch"
+}

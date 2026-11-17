@@ -1,0 +1,11 @@
+{
+  "backup": "/var/backups/aurakingdom/free-preview-20261031T060557Z",
+  "entries": 1413,
+  "zero_prices": true,
+  "direct_delivery": true,
+  "emulation_tests": 10,
+  "binary_before": "5133bb387a53d4d97e4910a4f284fae5aca3f3e25ce2ad0059bc5a17b0a3d6e1",
+  "binary_after": "0371babe0f7046fe20aba7ca45e9e431720568c03423f7bf5a01a7bb5609ee7b",
+  "crafting_driver": "Native recipe-chain pilot enabled for quest 2092",
+  "gameplay_purchase_verified": false
+}

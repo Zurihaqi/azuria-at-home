@@ -1,0 +1,1133 @@
+{
+  "24": [
+    {
+      "id": 33937,
+      "name": "Royal Whip",
+      "type": "24",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "27": "1",
+        "28": "3819",
+        "30": "104",
+        "31": "$53$\ufffdu\ufffdQ\ufffd\u03af\ufffd\ufffd~\ufffd\ufa24\ufffds\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffdA\ufffd\u697f\ufffdq\ufffd\ufffd\ufffd\u01af\ufffdi\ufffd\ufffdx\ufffd\ue927\ufffd\ufffdA\ufffd\u07bb\ufffd\ufffdi\ufffd\u01a1C\ufffdv",
+        "32": "75881",
+        "33": "75882",
+        "34": "75883",
+        "35": "75884",
+        "37": "5",
+        "38": "17",
+        "39": "120739",
+        "40": "3527",
+        "41": "2822"
+      }
+    },
+    {
+      "id": 33917,
+      "name": "Ultimate Royal Whip",
+      "type": "24",
+      "level": "130",
+      "grade": "G00002",
+      "stats": {
+        "27": "1",
+        "28": "3819",
+        "30": "104",
+        "31": "$53$\ufffdu\ufffd\ufffd\ufffd\u02a6\ufffd\ufffd@\ufffd{\ufffdp\ufffd\ufffd\ufffd~\ufffd\ufffd\ufffd{\ufffd@\ufffd\ufffdA\ufffdi\ufffd{\ufffd\ud89e\uddfbP\ufffd\ufffd\ufffdY\ufffd\u0b70\ufffd\ufffdx\ufffdx\ufffd\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffd\ufffd\ufffdL\ufffdW\ufffdj\ufffd\ufffd\ufffdC\ufffdv",
+        "32": "75881",
+        "33": "75882",
+        "34": "75883",
+        "35": "75884",
+        "37": "5",
+        "38": "17",
+        "39": "135607",
+        "40": "4500",
+        "41": "3246"
+      }
+    },
+    {
+      "id": 34042,
+      "name": "Titanium Royal Whipe",
+      "type": "24",
+      "level": "128",
+      "grade": "G00001",
+      "stats": {
+        "27": "1",
+        "28": "3763",
+        "30": "104",
+        "32": "75887",
+        "33": "75888",
+        "34": "75889",
+        "35": "75890",
+        "37": "5",
+        "38": "17",
+        "39": "96299"
+      }
+    },
+    {
+      "id": 22799,
+      "name": "Dawn - Stardust Golem",
+      "type": "24",
+      "level": "125",
+      "grade": "G00004",
+      "stats": {
+        "27": "1",
+        "28": "3679",
+        "30": "104",
+        "31": "$53$\ufffdu\ufffd@\ufffd}\ufffd\u0479p\ufffdT\ufffd\ufffd\ufffd\ufffd\ufffd]\ufffdA\ufffdO\ufffdW\ufffd\u0475\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffd\ufffdg\ufffd@\ufffdA\ufffd]\ufffdQ\ufffdA\ufffd\ufffd\ufffd\u01b1\u6aba\ufffdH\ufffdx\ufffdC\ufffdv",
+        "37": "5",
+        "38": "17",
+        "39": "118698",
+        "40": "3456",
+        "41": "2764"
+      }
+    },
+    {
+      "id": 22302,
+      "name": "Divine Royal Whip",
+      "type": "24",
+      "level": "120",
+      "grade": "G00003",
+      "stats": {
+        "27": "1",
+        "28": "3539",
+        "30": "104",
+        "31": "$53$\ufffdu\ufffdQ\ufffd\u03a4\u06f9\u04a4\ufffd\ufffda\ufffd\ufffd\ufffdF\ufffd\u06e9\ufffd\u0171\ufffdy\ufffd\ufffd\ufffd\ufffd\ufffd@\ufffdA\ufffd\ufffd\u05a6\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u06e4\ufffd\ufffdO\ufffd",
+        "32": "\ufffd\ufffd\ufffd\ufffdi\ufffd\u01a1A\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds\ufffd\ufffd\ufffd@\ufffdC\ufffdv",
+        "33": "75881",
+        "34": "75882",
+        "35": "75883",
+        "36": "75884",
+        "38": "5",
+        "39": "17",
+        "40": "88050",
+        "41": "2487",
+        "42": "1984"
+      }
+    },
+    {
+      "id": 22284,
+      "name": "Sinful Phantom Royal Whip",
+      "type": "24",
+      "level": "120",
+      "grade": "G00002",
+      "stats": {
+        "27": "1",
+        "28": "3539",
+        "30": "104",
+        "31": "$53$\ufffdu\ufffdI\ufffdi\ufffd\ufffd\ufffd@\ufffd\u0261A\ufffd",
+        "32": "\ufffd\ufffd\ufffd\ufffd\u2ca3\ufffd\u0366p\ufffd\u06a6\ufffd\ufffd\u06ea\ufffd\ufffd\u06b9\u04a4\ufffd\ufffdA\ufffd\ufffd\ufffd\ufffd\u0131\ufffd\u0264w\ufffdg\ufffdB\ufffdJ\ufffds\ufffd\ufffd\ufffd@\ufffd\ufffd\ufffd\ufffd\ufffdq\ufffd\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "33": "75881",
+        "34": "75882",
+        "35": "75883",
+        "36": "75884",
+        "38": "5",
+        "39": "17",
+        "40": "99722",
+        "41": "3317",
+        "42": "2306"
+      }
+    }
+  ],
+  "1": [
+    {
+      "id": 33950,
+      "name": "Ardent Assault Helmet",
+      "type": "1",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2217",
+        "30": "9",
+        "31": "$53$\ufffdu\ufffd\u02f1\ufffd@\ufffd\ufffd\ufffdL\ufffd\u03a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdY\ufffd\ufffd\ufffdA\ufffd\u07e6\ufffd\ufffdb\ufffd\u02e9R\ufffdS\ufffd\ufffd\u026f\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffd\u3aba\ufffd\ufffdO\ufffdC\ufffdv",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "10685",
+        "40": "3857",
+        "41": "2675",
+        "43": "5653"
+      }
+    },
+    {
+      "id": 33955,
+      "name": "Journey Helmet",
+      "type": "1",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2217",
+        "30": "9",
+        "32": "40059",
+        "33": "40060",
+        "34": "42415",
+        "35": "42416",
+        "39": "9674",
+        "40": "2902",
+        "41": "2321",
+        "43": "5103"
+      }
+    },
+    {
+      "id": 33965,
+      "name": "Assault Helmet",
+      "type": "1",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2217",
+        "30": "9",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "9288",
+        "40": "3023",
+        "41": "2321",
+        "43": "5103"
+      }
+    },
+    {
+      "id": 33940,
+      "name": "Dark Oath Journey Helmet",
+      "type": "1",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2217",
+        "30": "9",
+        "31": "$53$\ufffdu\ufffdH\ufffd\ufffd\ufffdY\ufffd\ufffd\ufffd\u07e4U\ufffd\ufffd\ufffd\u053b}\ufffd\ufffd\ufffdA\ufffdu\ufffdn\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "32": "\ufffdb\ufffdA\ufffd\ufffd\ufffd\u0525\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "33": "40059",
+        "34": "40060",
+        "35": "42415",
+        "36": "42416",
+        "40": "12343",
+        "41": "3339",
+        "42": "2675"
+      }
+    },
+    {
+      "id": 33945,
+      "name": "Steadfast Colossus Helmet",
+      "type": "1",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2217",
+        "30": "9",
+        "31": "$53$\ufffdu\ufffdP\ufffd\ufffd\ufffdg\ufffdj\ufffda\ufffdP\ufffdb\ufffdY\ufffd\ufffd\ufffdA\ufffdu\ufffdn\ufffd\u0665\u07e8\ufffd\ufffd\ufffda\ufffdA\ufffdN\ufffd\u05a6\ufffd\ufffd\ufffd\ufffd\u06ea\ufffd\ufffd\ufffd\ufffdm\ufffdO\ufffdC\ufffdv",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "2321",
+        "42": "16000",
+        "43": "7067"
+      }
+    },
+    {
+      "id": 33960,
+      "name": "Colossus Helmet",
+      "type": "1",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2217",
+        "30": "9",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "1738",
+        "42": "12540",
+        "43": "6379"
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": 33951,
+      "name": "Ardent Assault Armor",
+      "type": "2",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2728",
+        "30": "10",
+        "31": "$53$\ufffdu\ufffd\u02f1\ufffd@\ufffd\ufffd\ufffdL\ufffd\u03a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdZ\ufffd\u04a1A\ufffd\u07e6\ufffd\ufffdb\ufffd\u02e9R\ufffdS\ufffd\ufffd\u026f\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffd\u3aba\ufffd\ufffdO\ufffdC\ufffdv",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "12466",
+        "40": "4500",
+        "41": "3121",
+        "43": "6596"
+      }
+    },
+    {
+      "id": 33956,
+      "name": "Journey Armor",
+      "type": "2",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2728",
+        "30": "10",
+        "32": "40059",
+        "33": "40060",
+        "34": "42415",
+        "35": "42416",
+        "39": "11286",
+        "40": "3386",
+        "41": "2708",
+        "43": "5954"
+      }
+    },
+    {
+      "id": 33966,
+      "name": "Assault Armor",
+      "type": "2",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2728",
+        "30": "10",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "10836",
+        "40": "3527",
+        "41": "2708",
+        "43": "5954"
+      }
+    },
+    {
+      "id": 33941,
+      "name": "Dark Oath Journey Divine Armor",
+      "type": "2",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2728",
+        "30": "10",
+        "31": "$53$\ufffdu\ufffdH\ufffd\ufffd\ufffdZ\ufffd\u04a5\u07e4U\ufffd\ufffd\ufffd\u053b}\ufffd\ufffd\ufffdA\ufffdu\ufffdn\ufffd\ufffd\ufffdZ\ufffd",
+        "32": "\ufffdb\ufffdA\ufffd\ufffd\ufffd\u0525\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "33": "40059",
+        "34": "40060",
+        "35": "42415",
+        "36": "42416",
+        "40": "14400",
+        "41": "3896",
+        "42": "3121"
+      }
+    },
+    {
+      "id": 33946,
+      "name": "Steadfast Colossus Armor",
+      "type": "2",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2728",
+        "30": "10",
+        "31": "$53$\ufffdu\ufffdP\ufffd\ufffd\ufffdg\ufffdj\ufffda\ufffdP\ufffdb\ufffd\ufffd\ufffdZ\ufffdA\ufffdu\ufffdn\ufffd\u0665\u07e8\ufffd\ufffd\ufffda\ufffdA\ufffdN\ufffd\u05a6\ufffd\ufffd\ufffd\ufffd\u06ea\ufffd\ufffd\ufffd\ufffdm\ufffdO\ufffdC\ufffdv",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "2708",
+        "42": "18666",
+        "43": "8245"
+      }
+    },
+    {
+      "id": 33961,
+      "name": "Colossus Armor",
+      "type": "2",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "2728",
+        "30": "10",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "2028",
+        "42": "14630",
+        "43": "7442"
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": 33954,
+      "name": "Ardent Assault Waistguard",
+      "type": "3",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "11",
+        "31": "$53$\ufffdu\ufffd\u02f1\ufffd@\ufffd\ufffd\ufffdL\ufffd\u03a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffd\u04a1A\ufffd\u07e6\ufffd\ufffdb\ufffd\u02e9R\ufffdS\ufffd\ufffd\u026f\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffd\u3aba\ufffd\ufffdO\ufffdC\ufffdv",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "5343",
+        "40": "1929",
+        "41": "1338",
+        "43": "3533"
+      }
+    },
+    {
+      "id": 33959,
+      "name": "Journey Waistguard",
+      "type": "3",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "11",
+        "32": "40059",
+        "33": "40060",
+        "34": "42415",
+        "35": "42416",
+        "39": "4837",
+        "40": "1451",
+        "41": "1160",
+        "43": "3189"
+      }
+    },
+    {
+      "id": 33969,
+      "name": "Assault Waistguard",
+      "type": "3",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "11",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "4644",
+        "40": "1512",
+        "41": "1160",
+        "43": "3189"
+      }
+    },
+    {
+      "id": 33944,
+      "name": "Dark Oath Journey Waistguard",
+      "type": "3",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "11",
+        "31": "$53$\ufffdu\ufffdH\ufffd\ufffd\ufffdy\ufffd\u04a5\u07e4U\ufffd\ufffd\ufffd\u053b}\ufffd\ufffd\ufffdA\ufffdu\ufffdn\ufffd\ufffd\ufffd\u04a9",
+        "32": "\ufffdb\ufffdA\ufffd\ufffd\ufffd\u0525\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "33": "40059",
+        "34": "40060",
+        "35": "42415",
+        "36": "42416",
+        "40": "6171",
+        "41": "1670",
+        "42": "1338"
+      }
+    },
+    {
+      "id": 33949,
+      "name": "Steadfast Colossus Waistguard",
+      "type": "3",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "11",
+        "31": "$53$\ufffdu\ufffdP\ufffd\ufffd\ufffdg\ufffdj\ufffda\ufffdP\ufffdb\ufffdy\ufffd\u04a1A\ufffdu\ufffdn\ufffd\u0665\u07e8\ufffd\ufffd\ufffda\ufffdA\ufffdN\ufffd\u05a6\ufffd\ufffd\ufffd\ufffd\u06ea\ufffd\ufffd\ufffd\ufffdm\ufffdO\ufffdC\ufffdv",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "1160",
+        "42": "8000",
+        "43": "4417"
+      }
+    },
+    {
+      "id": 33964,
+      "name": "Colossus Waistguard",
+      "type": "3",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "11",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "869",
+        "42": "6270",
+        "43": "3987"
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": 33952,
+      "name": "Ardent Assault Gloves",
+      "type": "4",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "12",
+        "31": "$53$\ufffdu\ufffd\u02f1\ufffd@\ufffd\ufffd\ufffdL\ufffd\u03a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdu\ufffd\u04a1A\ufffd\u07e6\ufffd\ufffdb\ufffd\u02e9R\ufffdS\ufffd\ufffd\u026f\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffd\u3aba\ufffd\ufffdO\ufffdC\ufffdv",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "8904",
+        "40": "3214",
+        "41": "2229",
+        "43": "4005"
+      }
+    },
+    {
+      "id": 33957,
+      "name": "Journey Gloves",
+      "type": "4",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "12",
+        "32": "40059",
+        "33": "40060",
+        "34": "42415",
+        "35": "42416",
+        "39": "8061",
+        "40": "2419",
+        "41": "1934",
+        "43": "3615"
+      }
+    },
+    {
+      "id": 33967,
+      "name": "Assault Gloves",
+      "type": "4",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "12",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "7740",
+        "40": "2519",
+        "41": "1934",
+        "43": "3615"
+      }
+    },
+    {
+      "id": 33942,
+      "name": "Dark Oath Journey Armguards",
+      "type": "4",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "12",
+        "31": "$53$\ufffdu\ufffdH\ufffd\ufffd\ufffdu\ufffd\u04a5\u07e4U\ufffd\ufffd\ufffd\u053b}\ufffd\ufffd\ufffdA\ufffdu\ufffdn\ufffd\ufffd\ufffdu\ufffd",
+        "32": "\ufffdb\ufffdA\ufffd\ufffd\ufffd\u0525\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "33": "40059",
+        "34": "40060",
+        "35": "42415",
+        "36": "42416",
+        "40": "10285",
+        "41": "2783",
+        "42": "2229"
+      }
+    },
+    {
+      "id": 33947,
+      "name": "Steadfast Colossus Gloves",
+      "type": "4",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "12",
+        "31": "$53$\ufffdu\ufffdP\ufffd\ufffd\ufffdg\ufffdj\ufffda\ufffdP\ufffdb\ufffdu\ufffd\u04a1A\ufffdu\ufffdn\ufffd\u0665\u07e8\ufffd\ufffd\ufffda\ufffdA\ufffdN\ufffd\u05a6\ufffd\ufffd\ufffd\ufffd\u06ea\ufffd\ufffd\ufffd\ufffdm\ufffdO\ufffdC\ufffdv",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "1934",
+        "42": "13333",
+        "43": "5006"
+      }
+    },
+    {
+      "id": 33962,
+      "name": "Colossus Gloves",
+      "type": "4",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "12",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "1448",
+        "42": "10450",
+        "43": "4518"
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": 33953,
+      "name": "Ardent Assault Boots",
+      "type": "5",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "13",
+        "31": "$53$\ufffdu\ufffd\u02f1\ufffd@\ufffd\ufffd\ufffdL\ufffd\u03a4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdu\ufffdA\ufffd\u07e6\ufffd\ufffdb\ufffd\u02e9R\ufffdS\ufffd\ufffd\u026f\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffd\u3aba\ufffd\ufffdO\ufffdC\ufffdv",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "8904",
+        "40": "3214",
+        "41": "2229",
+        "43": "3769"
+      }
+    },
+    {
+      "id": 33958,
+      "name": "Journey Boots",
+      "type": "5",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "13",
+        "32": "40059",
+        "33": "40060",
+        "34": "42415",
+        "35": "42416",
+        "39": "8061",
+        "40": "2419",
+        "41": "1934",
+        "43": "3402"
+      }
+    },
+    {
+      "id": 33968,
+      "name": "Assault Boots",
+      "type": "5",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "13",
+        "32": "41996",
+        "33": "41997",
+        "34": "41998",
+        "35": "41999",
+        "39": "7740",
+        "40": "2519",
+        "41": "1934",
+        "43": "3402"
+      }
+    },
+    {
+      "id": 33943,
+      "name": "Dark Oath Journey Boots",
+      "type": "5",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "13",
+        "31": "$53$\ufffdu\ufffdH\ufffd\ufffd\ufffdK\ufffdu\ufffd\u07e4U\ufffd\ufffd\ufffd\u053b}\ufffd\ufffd\ufffdA\ufffdu\ufffdn\ufffd\ufffd\ufffdu\ufffd",
+        "32": "\ufffdb\ufffdA\ufffd\ufffd\ufffd\u0525\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "33": "40059",
+        "34": "40060",
+        "35": "42415",
+        "36": "42416",
+        "40": "10285",
+        "41": "2783",
+        "42": "2229"
+      }
+    },
+    {
+      "id": 33948,
+      "name": "Steadfast Colossus Boots",
+      "type": "5",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "13",
+        "31": "$53$\ufffdu\ufffdP\ufffd\ufffd\ufffdg\ufffdj\ufffda\ufffdP\ufffdb\ufffd\ufffd\ufffdu\ufffdA\ufffdu\ufffdn\ufffd\u0665\u07e8\ufffd\ufffd\ufffda\ufffdA\ufffdN\ufffd\u05a6\ufffd\ufffd\ufffd\ufffd\u06ea\ufffd\ufffd\ufffd\ufffdm\ufffdO\ufffdC\ufffdv",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "1934",
+        "42": "13333",
+        "43": "4711"
+      }
+    },
+    {
+      "id": 33963,
+      "name": "Colossus Boots",
+      "type": "5",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1876",
+        "30": "13",
+        "32": "40055",
+        "33": "40056",
+        "34": "42413",
+        "35": "42414",
+        "41": "1448",
+        "42": "10450",
+        "43": "4253"
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": 33970,
+      "name": "Total War Perin Cloak",
+      "type": "6",
+      "level": "130",
+      "grade": "G00004",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "14",
+        "32": "41980",
+        "33": "41981",
+        "34": "41982",
+        "35": "41983",
+        "39": "6171",
+        "40": "1670",
+        "41": "1338"
+      }
+    },
+    {
+      "id": 33976,
+      "name": "Shape Shift Cloak",
+      "type": "6",
+      "level": "130",
+      "grade": "G00004",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "14",
+        "32": "41980",
+        "33": "41981",
+        "34": "41982",
+        "35": "41983",
+        "39": "5343",
+        "40": "1929",
+        "41": "1338"
+      }
+    },
+    {
+      "id": 33979,
+      "name": "Total War Cloak",
+      "type": "6",
+      "level": "130",
+      "grade": "G00004",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "14",
+        "32": "41980",
+        "33": "41981",
+        "34": "41982",
+        "35": "41983",
+        "39": "4837",
+        "40": "1451",
+        "41": "1160"
+      }
+    },
+    {
+      "id": 33985,
+      "name": "Shaped  Cloak",
+      "type": "6",
+      "level": "130",
+      "grade": "G00004",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "14",
+        "32": "41980",
+        "33": "41981",
+        "34": "41982",
+        "35": "41983",
+        "39": "4644",
+        "40": "1512",
+        "41": "1160"
+      }
+    },
+    {
+      "id": 33973,
+      "name": "Crag Violet Cloak",
+      "type": "6",
+      "level": "130",
+      "grade": "G00004",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "14",
+        "32": "41980",
+        "33": "41981",
+        "34": "41982",
+        "35": "41983",
+        "41": "1160",
+        "42": "8000"
+      }
+    },
+    {
+      "id": 33982,
+      "name": "Cliff Cloak",
+      "type": "6",
+      "level": "130",
+      "grade": "G00004",
+      "stats": {
+        "26": "1",
+        "27": "1",
+        "28": "1705",
+        "30": "14",
+        "32": "41980",
+        "33": "41981",
+        "34": "41982",
+        "35": "41983",
+        "41": "869",
+        "42": "6270"
+      }
+    }
+  ],
+  "7": [
+    {
+      "id": 33920,
+      "name": "Split Gold Double Blade",
+      "type": "7",
+      "level": "130",
+      "grade": "G00003",
+      "stats": {
+        "27": "1",
+        "28": "3069",
+        "30": "1",
+        "31": "$53$\ufffdu\ufffdU\ufffdQ\ufffd\ufffd\ufffdM\ufffdW\ufffd\u0ef4\ufffd\ufffd\ufffd\ufffd\ufffd}\ufffd\ufffd\ufffd\u0761A\ufffdg\ufffdL\ufffdL\ufffd\u01a6\ufffd\ufffdD\ufffd\u052b\ufffd\u03b3\\\ufffd\ufffd\ufffdi\ufffd@\ufffdB\ufffdC\ufffdv",
+        "32": "40023",
+        "33": "40024",
+        "34": "40025",
+        "35": "40026",
+        "37": "2",
+        "38": "18",
+        "39": "97022",
+        "40": "3386",
+        "41": "2708"
+      }
+    },
+    {
+      "id": 33900,
+      "name": "Ultimate Goldbreaking Double Blade",
+      "type": "7",
+      "level": "130",
+      "grade": "G00002",
+      "stats": {
+        "27": "1",
+        "28": "3069",
+        "30": "1",
+        "31": "$53$\ufffdu\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdw\ufffd\ufffd\ufffdO\ufffd\ufffd\u01a1A\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0766p\ufffd\ufffd\ufffdo\ufffd\ube7a\ufffd}\ufffdA\ufffd]\ufffd\ufffd\ufffd@\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffdU\ufffdC\ufffdv",
+        "32": "40023",
+        "33": "40024",
+        "34": "40025",
+        "35": "40026",
+        "37": "2",
+        "38": "18",
+        "39": "108970",
+        "40": "3896",
+        "41": "3121"
+      }
+    },
+    {
+      "id": 34025,
+      "name": "Cherish the Double Edge of Gold",
+      "type": "7",
+      "level": "128",
+      "grade": "G00001",
+      "stats": {
+        "27": "1",
+        "28": "3024",
+        "30": "1",
+        "32": "40023",
+        "33": "40024",
+        "34": "40025",
+        "35": "40026",
+        "37": "2",
+        "38": "18",
+        "39": "77383"
+      }
+    },
+    {
+      "id": 22285,
+      "name": "Dual Wraith Blade",
+      "type": "7",
+      "level": "120",
+      "grade": "G00003",
+      "stats": {
+        "27": "1",
+        "28": "2844",
+        "30": "1",
+        "31": "$53$\ufffdu\ufffdW\ufffd\ufffd\ufffd\ufffd\ufffdM\ufffd\ufffd\ufffdA\ufffd\ufffd\ufffdF\ufffdi\ufffdH\ufffd\u0671\ufffd\ufffdU\ufffd\ufffd\ufffdA\ufffds\ufffd\ufffd\ufffd\u4927\ufffd\ufffd]\ufffd\ufffd@\ufffdM\ufffd\ufffd\ufffd_\ufffdA\ufffdp\ufffd\u05a6\ufffd\ufffdf\ufffd\u0464\ufffd\ufffd\ufffdi\ufffd\u03e5\ufffd\ufffdA\ufffd\ufffd\ufffdi\ufffd\u01a1C\ufffdv",
+        "32": "40023",
+        "33": "40024",
+        "34": "40025",
+        "35": "40026",
+        "37": "2",
+        "38": "18",
+        "39": "70754",
+        "40": "2381",
+        "41": "1898"
+      }
+    },
+    {
+      "id": 22267,
+      "name": "Sinful Soul Dual Blades",
+      "type": "7",
+      "level": "120",
+      "grade": "G00002",
+      "stats": {
+        "27": "1",
+        "28": "2844",
+        "30": "1",
+        "31": "$53$\ufffdu\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffdM\ufffd\ufffd\ufffdg\ufffdD\ufffd\u0539L\ufffd\u046c\u0261A\ufffd\u04a5H\ufffdM\ufffd\ufffd\ufffdW\ufffd\u0766s\ufffdF\ufffdf\ufffd\u0464\ufffd\ufffd\ufffdA\ufffd\u05a6\ufffd\ufffd\ufffd\ufffdZ\ufffdU\ufffd\ufffd\ufffdL\ufffdk\ufffd\u0670\u02a4\ufffd\ufffd\u00af\ufffdC\ufffdv",
+        "32": "40023",
+        "33": "40024",
+        "34": "40025",
+        "35": "40026",
+        "37": "2",
+        "38": "18",
+        "39": "80133",
+        "40": "2767",
+        "41": "2211"
+      }
+    },
+    {
+      "id": 22398,
+      "name": "Double Blade of Silence",
+      "type": "7",
+      "level": "118",
+      "grade": "G00003",
+      "stats": {
+        "27": "1",
+        "28": "2799",
+        "30": "1",
+        "32": "40023",
+        "33": "40024",
+        "34": "40025",
+        "35": "40026",
+        "37": "2",
+        "38": "18",
+        "39": "59317"
+      }
+    }
+  ],
+  "25": [
+    {
+      "id": 22800,
+      "name": "",
+      "type": "25",
+      "level": "125",
+      "grade": "G00004",
+      "stats": {
+        "27": "1",
+        "28": "3614",
+        "30": "105",
+        "31": "$53$\ufffdu\ufffdZ\ufffd\ufffd\ufffd\ufffd@\ufffd\ufffd\ufffd\u0361A\ufffd\ufffda\ufffds\ufffd\ufffd\ufffdO\ufffd\u01e9\u04e1A\ufffd\ufffd\ufffd\ufffdH\ufffd\ufffdA\ufffd\u0564\ufffd\ufffdi\ufffd\u05e1C\ufffdv",
+        "37": "2",
+        "38": "15",
+        "39": "116579",
+        "40": "3317",
+        "42": "11478"
+      }
+    },
+    {
+      "id": 36433,
+      "name": "",
+      "type": "25",
+      "level": "120",
+      "grade": "G00003",
+      "stats": {
+        "27": "1",
+        "28": "3539",
+        "30": "105",
+        "31": "$53$\ufffdu\ufffdC\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u04e7Q\ufffd\ufffd\ufffd@\ufffds\ufffd\u04a1A\ufffds\ufffds\ufffd\ufffd\ufffd\ufffd\ufffdb\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdj\ufffdj\ufffdC\ufffdv",
+        "37": "2",
+        "38": "15",
+        "39": "86477",
+        "40": "2381",
+        "42": "9875",
+        "43": "1465"
+      }
+    },
+    {
+      "id": 36432,
+      "name": "",
+      "type": "25",
+      "level": "120",
+      "grade": "G00002",
+      "stats": {
+        "27": "1",
+        "28": "3539",
+        "30": "105",
+        "31": "$53$\ufffdu\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdH\ufffda\ufffd\u04e6\u0730\ufffd\ufffdL\ufffdW\ufffda\u0123\ufffd\ufffd\ufffda\ufffd\ufffdA\ufffdb\ufffd\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffdP\ufffd\u0264]\ufffdY\ufffdN\ufffd\ufffd\ufffd\ufaba\ufffdO\ufffd\u04e6\u06e4\u046f\ufffd\ufffd\u04a7\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdC\ufffdv",
+        "37": "2",
+        "38": "15",
+        "39": "97941",
+        "40": "2767",
+        "42": "11478",
+        "43": "1703"
+      }
+    },
+    {
+      "id": 36434,
+      "name": "",
+      "type": "25",
+      "level": "118",
+      "grade": "G00001",
+      "stats": {
+        "27": "1",
+        "28": "3483",
+        "30": "105",
+        "37": "2",
+        "38": "15",
+        "39": "72498"
+      }
+    },
+    {
+      "id": 36431,
+      "name": "",
+      "type": "25",
+      "level": "115",
+      "grade": "G00008",
+      "stats": {
+        "27": "1",
+        "28": "3399",
+        "30": "105",
+        "31": "$53$\ufffdu\ufffd@\ufffds\ufffd\u04beQ\ufffdi\ufffd\ufffd\ufffd\ufffd\ufffdA\ufffd\u03e9\ufffd\ufffdb\ufffdA\ufffd\ufffd\ufffde\ufffdi\ufffd}\ufffdW\ufffd\u046f\ufffd\ufffd@\ufffdA\ufffdI\ufffd\ufffdA\ufffd\ufffd\ufffd`\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd\u0278U\ufffdc\ufffdC\ufffdv",
+        "37": "2",
+        "38": "15",
+        "39": "84909",
+        "40": "2329",
+        "42": "9659",
+        "43": "1433"
+      }
+    },
+    {
+      "id": 36430,
+      "name": "",
+      "type": "25",
+      "level": "110",
+      "grade": "G00003",
+      "stats": {
+        "27": "4",
+        "28": "2395 ",
+        "30": "105",
+        "37": "2",
+        "38": "15",
+        "39": "75276",
+        "40": "2048",
+        "43": "1261"
+      }
+    }
+  ]
+}

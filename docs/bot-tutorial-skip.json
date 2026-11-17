@@ -1,0 +1,28 @@
+{
+  "character": "AwanBotLab",
+  "character_id": 50000005,
+  "completed": [
+    2001,
+    1001,
+    2008,
+    1003
+  ],
+  "node": 2,
+  "map": "Port Skandia",
+  "position": [
+    501.128,
+    351.068,
+    -5.67391
+  ],
+  "level": 1,
+  "privilege": 0,
+  "next_quest": 1004,
+  "next_quest_completed": false,
+  "backup": "/var/lib/ak-bot-lab/snapshots/pre-tutorial-skip-20261026T145534Z",
+  "method": "Owner-requested database tutorial skip, not autonomous quest completion",
+  "live_database_untouched": true,
+  "inventory_and_other_characters_unchanged": true,
+  "source_sha256": "17c604c1ad11e4dffea8d262b03da6879d87e7edcffbc2f5a7dd2cdfeff4a69d",
+  "login_validation": "passed: native node 2 at 501.13,351.07, map loading completed, ordinary logout and database persistence verified",
+  "saved_offline_after_test": true
+}

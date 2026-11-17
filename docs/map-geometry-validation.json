@@ -1,0 +1,920 @@
+[
+  {
+    "path": "map/model/S001/S001.fsm",
+    "crc": "6c310551",
+    "original_crc": "6c310551",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S002/S002.fsm",
+    "crc": "621fa042",
+    "original_crc": "621fa042",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S003/S003.fsm",
+    "crc": "6a8f5be5",
+    "original_crc": "6a8f5be5",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S004/S004.fsm",
+    "crc": "5cf9042f",
+    "original_crc": "5cf9042f",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S005/S005.fsm",
+    "crc": "647acecc",
+    "original_crc": "647acecc",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S006/S006.fsm",
+    "crc": "f6bc1c88",
+    "original_crc": "f6bc1c88",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S007/S007.fsm",
+    "crc": "45c78960",
+    "original_crc": "45c78960",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S008/S008.fsm",
+    "crc": "f41c76b2",
+    "original_crc": "f41c76b2",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S009/S009.fsm",
+    "crc": "e81e10fd",
+    "original_crc": "e81e10fd",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S010/S010.fsm",
+    "crc": "8f59b0ef",
+    "original_crc": "8f59b0ef",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S011/S011.fsm",
+    "crc": "c7badc08",
+    "original_crc": "c7badc08",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S012/S012.fsm",
+    "crc": "d96107df",
+    "original_crc": "d96107df",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S013/S013.fsm",
+    "crc": "49481e97",
+    "original_crc": "49481e97",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S014/S014.fsm",
+    "crc": "98241cfb",
+    "original_crc": "98241cfb",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S015/S015.fsm",
+    "crc": "46865cf1",
+    "original_crc": "46865cf1",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S016/S016.fsm",
+    "crc": "c77cb8c7",
+    "original_crc": "c77cb8c7",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S017/S017.fsm",
+    "crc": "7b8d8063",
+    "original_crc": "7b8d8063",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S018/S018.fsm",
+    "crc": "53e497c9",
+    "original_crc": "53e497c9",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S019/S019.fsm",
+    "crc": "eb65e8ff",
+    "original_crc": "eb65e8ff",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S020/S020.fsm",
+    "crc": "815a512e",
+    "original_crc": "815a512e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S021/S021.fsm",
+    "crc": "614358bd",
+    "original_crc": "614358bd",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S022/S022.fsm",
+    "crc": "2744e172",
+    "original_crc": "2744e172",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S023/S023.fsm",
+    "crc": "96b7892b",
+    "original_crc": "96b7892b",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S024/S024.fsm",
+    "crc": "4d66d636",
+    "original_crc": "4d66d636",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S025/S025.fsm",
+    "crc": "b74576dc",
+    "original_crc": "b74576dc",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S026/S026.fsm",
+    "crc": "7e771e82",
+    "original_crc": "7e771e82",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S027/S027.fsm",
+    "crc": "5c88867c",
+    "original_crc": "5c88867c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S028/S028.fsm",
+    "crc": "faec35ce",
+    "original_crc": "faec35ce",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S029/S029.fsm",
+    "crc": "fbd74e1f",
+    "original_crc": "fbd74e1f",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S030/S030.fsm",
+    "crc": "52b44c42",
+    "original_crc": "52b44c42",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S031/S031.fsm",
+    "crc": "d23da81e",
+    "original_crc": "d23da81e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S032/S032.fsm",
+    "crc": "02ac4a43",
+    "original_crc": "02ac4a43",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S033/S033.fsm",
+    "crc": "260aed3e",
+    "original_crc": "260aed3e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S034/S034.fsm",
+    "crc": "1911859e",
+    "original_crc": "1911859e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S035/S035.fsm",
+    "crc": "b6ba320e",
+    "original_crc": "b6ba320e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S036/S036.fsm",
+    "crc": "79aed5ec",
+    "original_crc": "79aed5ec",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S037/S037.fsm",
+    "crc": "974a3918",
+    "original_crc": "974a3918",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S039/S039.fsm",
+    "crc": "e80fbbbf",
+    "original_crc": "e80fbbbf",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S040/S040.fsm",
+    "crc": "8b661c3e",
+    "original_crc": "8b661c3e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S041/S041.fsm",
+    "crc": "962a4029",
+    "original_crc": "962a4029",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S042/S042.fsm",
+    "crc": "86314e41",
+    "original_crc": "86314e41",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S043/S043.fsm",
+    "crc": "d0861a45",
+    "original_crc": "d0861a45",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S044/S044.fsm",
+    "crc": "cc2c46f9",
+    "original_crc": "cc2c46f9",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S045/S045.fsm",
+    "crc": "938b6f49",
+    "original_crc": "938b6f49",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S046/S046.fsm",
+    "crc": "0b935456",
+    "original_crc": "0b935456",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S047/S047.fsm",
+    "crc": "fe2054d2",
+    "original_crc": "fe2054d2",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S048/S048.fsm",
+    "crc": "93a88806",
+    "original_crc": "29a409d2",
+    "matches_original": false
+  },
+  {
+    "path": "map/model/S099/S099.fsm",
+    "crc": "6c310551",
+    "original_crc": "6c310551",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S1005/S1005.nif",
+    "crc": "88e8b24a",
+    "original_crc": "88e8b24a",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S101/S101.nif",
+    "crc": "71d3bfb0",
+    "original_crc": "71d3bfb0",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S1017/S1017.nif",
+    "crc": "b8161181",
+    "original_crc": "b8161181",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S102/S102.fsm",
+    "crc": "09b57ca7",
+    "original_crc": "09b57ca7",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S103/S103.nif",
+    "crc": "7f78d537",
+    "original_crc": "7f78d537",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S104/S104.nif",
+    "crc": "05e324ee",
+    "original_crc": "05e324ee",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S105/S105.nif",
+    "crc": "ad4e3cf1",
+    "original_crc": "ad4e3cf1",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S106/S106.nif",
+    "crc": "4f62d0c3",
+    "original_crc": "4f62d0c3",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S107/S107.nif",
+    "crc": "c0335939",
+    "original_crc": "c0335939",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S108/S108.nif",
+    "crc": "665f3944",
+    "original_crc": "665f3944",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S109/S109.nif",
+    "crc": "c782a635",
+    "original_crc": "c782a635",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S110/S110.fsm",
+    "crc": "48c730f7",
+    "original_crc": "48c730f7",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S111/S111.nif",
+    "crc": "d46ad78d",
+    "original_crc": "d46ad78d",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S112/S112.nif",
+    "crc": "88044e8a",
+    "original_crc": "88044e8a",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S113/S113.fsm",
+    "crc": "221a05f3",
+    "original_crc": "221a05f3",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S114/S114.nif",
+    "crc": "c0a912af",
+    "original_crc": "c0a912af",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S115/S115.nif",
+    "crc": "34d23e02",
+    "original_crc": "34d23e02",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S1151/S1151.nif",
+    "crc": "cd0ae4cc",
+    "original_crc": "cd0ae4cc",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S116/S116.nif",
+    "crc": "e1e506f9",
+    "original_crc": "e1e506f9",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S117/S117.fsm",
+    "crc": "bfed0623",
+    "original_crc": "bfed0623",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S118/S118.nif",
+    "crc": "8de62f58",
+    "original_crc": "8de62f58",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S119/S119.nif",
+    "crc": "2e187a23",
+    "original_crc": "2e187a23",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S120/S120.fsm",
+    "crc": "052f65f5",
+    "original_crc": "052f65f5",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S121/S121.nif",
+    "crc": "e8db86ad",
+    "original_crc": "e8db86ad",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S122/S122.nif",
+    "crc": "0fb75388",
+    "original_crc": "0fb75388",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S123/S123.nif",
+    "crc": "7f9eae1d",
+    "original_crc": "7f9eae1d",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S124/S124.nif",
+    "crc": "e1da2922",
+    "original_crc": "e1da2922",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S125/S125.nif",
+    "crc": "d69665b1",
+    "original_crc": "d69665b1",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S1253/S1253.nif",
+    "crc": "de12fadf",
+    "original_crc": "de12fadf",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S126/S126.fsm",
+    "crc": "14f80a7e",
+    "original_crc": "14f80a7e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S1262/S1262.nif",
+    "crc": "267557ee",
+    "original_crc": "267557ee",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S127/S127.fsm",
+    "crc": "cc752aca",
+    "original_crc": "cc752aca",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S128/S128.fsm",
+    "crc": "6be8523b",
+    "original_crc": "6be8523b",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S129/S129.fsm",
+    "crc": "5c650499",
+    "original_crc": "5c650499",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S132/S132.fsm",
+    "crc": "a9d90196",
+    "original_crc": "a9d90196",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S133/S133.fsm",
+    "crc": "f823c04a",
+    "original_crc": "f823c04a",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S134/S134.fsm",
+    "crc": "ab74ccfd",
+    "original_crc": "ab74ccfd",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S135/S135.fsm",
+    "crc": "0f1954df",
+    "original_crc": "0f1954df",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S1608/S1608.nif",
+    "crc": "d9ff4a95",
+    "original_crc": "d9ff4a95",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S2501/S2501.fsm",
+    "crc": "f8bb14bf",
+    "original_crc": "f8bb14bf",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S2502/S2502.fsm",
+    "crc": "b80269ba",
+    "original_crc": "b80269ba",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S2503/S2503.fsm",
+    "crc": "f6a2b03c",
+    "original_crc": "f6a2b03c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S2504/S2504.fsm",
+    "crc": "f2e4aadb",
+    "original_crc": "f2e4aadb",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S2505/S2505.fsm",
+    "crc": "74fbf5b7",
+    "original_crc": "74fbf5b7",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S400/S400.nif",
+    "crc": "62b5d151",
+    "original_crc": "62b5d151",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S401/S401.fsm",
+    "crc": "fadd8cea",
+    "original_crc": "fadd8cea",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S402/S402.fsm",
+    "crc": "ed15ae69",
+    "original_crc": "ed15ae69",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S403/S403.fsm",
+    "crc": "593c8281",
+    "original_crc": "593c8281",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S404/S404.fsm",
+    "crc": "3a3e3942",
+    "original_crc": "3a3e3942",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S405/S405.fsm",
+    "crc": "898a6685",
+    "original_crc": "898a6685",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S406/S406.fsm",
+    "crc": "54079687",
+    "original_crc": "54079687",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S408/S408.fsm",
+    "crc": "fc2da932",
+    "original_crc": "fc2da932",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S450/S450.nif",
+    "crc": "3ae6287c",
+    "original_crc": "3ae6287c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S451/S451.nif",
+    "crc": "dd035c5c",
+    "original_crc": "dd035c5c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S453/S453.fsm",
+    "crc": "926ee125",
+    "original_crc": "926ee125",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S454/S454.nif",
+    "crc": "669d9836",
+    "original_crc": "669d9836",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S457/S457.fsm",
+    "crc": "219142b5",
+    "original_crc": "219142b5",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S458/S458.fsm",
+    "crc": "969e568c",
+    "original_crc": "969e568c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S500/S500.fsm",
+    "crc": "b54ea28b",
+    "original_crc": "b54ea28b",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S501/S501.nif",
+    "crc": "0a11b5e8",
+    "original_crc": "0a11b5e8",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S502/S502.nif",
+    "crc": "dc61c788",
+    "original_crc": "dc61c788",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S503/S503.nif",
+    "crc": "9576ffb1",
+    "original_crc": "9576ffb1",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S504/S504.nif",
+    "crc": "a20cc69c",
+    "original_crc": "a20cc69c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S505/S505.nif",
+    "crc": "a3acd366",
+    "original_crc": "a3acd366",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S506/S506.nif",
+    "crc": "57b819e6",
+    "original_crc": "57b819e6",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S507/S507.nif",
+    "crc": "5d04ecb8",
+    "original_crc": "5d04ecb8",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S508/S508.nif",
+    "crc": "29fc0832",
+    "original_crc": "29fc0832",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S509/S509.fsm",
+    "crc": "3e2afc82",
+    "original_crc": "3e2afc82",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S510/S510.fsm",
+    "crc": "e51f6d9d",
+    "original_crc": "e51f6d9d",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S511/S511.fsm",
+    "crc": "23d52f2c",
+    "original_crc": "23d52f2c",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S512/S512.fsm",
+    "crc": "0ff30dda",
+    "original_crc": "0ff30dda",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S513/S513.fsm",
+    "crc": "c26b29dc",
+    "original_crc": "c26b29dc",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S514/S514.fsm",
+    "crc": "9f674c38",
+    "original_crc": "9f674c38",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S515/S515.fsm",
+    "crc": "e64240b7",
+    "original_crc": "e64240b7",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S516/S516.nif",
+    "crc": "ef5bd376",
+    "original_crc": "ef5bd376",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S517/S517.nif",
+    "crc": "ef621b87",
+    "original_crc": "ef621b87",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S520/S520.nif",
+    "crc": "53b5ee11",
+    "original_crc": "53b5ee11",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S609/S609.nif",
+    "crc": "4cd8a316",
+    "original_crc": "4cd8a316",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S610/S610.nif",
+    "crc": "94f218f1",
+    "original_crc": "94f218f1",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S613/S613.nif",
+    "crc": "cbc3c5be",
+    "original_crc": "cbc3c5be",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S630/S630.nif",
+    "crc": "a0ec1e94",
+    "original_crc": "a0ec1e94",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S644/S644.nif",
+    "crc": "f42f97e9",
+    "original_crc": "f42f97e9",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S700/S700.nif",
+    "crc": "217c3895",
+    "original_crc": "217c3895",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S701/S701.nif",
+    "crc": "dfe84bda",
+    "original_crc": "dfe84bda",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S702/S702.nif",
+    "crc": "8e1980da",
+    "original_crc": "8e1980da",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S703/S703.nif",
+    "crc": "49b76e12",
+    "original_crc": "49b76e12",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S705/S705.nif",
+    "crc": "9e062575",
+    "original_crc": "9e062575",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S707/S707.nif",
+    "crc": "3376a01e",
+    "original_crc": "3376a01e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S741/S741.nif",
+    "crc": "b2545cc5",
+    "original_crc": "b2545cc5",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S761/S761.nif",
+    "crc": "049cc38d",
+    "original_crc": "049cc38d",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S801/S801.nif",
+    "crc": "4f62d0c3",
+    "original_crc": "4f62d0c3",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S805/S805.nif",
+    "crc": "330c01a0",
+    "original_crc": "330c01a0",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S806/S806.nif",
+    "crc": "e5eea2d7",
+    "original_crc": "e5eea2d7",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S807/S807.nif",
+    "crc": "2196e6b8",
+    "original_crc": "2196e6b8",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S808/S808.nif",
+    "crc": "f0a2fd7e",
+    "original_crc": "f0a2fd7e",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S809/S809.nif",
+    "crc": "59ab76cf",
+    "original_crc": "59ab76cf",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S810/S810.fsm",
+    "crc": "889f4625",
+    "original_crc": "889f4625",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S811/S811.nif",
+    "crc": "4f94abe0",
+    "original_crc": "4f94abe0",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S851/S851.nif",
+    "crc": "77cf0360",
+    "original_crc": "77cf0360",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S852/S852.nif",
+    "crc": "373bab08",
+    "original_crc": "373bab08",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S9005/S9005.fsm",
+    "crc": "3e2afc82",
+    "original_crc": "3e2afc82",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S9008/S9008.fsm",
+    "crc": "05be117a",
+    "original_crc": "05be117a",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S995/S995.fsm",
+    "crc": "57547647",
+    "original_crc": "57547647",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S998/S998.fsm",
+    "crc": "b36e96fe",
+    "original_crc": "b36e96fe",
+    "matches_original": true
+  },
+  {
+    "path": "map/model/S999/S999.fsm",
+    "crc": "f23900ae",
+    "original_crc": "f23900ae",
+    "matches_original": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "path": "vendor\\AKF\\.gitattributes",
+    "sha256": "8d11813afce485ad7eecfcfd4354bd265bcfbec20585bdbe09026a3a2c2048a6"
+  },
+  {
+    "path": "vendor\\AKF\\account_creator.sh",
+    "sha256": "7c5b66d789eedf3659c3023f05cad445d12cb197f08e2bd53a0cb82a66adf3a8"
+  },
+  {
+    "path": "vendor\\AKF\\common.sh",
+    "sha256": "2f319bd6d51ce206a9d841d6af9d3f0e1a43461ad1e864fde8eaa88aabddf99c"
+  },
+  {
+    "path": "vendor\\AKF\\fullinstaller.sh",
+    "sha256": "fc4a931d69a30f87ab59dce0e707f19dd4fcd1b72c1271f8a51db2667bff9c7f"
+  },
+  {
+    "path": "vendor\\AKF\\README.md",
+    "sha256": "6ebbc95b7ef6a49115db5b274a5fc926966bc49f9665c615c61bc1475a19ac2a"
+  },
+  {
+    "path": "vendor\\AKF\\start",
+    "sha256": "2728483b1dffc444d9accb95e03b480d91abc034afb49e7a521684416fb984ab"
+  },
+  {
+    "path": "vendor\\AKF\\stop",
+    "sha256": "11cd59379762c0a96f18df71863c46eaaff9be981449a0ad367249fd598e1157"
+  }
+]

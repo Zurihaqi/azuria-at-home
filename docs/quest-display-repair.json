@@ -1,0 +1,23 @@
+{
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\quest-display-20261025T042806Z",
+  "restored": [
+    {
+      "file": "C_Mission.ini",
+      "source": "Matching V15 release ZIP; CRC verified",
+      "sha256": "521e13c09e7582c7ecd1deefa75e09239ada9d001d25837ed27517b4bb0e577e"
+    },
+    {
+      "file": "T_Mission.ini",
+      "source": "Matching V15 release ZIP; CRC verified",
+      "sha256": "8bf4933edb113141049a949511d0dd24ada95ec8e1c2363c354a5480f221e909"
+    }
+  ],
+  "level_exp_rows_aligned": 6,
+  "level_exp_columns": [
+    1,
+    33
+  ],
+  "full_clean_reset": false,
+  "full_reset_blocker": "MEGA bandwidth limit; separate clean build remains incomplete",
+  "character_progress": "Untouched by this client repair"
+}

@@ -1,0 +1,192 @@
+{
+  "requested": [
+    "bgm002_1",
+    "bgm005",
+    "bgm006",
+    "bgm007",
+    "bgm008",
+    "bgm009",
+    "bgm010",
+    "bgm011",
+    "bgm012",
+    "bgm013",
+    "bgm014",
+    "bgm015",
+    "bgm016",
+    "bgm017",
+    "bgm018",
+    "bgm019",
+    "bgm020",
+    "bgm021",
+    "bgm022",
+    "bgm023",
+    "bgm024",
+    "bgm025",
+    "bgm026",
+    "bgm027",
+    "bgm028",
+    "bgm029",
+    "bgm030",
+    "bgm031",
+    "bgm032",
+    "bgm033",
+    "bgm034",
+    "bgm035",
+    "bgm036",
+    "bgm037",
+    "bgm038",
+    "bgm039",
+    "bgm040",
+    "bgm041",
+    "bgm042",
+    "bgm043",
+    "bgm045",
+    "bgm046",
+    "bgm047",
+    "bgm048",
+    "bgm134",
+    "bgm135",
+    "bgm406",
+    "bgm701",
+    "bgm702",
+    "bgm703",
+    "bgm705",
+    "bgm706",
+    "bgm707",
+    "bgmcabal"
+  ],
+  "downloaded": [],
+  "unavailable": [
+    "bgm014",
+    "bgm015",
+    "bgm027",
+    "bgm028",
+    "bgm029",
+    "bgm030",
+    "bgm031",
+    "bgm032",
+    "bgm033",
+    "bgm034",
+    "bgm035",
+    "bgm036",
+    "bgm037",
+    "bgm038",
+    "bgm039",
+    "bgm040",
+    "bgm041",
+    "bgm042",
+    "bgm043",
+    "bgm045",
+    "bgm046",
+    "bgm047",
+    "bgm048",
+    "bgm134",
+    "bgm135",
+    "bgm406",
+    "bgm706",
+    "bgm707",
+    "bgmcabal"
+  ],
+  "failed": [
+    {
+      "name": "bgm002 1",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm006",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm005",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm007",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm009",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm010",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm008",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm011",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm012",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm013",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm016",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm017",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm018",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm019",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm020",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm021",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm024",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm022",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm023",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm025",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm701",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm026",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm702",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm703",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "bgm705",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "AllLevelExp": {
+    "size": 120,
+    "values": {
+      "0": 0,
+      "1": 543,
+      "2": 1230,
+      "98": 670764240,
+      "99": 1002435750,
+      "100": 1
+    }
+  },
+  "AllSurvivalLevelExp": {
+    "size": 120,
+    "values": {
+      "0": 0,
+      "1": 543,
+      "2": 1230,
+      "98": 670764240,
+      "99": 1002435750,
+      "100": 1
+    }
+  },
+  "AllWeaponExpertExp": {
+    "size": 70,
+    "values": {
+      "0": 0,
+      "1": 3530,
+      "2": 7995
+    }
+  },
+  "AllWeaponExpertCost": {
+    "type": "std::map<int, std::vector<short, std::allocator<short> >, std::less<int>, std::allocator<std::pair<int const, std::vector<short, std::allocator<short> > > > >"
+  },
+  "AllWeaponExp": {
+    "size": 0,
+    "values": {}
+  },
+  "AllFriendLevelExp": {
+    "size": 10,
+    "values": {
+      "0": 0,
+      "1": 100,
+      "2": 1000
+    }
+  },
+  "AllPartyExp": {
+    "size": 121,
+    "values": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "98": 0,
+      "99": 0,
+      "100": 0
+    }
+  },
+  "AllPartnerLoveExpRange": {
+    "type": "std::map<unsigned int, std::vector<std::pair<short, short>, std::allocator<std::pair<short, short> > >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, std::vector<std::pair<short, short>, std::allocator<std::pair<short, short> > > > > >"
+  }
+}

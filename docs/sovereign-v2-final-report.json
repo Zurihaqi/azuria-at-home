@@ -1,0 +1,15 @@
+{
+  "backup": "/var/backups/aurakingdom/pre-sovereign-v2-final-20261025T054707Z",
+  "unused_title_unlocks_removed": 2491,
+  "server_text_records_repaired": {
+    "T_Item.ini": 1326,
+    "T_ItemMall.ini": 1948,
+    "T_Enchant.ini": 3919,
+    "T_EquipSet.ini": 30,
+    "T_Biology.ini": 1362,
+    "T_Title.ini": 3060,
+    "T_Mission.ini": 96
+  },
+  "independent_passives": 10,
+  "armor_piercing_corrected": true
+}

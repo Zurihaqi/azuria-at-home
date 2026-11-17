@@ -1,0 +1,40 @@
+{
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\startup-recovery-20261025T060200Z",
+  "restored": [
+    {
+      "name": "T_Biology.ini",
+      "sha256": "3990d1c98ab4d6447f1ba33a3a42be411203875f1a69d4623c52624f9d4a011f",
+      "custom_rows": 0
+    },
+    {
+      "name": "T_Enchant.ini",
+      "sha256": "59aaef2bbf26bc2ef8fd6a3a010f2a30e7c0b16a94eb92fc25d7edcbebe7b80e",
+      "custom_rows": 18
+    },
+    {
+      "name": "T_EquipSet.ini",
+      "sha256": "510265bdd344d77039980c41544327a316ca0252d1b06af1ac1090d47ec07836",
+      "custom_rows": 3
+    },
+    {
+      "name": "T_Item.ini",
+      "sha256": "ceb3e819e6e671c800090f4a6ad0b3fd381f73cdebc0ef331086b1baa9b5ce14",
+      "custom_rows": 15
+    },
+    {
+      "name": "T_ItemMall.ini",
+      "sha256": "c5f8c54d41b803b94fa718b62365ee7a2d436963dfe555dab56bfd73ad94b096",
+      "custom_rows": 0
+    },
+    {
+      "name": "T_Mission.ini",
+      "sha256": "8bf4933edb113141049a949511d0dd24ada95ec8e1c2363c354a5480f221e909",
+      "custom_rows": 0
+    },
+    {
+      "name": "T_Title.ini",
+      "sha256": "8a3e9e357c7eb993cecb1c278e0f01bc2f234f173a48b743baf5e189564682f0",
+      "custom_rows": 0
+    }
+  ]
+}

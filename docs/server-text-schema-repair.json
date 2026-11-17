@@ -1,0 +1,43 @@
+{
+  "T_Item.ini": {
+    "repaired": 1259,
+    "normalized_client_records": 0,
+    "skipped_malformed": []
+  },
+  "T_ItemMall.ini": {
+    "repaired": 849,
+    "normalized_client_records": 48,
+    "skipped_malformed": [
+      45406,
+      45410,
+      45413,
+      50022
+    ]
+  },
+  "T_Enchant.ini": {
+    "repaired": 233,
+    "normalized_client_records": 0,
+    "skipped_malformed": []
+  },
+  "T_EquipSet.ini": {
+    "repaired": 3,
+    "normalized_client_records": 0,
+    "skipped_malformed": []
+  },
+  "T_Biology.ini": {
+    "repaired": 1266,
+    "normalized_client_records": 0,
+    "skipped_malformed": []
+  },
+  "T_Title.ini": {
+    "repaired": 3053,
+    "normalized_client_records": 0,
+    "skipped_malformed": []
+  },
+  "T_Mission.ini": {
+    "repaired": 96,
+    "normalized_client_records": 0,
+    "skipped_malformed": []
+  },
+  "valid_titles_restored": 28
+}

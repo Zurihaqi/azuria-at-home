@@ -1,0 +1,213 @@
+{
+  "loaded_items": [
+    {
+      "id": 61586,
+      "type": 24,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 1000000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 20
+      }
+    },
+    {
+      "id": 61587,
+      "type": 1,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61588,
+      "type": 2,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 5000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61589,
+      "type": 3,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61590,
+      "type": 4,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61591,
+      "type": 5,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 100
+      }
+    },
+    {
+      "id": 61592,
+      "type": 6,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61593,
+      "type": 37,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61594,
+      "type": 38,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61595,
+      "type": 39,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    },
+    {
+      "id": 61596,
+      "type": 39,
+      "quality": 3,
+      "level": 1,
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      }
+    }
+  ],
+  "loaded_enchants": [
+    {
+      "id": 180001,
+      "loaded": true
+    },
+    {
+      "id": 180002,
+      "loaded": true
+    }
+  ],
+  "all_native_stats_match": true
+}

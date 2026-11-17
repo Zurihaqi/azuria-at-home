@@ -1,0 +1,13 @@
+{
+  "reference_row_151_loaded": true,
+  "exp_vector_size": 150,
+  "reflection_commands": [
+    {
+      "type": "lapis::CEC_DamageRebound",
+      "probability": 100,
+      "reflect_percent": 100,
+      "damage_types": 15
+    }
+  ],
+  "validation": "Native data loaded; player SLv50 retry pending"
+}

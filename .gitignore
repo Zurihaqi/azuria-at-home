@@ -1,0 +1,25 @@
+# Local secrets, SSH keys, credentials, and backups
+private/
+
+# VirtualBox VM images, client binaries, and staging assets
+vm/
+downloads/
+staging/
+client/
+
+# Vendored Windows Python packages (use requirements.txt instead)
+ops/runtime/
+
+# Logs, bytecode, and machine-specific shortcuts
+*.log
+__pycache__/
+*.py[cod]
+*.lnk
+
+# One-off scratch/debug probes
+bots/*.tmp.sh
+bots/*.tmp.py
+
+# Raw multi-megabyte client file inventories (>18-52 MB)
+docs/client-archive-list.txt
+docs/v15-original-archive.json

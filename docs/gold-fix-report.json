@@ -1,0 +1,13 @@
+{
+  "character": "Zrymund",
+  "gold": 1000,
+  "gold_base_units": 1000000,
+  "bound_gold": 0,
+  "base_units_per_gold": 1000,
+  "changed_character_fields": [
+    "gold",
+    "bind_gold"
+  ],
+  "backup": "/var/backups/aurakingdom/pre-gold-fix-20261024T190251Z",
+  "source": "CItemFactory::NormalizeGoldString divides gold by 1000"
+}

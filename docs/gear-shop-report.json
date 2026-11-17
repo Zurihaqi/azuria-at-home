@@ -1,0 +1,14 @@
+{
+  "items": 3630,
+  "sections": 40,
+  "price": "1 AP each",
+  "existing_stock_unchanged": true,
+  "category": 6,
+  "backup": "/var/backups/aurakingdom/pre-gear-shop-20261024T145741Z",
+  "validation": "40 type-specific sections verified in live cache; client test pending",
+  "loader_fix": "point=1,special_price=0. This build rejects nonzero special_price greater than or equal to point.",
+  "live_cached_catalog_items": 3630,
+  "price_fix_backup": "/var/backups/aurakingdom/pre-mall-price-fix-20261024T152024Z",
+  "menu": "Item Mall -> AP -> Gear Catalog -> gear type",
+  "temporary_control_item": null
+}

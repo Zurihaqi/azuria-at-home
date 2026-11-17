@@ -1,0 +1,61 @@
+{
+  "backup": "/var/backups/aurakingdom/pre-sovereign-v2-20261025T053959Z",
+  "cap_internal": 150,
+  "gear_requirement_internal": 130,
+  "moved_to_bag_8": [
+    {
+      "id": 50000109,
+      "item_id": 61587
+    },
+    {
+      "id": 50000108,
+      "item_id": 61588
+    },
+    {
+      "id": 50000107,
+      "item_id": 61589
+    },
+    {
+      "id": 50000076,
+      "item_id": 61592
+    },
+    {
+      "id": 50000110,
+      "item_id": 61586
+    },
+    {
+      "id": 50000106,
+      "item_id": 61590
+    },
+    {
+      "id": 50000077,
+      "item_id": 61591
+    },
+    {
+      "id": 50000075,
+      "item_id": 61593
+    },
+    {
+      "id": 50000073,
+      "item_id": 61594
+    },
+    {
+      "id": 50000053,
+      "item_id": 61596
+    },
+    {
+      "id": 50000054,
+      "item_id": 61595
+    }
+  ],
+  "quest_hashes_unchanged": true,
+  "level_exp_currency_unchanged": true,
+  "points": "121|120",
+  "server_files": [
+    "/root/hxsy/Data/db/S_Enchant.ini",
+    "/root/hxsy/Data/db/S_Item.ini",
+    "/root/hxsy/Data/db/S_EquipSet.ini",
+    "/root/hxsy/Data/db/S_Parameter.ini",
+    "/root/hxsy/config.ini"
+  ]
+}

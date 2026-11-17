@@ -1,0 +1,57 @@
+{
+  "character": "Zrymund",
+  "backup": "/var/backups/aurakingdom/pre-envoy-mastery-20261024T195622Z",
+  "envoy_abilities": 50,
+  "unsupported_envoy_option_skipped": 50737,
+  "mastery_tier_unlocks": 144,
+  "mastery_choices": 36,
+  "selected_masteries_upgraded": [
+    {
+      "slot": 1,
+      "name": "Mighty Lightning Lash",
+      "before": 49159,
+      "after": 49162
+    },
+    {
+      "slot": 2,
+      "name": "Divine Power",
+      "before": 48001,
+      "after": 48004
+    },
+    {
+      "slot": 3,
+      "name": "Blood Whip: Entwining",
+      "before": 49179,
+      "after": 49182
+    },
+    {
+      "slot": 4,
+      "name": "Extreme Speed",
+      "before": 48045,
+      "after": 48048
+    },
+    {
+      "slot": 5,
+      "name": "Break Defense",
+      "before": 48053,
+      "after": 48056
+    },
+    {
+      "slot": 6,
+      "name": "The Best Defense",
+      "before": 48627,
+      "after": 48630
+    }
+  ],
+  "weapon_mastery_records_unchanged": true,
+  "awakening_quest": {
+    "id": 2508,
+    "name": "Lv99 Gaia Gate",
+    "state": 3,
+    "previous_state": 0,
+    "trace_slot_added": 6
+  },
+  "other_quests_unchanged": true,
+  "character_level_and_gold_unchanged": true,
+  "validation": "All intended DB records and exact quest-bit isolation verified; in-game loading and UI verification pending"
+}

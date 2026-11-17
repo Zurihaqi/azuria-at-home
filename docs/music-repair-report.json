@@ -1,0 +1,1252 @@
+{
+  "original_tracks_restored": 48,
+  "map_rows_repaired": 82,
+  "fallbacks": {
+    "bgm047": "bgm046",
+    "bgm048": "bgm043",
+    "bgm134": "bgm133",
+    "bgm135": "bgm132",
+    "bgm406": "bgm405",
+    "bgmcabal": "bgm017"
+  },
+  "changed_fields": "Only map music/ambient references (columns 14..17)",
+  "map_changes": [
+    {
+      "node": 2,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound002",
+        "sound002"
+      ],
+      "after": [
+        "bgm002",
+        "bgm002",
+        "sound002",
+        "sound002"
+      ]
+    },
+    {
+      "node": 3,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound002",
+        "sound002"
+      ],
+      "after": [
+        "bgm003",
+        "bgm003",
+        "sound002",
+        "sound002"
+      ]
+    },
+    {
+      "node": 4,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm004",
+        "bgm004",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 5,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm005",
+        "bgm005",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 6,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound004",
+        "sound004"
+      ],
+      "after": [
+        "bgm006",
+        "bgm006",
+        "sound004",
+        "sound004"
+      ]
+    },
+    {
+      "node": 7,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound004",
+        "sound004"
+      ],
+      "after": [
+        "bgm007",
+        "bgm007",
+        "sound004",
+        "sound004"
+      ]
+    },
+    {
+      "node": 8,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound005",
+        "sound005"
+      ],
+      "after": [
+        "bgm008",
+        "bgm008",
+        "sound005",
+        "sound005"
+      ]
+    },
+    {
+      "node": 9,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound004",
+        "sound004"
+      ],
+      "after": [
+        "bgm009",
+        "bgm009",
+        "sound004",
+        "sound004"
+      ]
+    },
+    {
+      "node": 10,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm010",
+        "bgm010",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 11,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound004",
+        "sound004"
+      ],
+      "after": [
+        "bgm011",
+        "bgm011",
+        "sound004",
+        "sound004"
+      ]
+    },
+    {
+      "node": 12,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm012",
+        "bgm012",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 13,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm013",
+        "bgm013",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 14,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound005",
+        "sound005"
+      ],
+      "after": [
+        "bgm014",
+        "bgm014",
+        "sound005",
+        "sound005"
+      ]
+    },
+    {
+      "node": 15,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm015",
+        "bgm015",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 16,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "",
+        ""
+      ],
+      "after": [
+        "bgm016",
+        "bgm016",
+        "",
+        ""
+      ]
+    },
+    {
+      "node": 17,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "",
+        ""
+      ],
+      "after": [
+        "bgm017",
+        "bgm017",
+        "",
+        ""
+      ]
+    },
+    {
+      "node": 18,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound005",
+        "sound005"
+      ],
+      "after": [
+        "bgm018",
+        "bgm018",
+        "sound005",
+        "sound005"
+      ]
+    },
+    {
+      "node": 19,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm019",
+        "bgm019",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 20,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound002",
+        "sound002"
+      ],
+      "after": [
+        "bgm020",
+        "bgm020",
+        "sound002",
+        "sound002"
+      ]
+    },
+    {
+      "node": 21,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound002",
+        "sound002"
+      ],
+      "after": [
+        "bgm021",
+        "bgm021",
+        "sound002",
+        "sound002"
+      ]
+    },
+    {
+      "node": 22,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm022",
+        "bgm022",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 23,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm023",
+        "bgm023",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 24,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm024",
+        "bgm024",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 25,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound005",
+        "sound005"
+      ],
+      "after": [
+        "bgm025",
+        "bgm025",
+        "sound005",
+        "sound005"
+      ]
+    },
+    {
+      "node": 26,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm026",
+        "bgm026",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 27,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm027",
+        "bgm027",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 28,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm028",
+        "bgm028",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 29,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm029",
+        "bgm029",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 30,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm030",
+        "bgm030",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 31,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm031",
+        "bgm031",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 32,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm032",
+        "bgm032",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 33,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm033",
+        "bgm033",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 34,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm034",
+        "bgm034",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 35,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound005",
+        "sound005"
+      ],
+      "after": [
+        "bgm035",
+        "bgm035",
+        "sound005",
+        "sound005"
+      ]
+    },
+    {
+      "node": 36,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound006",
+        "sound006"
+      ],
+      "after": [
+        "bgm036",
+        "bgm036",
+        "sound006",
+        "sound006"
+      ]
+    },
+    {
+      "node": 37,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound005",
+        "sound005"
+      ],
+      "after": [
+        "bgm037",
+        "bgm037",
+        "sound005",
+        "sound005"
+      ]
+    },
+    {
+      "node": 38,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm038",
+        "bgm038",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 39,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm039",
+        "bgm039",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 40,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm040",
+        "bgm040",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 41,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm041",
+        "bgm041",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 42,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm042",
+        "bgm042",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 45,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm045",
+        "bgm045",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 46,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound007",
+        "sound007"
+      ],
+      "after": [
+        "bgm046",
+        "bgm046",
+        "sound007",
+        "sound007"
+      ]
+    },
+    {
+      "node": 47,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm046",
+        "bgm046",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 48,
+      "before": [
+        "bgm001",
+        "bgm001",
+        "sound011",
+        "sound011"
+      ],
+      "after": [
+        "bgm043",
+        "bgm043",
+        "sound011",
+        "sound011"
+      ]
+    },
+    {
+      "node": 134,
+      "before": [
+        "bgm134",
+        "bgm134",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm133",
+        "bgm133",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 135,
+      "before": [
+        "bgm135",
+        "bgm135",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm132",
+        "bgm132",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 184,
+      "before": [
+        "bgm134",
+        "bgm134",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm133",
+        "bgm133",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 185,
+      "before": [
+        "bgm135",
+        "bgm135",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm132",
+        "bgm132",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 186,
+      "before": [
+        "bgm004",
+        "bgm004",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm017",
+        "bgm017",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 234,
+      "before": [
+        "bgm134",
+        "bgm134",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm133",
+        "bgm133",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 235,
+      "before": [
+        "bgm135",
+        "bgm135",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm132",
+        "bgm132",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 334,
+      "before": [
+        "bgm134",
+        "bgm134",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm133",
+        "bgm133",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 335,
+      "before": [
+        "bgm135",
+        "bgm135",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm132",
+        "bgm132",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 406,
+      "before": [
+        "bgm406",
+        "bgm406",
+        "",
+        ""
+      ],
+      "after": [
+        "bgm405",
+        "bgm405",
+        "",
+        ""
+      ]
+    },
+    {
+      "node": 693,
+      "before": [
+        "bgm047",
+        "bgm047",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm046",
+        "bgm046",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 694,
+      "before": [
+        "bgm047",
+        "bgm047",
+        "sound008",
+        "sound008"
+      ],
+      "after": [
+        "bgm046",
+        "bgm046",
+        "sound008",
+        "sound008"
+      ]
+    },
+    {
+      "node": 695,
+      "before": [
+        "bgm048",
+        "bgm048",
+        "sound011",
+        "sound011"
+      ],
+      "after": [
+        "bgm043",
+        "bgm043",
+        "sound011",
+        "sound011"
+      ]
+    },
+    {
+      "node": 700,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 701,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 702,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 703,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 704,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 705,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 706,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 707,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 708,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 709,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 710,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm701",
+        "bgm701",
+        "bgm701",
+        "bgm701"
+      ]
+    },
+    {
+      "node": 711,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 712,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 713,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 714,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 715,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 716,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 717,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 718,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 719,
+      "before": [
+        "bgm002",
+        "bgm002",
+        "bgm002",
+        "bgm002"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 720,
+      "before": [
+        "bgm003",
+        "bgm003",
+        "bgm003",
+        "bgm003"
+      ],
+      "after": [
+        "bgm702",
+        "bgm702",
+        "bgm702",
+        "bgm702"
+      ]
+    },
+    {
+      "node": 1601,
+      "before": [
+        "bgm004",
+        "bgm004",
+        "sound009",
+        "sound009"
+      ],
+      "after": [
+        "bgm101",
+        "bgm101",
+        "sound009",
+        "sound009"
+      ]
+    },
+    {
+      "node": 1602,
+      "before": [
+        "bgm004",
+        "bgm004",
+        "sound003",
+        "sound003"
+      ],
+      "after": [
+        "bgm102",
+        "bgm102",
+        "sound003",
+        "sound003"
+      ]
+    },
+    {
+      "node": 1603,
+      "before": [
+        "bgm004",
+        "bgm004",
+        "sound010",
+        "sound010"
+      ],
+      "after": [
+        "bgm103",
+        "bgm103",
+        "sound010",
+        "sound010"
+      ]
+    }
+  ],
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\C_Node.pre-music-fix.ini",
+  "sha256": "82c58dc714411a7fd80791afa918ce9eb04d90d7c11a739d1c6eafebb40be0a4",
+  "validation": "All changed map audio references exist; every non-audio map field unchanged. In-game transitions pending.",
+  "music_mute_disabled": true,
+  "all_client_map_audio_references_exist": true,
+  "full_official_soundtrack_verified": 153,
+  "music_state": "Full official soundtrack restored; six later/custom map references still use documented related-zone fallbacks"
+}

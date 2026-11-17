@@ -1,0 +1,453 @@
+{
+  "180001": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_NotifyClientBuffValue",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrCriticalDamage",
+      "values": {
+        "Value": 500
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrMovement",
+      "values": {}
+    },
+    {
+      "event": "CommandsHit",
+      "type": "lapis::CEC_Damage2HP",
+      "values": {
+        "Type": 134217731
+      }
+    },
+    {
+      "event": "CommandsHit",
+      "type": "lapis::CEC_Damage2HP",
+      "values": {
+        "Type": 268435468
+      }
+    }
+  ],
+  "180002": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrDamageRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrDamageRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBeDamageRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBeDamageRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 999,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_DamageAddAttrRate",
+      "values": {
+        "Type": 1
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_DamageAddAttrRate",
+      "values": {
+        "Type": 2
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_DamageAddAttrRate",
+      "values": {
+        "Type": 3
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_DamageAddAttrRate",
+      "values": {
+        "Type": 4
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_DamageAddAttrRate",
+      "values": {
+        "Type": 5
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_DamageAddAttrRate",
+      "values": {
+        "Type": 6
+      }
+    }
+  ],
+  "180003": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180004": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 500,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_CriticalDamageMaxRate",
+      "values": {}
+    }
+  ],
+  "180005": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrMaxHPRate",
+      "values": {
+        "Value": 50
+      }
+    }
+  ],
+  "180006": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 200,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 200,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_CriticalDamageMaxRate",
+      "values": {}
+    }
+  ],
+  "180007": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrDamageRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrDamageRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrCriticalDamage",
+      "values": {
+        "Value": 200
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_CriticalDamageMaxRate",
+      "values": {}
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 300,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180008": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 200,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 300,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrHealRate",
+      "values": {
+        "Value": 100
+      }
+    }
+  ],
+  "180010": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180011": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180012": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180013": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180014": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180015": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180016": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180017": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180018": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ],
+  "180019": [
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrPenetrateNToughness",
+      "values": {
+        "Type": 1,
+        "Penetrate": 100,
+        "Toughness": 0
+      }
+    },
+    {
+      "event": "CommandsStart",
+      "type": "lapis::CEC_AttrBloodNSunderArmor",
+      "values": {
+        "SunderArmor": 100,
+        "BloodArmor": 0,
+        "Type": 1,
+        "Value": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "authenticated_feed": "passed",
+  "runtime": "online",
+  "world": "normal",
+  "online": 2,
+  "history_entries": 250,
+  "game_server_active": true,
+  "positions": [
+    {
+      "name": "Awan",
+      "map": 2,
+      "position": {
+        "x": 288.2,
+        "y": 297.2,
+        "map": 2,
+        "source": "saved",
+        "observed_at": null,
+        "stale": true
+      }
+    },
+    {
+      "name": "Arden",
+      "map": 2,
+      "position": {
+        "x": 260.2,
+        "y": 473.8,
+        "map": 2,
+        "source": "native",
+        "observed_at": 1793200456.60639,
+        "stale": true
+      }
+    }
+  ]
+}

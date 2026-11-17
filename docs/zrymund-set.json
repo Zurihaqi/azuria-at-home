@@ -1,0 +1,316 @@
+{
+  "name": "Zrymund's Astral Sovereign",
+  "items": [
+    {
+      "id": 61586,
+      "base_id": 33937,
+      "type": 24,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Starbreaker Whip",
+      "stats": {
+        "attack": 1000000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 20
+      },
+      "effects": [
+        180001,
+        180002
+      ]
+    },
+    {
+      "id": 61587,
+      "base_id": 33965,
+      "type": 1,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Crown of Infinite Dawn",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61588,
+      "base_id": 33966,
+      "type": 2,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Eventide Aegis",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 5000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61589,
+      "base_id": 33969,
+      "type": 3,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Voidbinder Girdle",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61590,
+      "base_id": 33967,
+      "type": 4,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Hands of Eternity",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61591,
+      "base_id": 33968,
+      "type": 5,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Heavenstride Boots",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 100
+      },
+      "effects": []
+    },
+    {
+      "id": 61592,
+      "base_id": 33985,
+      "type": 6,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Mantle of the First Star",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61593,
+      "base_id": 33986,
+      "type": 37,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Heart of the Cosmos",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61594,
+      "base_id": 33987,
+      "type": 38,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Seal of Absolute Dominion",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61595,
+      "base_id": 34198,
+      "type": 39,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Chronicle of Infinity",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    },
+    {
+      "id": 61596,
+      "base_id": 34198,
+      "type": 39,
+      "menu_type": 90000,
+      "required_level": 1,
+      "name": "Zrymund's Astral Sovereign - Singularity Core",
+      "stats": {
+        "attack": 200000,
+        "critical": 50000,
+        "recovery": 50000,
+        "max_hp": 2000000,
+        "defence": 100000,
+        "dodge": 50000,
+        "critical_damage": 50,
+        "hit_rate": 50,
+        "heal_rate": 25,
+        "move_speed": 0
+      },
+      "effects": []
+    }
+  ],
+  "enchant_ids": [
+    180001,
+    180002
+  ],
+  "effects": [
+    [
+      "Sovereign Hunger",
+      "100% life steal for physical and magical attacks; CRIT DMG +500%; Move SPD +150%.",
+      [
+        [
+          2021,
+          [
+            100,
+            100
+          ]
+        ],
+        [
+          2022,
+          [
+            100,
+            100
+          ]
+        ],
+        [
+          2043,
+          [
+            500
+          ]
+        ],
+        [
+          2051,
+          [
+            150
+          ]
+        ]
+      ]
+    ],
+    [
+      "Absolute Dominion",
+      "Damage dealt +200%; damage taken -90%; PEN +90%; damage of every element +200%.",
+      [
+        [
+          2033,
+          [
+            200,
+            200
+          ]
+        ],
+        [
+          2034,
+          [
+            -90,
+            -90
+          ]
+        ],
+        [
+          2097,
+          [
+            90
+          ]
+        ],
+        [
+          2046,
+          [
+            200,
+            200,
+            200,
+            200,
+            200,
+            200
+          ]
+        ]
+      ]
+    ]
+  ],
+  "delivery": "Item Mall / AP / Gear Catalog / Zrymund Sovereign Set, 1 AP per item; no forced equip or quest change",
+  "validation": "Client/server templates constructed with valid field widths; server loader and in-game purchase test pending"
+}

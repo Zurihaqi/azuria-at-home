@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "players": 1,
+  "accounts": 3,
+  "mall?category=44": "ok",
+  "mall?search=Astral%20Sovereign": "ok",
+  "events": 0,
+  "logs": "ok",
+  "backups": 10,
+  "audit": 0,
+  "backup": {
+    "backup": "/var/backups/aurakingdom/dashboard-20261024T201256.957002Z",
+    "message": "Three database snapshots saved"
+  },
+  "logout": "session invalidated"
+}

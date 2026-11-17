@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-31",
+  "quest_1017": {
+    "awan": "native_finished_confirmed",
+    "arden": "native_finished_confirmed"
+  },
+  "stat_spending": "both native budgets enabled; server acknowledgements observed",
+  "tests_passed": 100,
+  "evasion": {
+    "profile": 58100,
+    "recorded_packet_and_real_map_replay": "passed",
+    "live_combat_avoidance": "not yet verified"
+  },
+  "backups": [
+    "/var/backups/ak-bots/quest1017-20261031T044255Z",
+    "/var/backups/ak-bots/quest1017-20261031T044747Z",
+    "/var/backups/ak-bots/evasion-20261031T045736Z"
+  ],
+  "source_sha256": {
+    "probe_login.py": "52d8fe1ee2de4704208a7c94e4ff8dca33ce89a084c4d3bd8be04b268c1f7586",
+    "potential.py": "8c86191427e02f5084871c08583f6564ae1b0e5a627a4f447a2682bedbd2e34b",
+    "battle.py": "c80f7488cfcb779c583945144d00fe96fc862bbeb262e51f1eee2d0cffefe79b",
+    "combat.py": "81fc57f767149e97c66a19eccf3b45d21e262a2ad4b8e180340fd20da3e5aabe",
+    "objectives.py": "0e826148822e8eb4de1ec4adf1fbfc033f9cefe7bfce75dbf31f9db061bae05d",
+    "quest_engine.py": "e879faeb864ebc133236bc942eb25dfd228fbf42d71a37c885a9abb661015d4e",
+    "evasion.py": "7ce923117b17d1ed5ea2dcd8e6c2b99ab6764500d21e9d34268df11f2f487b83"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sections": 44,
+  "items": 10627,
+  "maximum_pages_per_section": 360,
+  "menu": "Item Mall -> AP -> Gear Catalog -> gear type",
+  "client_sha256": "242d9908febed1427e56eaaef298af27050f538d1f40854161f8f353d057bc1f",
+  "client_backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\game.pre-gear-categories.bin",
+  "validation": "Static menu hook/calls and full catalog coverage checked; live test pending"
+}

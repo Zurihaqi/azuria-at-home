@@ -1,0 +1,157 @@
+{
+  "built": "20261028T160356Z",
+  "old_cap": 99999999,
+  "new_cap": 2147483647,
+  "sites": [
+    {
+      "vaddr": 9957107,
+      "file_offset": 5762803,
+      "function": "_ZN5lapis12CCharFormula6AttackEPNS_10CCharacterEfb",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9957116,
+      "file_offset": 5762812,
+      "function": "_ZN5lapis12CCharFormula6AttackEPNS_10CCharacterEfb",
+      "insn": "cmp edx, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9964982,
+      "file_offset": 5770678,
+      "function": "_ZN5lapis12CCharFormula6AttackEPNS_8CBiologyEb",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9965008,
+      "file_offset": 5770704,
+      "function": "_ZN5lapis12CCharFormula6AttackEPNS_8CBiologyEb",
+      "insn": "cmp edx, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9970453,
+      "file_offset": 5776149,
+      "function": "_ZN5lapis12CCharFormula11MeleeDamageEPNS_10CCharacterEsb",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9970462,
+      "file_offset": 5776158,
+      "function": "_ZN5lapis12CCharFormula11MeleeDamageEPNS_10CCharacterEsb",
+      "insn": "cmp edx, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9970846,
+      "file_offset": 5776542,
+      "function": "_ZN5lapis12CCharFormula10MagicDamgeEPNS_10CCharacterEPNS_10SSpellDataE",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9970855,
+      "file_offset": 5776551,
+      "function": "_ZN5lapis12CCharFormula10MagicDamgeEPNS_10CCharacterEPNS_10SSpellDataE",
+      "insn": "cmp edx, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9971296,
+      "file_offset": 5776992,
+      "function": "_ZN5lapis12CCharFormula11MeleeDamageEPNS_8CBiologyEb",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9971315,
+      "file_offset": 5777011,
+      "function": "_ZN5lapis12CCharFormula11MeleeDamageEPNS_8CBiologyEb",
+      "insn": "cmp edx, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9998455,
+      "file_offset": 5804151,
+      "function": "_ZN5lapis12CCharFormula5MaxHPEPNS_10CCharacterEb",
+      "insn": "cmp ebp, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 9998462,
+      "file_offset": 5804158,
+      "function": "_ZN5lapis12CCharFormula5MaxHPEPNS_10CCharacterEb",
+      "insn": "mov ebp, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 10017353,
+      "file_offset": 5823049,
+      "function": "_ZN5lapis6CCoins11GetMaxValueEs",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12062206,
+      "file_offset": 7867902,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_10CEBEudemonE",
+      "insn": "cmp eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12062257,
+      "file_offset": 7867953,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_10CEBEudemonE",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12065356,
+      "file_offset": 7871052,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_12CEBCharacterE",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12065362,
+      "file_offset": 7871058,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_12CEBCharacterE",
+      "insn": "cmp edx, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12065610,
+      "file_offset": 7871306,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_20CEudemonBattleEntityE",
+      "insn": "cmp eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12065649,
+      "file_offset": 7871345,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_20CEudemonBattleEntityE",
+      "insn": "mov eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12070675,
+      "file_offset": 7876371,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_10CEBMonsterE",
+      "insn": "cmp eax, 0x5f5e0ff"
+    },
+    {
+      "vaddr": 12070713,
+      "file_offset": 7876409,
+      "function": "_ZN5lapis21CEudemonBattleFormula8GetMaxHPEPNS_10CEBMonsterE",
+      "insn": "mov eax, 0x5f5e0ff"
+    }
+  ],
+  "source_sha256": "363784bd678708bfb54c767b7a2eb33e4313e0bb18a4bc28cebec051224bd42f",
+  "patched_sha256": "81f0227b06323fbf7835558065f0f181b621f475a53ec22eb2373dca31341dfc",
+  "excluded": [
+    {
+      "vaddr": 5777504,
+      "function": "CPlayerFactory::FamilyInstanceCreate",
+      "reason": "unrelated threshold check"
+    },
+    {
+      "vaddr": 12173515,
+      "function": "CArcheologyOp::SetSectionDatas",
+      "reason": "pairs with 0x5F5E100 arithmetic"
+    },
+    {
+      "vaddr": 12205531,
+      "function": "CFishingOp::SetSectionDatas",
+      "reason": "pairs with 0x5F5E100 arithmetic"
+    },
+    {
+      "vaddr": 12206371,
+      "function": "CFishingOp::SetSectionDatas",
+      "reason": "pairs with 0x5F5E100 arithmetic"
+    }
+  ]
+}

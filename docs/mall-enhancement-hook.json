@@ -1,0 +1,18 @@
+{
+  "code_address": 23830592,
+  "table_address": 23834624,
+  "sites": [
+    {
+      "site": 8157311,
+      "target": 23830592
+    },
+    {
+      "site": 8158992,
+      "target": 23830944
+    }
+  ],
+  "code_size": 704,
+  "fortification_cap": 30,
+  "star_cap": 5,
+  "scope": "Item Mall category 6, eligible catalog equipment only"
+}

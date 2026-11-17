@@ -1,0 +1,26 @@
+{
+  "code_address": 23900160,
+  "code2_address": 23900416,
+  "reason_address": 23900672,
+  "reason": "ItemMall",
+  "table_address": 23920640,
+  "table_size": 262144,
+  "segment_vaddr": 23830528,
+  "segment_new_size": 352256,
+  "sites": [
+    {
+      "site": 8157311,
+      "entry": 23830592,
+      "target": 23900160
+    },
+    {
+      "site": 8158992,
+      "entry": 23830944,
+      "target": 23900416
+    }
+  ],
+  "gaincoins": 10486000,
+  "gold_rows": 14002,
+  "bind_rows": 5647,
+  "amount_rule": "unit price x quantity x 1000 base units, negative debit, skipped if price=0 or total>2,000,000"
+}

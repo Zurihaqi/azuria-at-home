@@ -1,0 +1,25 @@
+{
+  "patches": [
+    {
+      "address": 5786051,
+      "offset": 1591747,
+      "before": "0f8e25020000",
+      "after": "0f8825020000"
+    },
+    {
+      "address": 5786101,
+      "offset": 1591797,
+      "before": "4489ea31f6",
+      "after": "e906761401"
+    },
+    {
+      "address": 23904256,
+      "offset": 496574464,
+      "before": "00000000000000000000000000000000000000",
+      "after": "4585ed0f84278debfe4489ea31f6e9e789ebfe"
+    }
+  ],
+  "catalog_rows": 1413,
+  "tests_passed": 10,
+  "behavior": "Price zero delivers normally without voucher debit; negative prices, paid purchases and full-bag checks retain their native guards."
+}

@@ -1,0 +1,15 @@
+{
+  "backup": "/var/backups/aurakingdom/extra-eidolons-20261031T111411Z",
+  "created": 33,
+  "total": 183,
+  "level": 99,
+  "stars": 4,
+  "affection": 10,
+  "existing_150_unchanged": true,
+  "character_unchanged": true,
+  "inventory_unchanged": true,
+  "quest_tables_unchanged": 13,
+  "other_accounts_unchanged": true,
+  "six_services_running": true,
+  "full_summon_gameplay_verified": false
+}

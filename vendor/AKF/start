@@ -1,0 +1,224 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+
+AK_START_VERSION="2.0.0"
+
+SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+
+if [[ -r "$SCRIPT_DIR/common.sh" ]]; then
+    . "$SCRIPT_DIR/common.sh"
+elif [[ -r "/root/hxsy/common.sh" ]]; then
+    . "/root/hxsy/common.sh"
+else
+    echo "ERROR: common.sh not found next to this script." >&2
+    exit 1
+fi
+
+ak_conf_load
+INSTALL_DIR="$SCRIPT_DIR"
+[[ -d ${AK_INSTALL_DIR:-} && -x "${AK_INSTALL_DIR:-}/start" ]] && INSTALL_DIR="$AK_INSTALL_DIR"
+
+DASHBOARD=1
+[[ ${AK_NO_DASHBOARD:-0} == 1 || $AK_TTY -eq 0 ]] && DASHBOARD=0
+
+declare -A SERVER_PID=()
+declare -A SERVER_ARGS=([TicketServer]="-p 7777")
+
+usage() {
+    cat <<EOF
+Aura Kingdom Server launcher ${AK_START_VERSION}
+
+Usage: ./start [options]
+
+  --no-dashboard   Do not draw the live status view
+  --dir=PATH       Override the installation folder
+  --help           Show this text
+EOF
+}
+
+for arg in "$@"; do
+    case "$arg" in
+        --no-dashboard) DASHBOARD=0 ;;
+        --dir=*)        INSTALL_DIR="${arg#*=}" ;;
+        --help|-h)      usage; exit 0 ;;
+        *)              usage; exit 1 ;;
+    esac
+done
+
+INSTALL_DIR="${INSTALL_DIR%/}"
+LOG_DIR="$INSTALL_DIR/Logs"
+RUN_DIR="$LOG_DIR/run"
+SESSION_LOG="$LOG_DIR/Startup/startup_$(date +%Y%m%d_%H%M%S).log"
+
+[[ -d $INSTALL_DIR ]] || { echo "$(t not_installed "$INSTALL_DIR")" >&2; exit 1; }
+
+mkdir -p "$LOG_DIR/Startup" "$RUN_DIR"
+: >"$SESSION_LOG"
+ak_log_init "$SESSION_LOG"
+
+pid_file() { printf '%s/%s.pid' "$RUN_DIR" "$1"; }
+out_file() { printf '%s/%s.out' "$LOG_DIR" "$1"; }
+
+server_pid() {
+    ak_server_pid "$INSTALL_DIR" "$1" "$(pid_file "$1")"
+}
+
+wait_for_socket() {
+    local pid="$1" i
+    if ! ak_have ss; then
+        sleep 3
+        return 0
+    fi
+    for (( i = 0; i < 20; i++ )); do
+        ss -ltnpH 2>/dev/null | grep -q "pid=${pid}," && return 0
+        [[ -d "/proc/$pid" ]] || return 1
+        sleep 0.5
+    done
+    return 0
+}
+
+start_server() {
+    local name="$1" dir="$INSTALL_DIR/$name" bin="$INSTALL_DIR/$name/$name" pid
+
+    if pid=$(server_pid "$name"); then
+        SERVER_PID["$name"]=$pid
+        ui_info "$(t srv_running "$name")"
+        return 0
+    fi
+
+    [[ -f $bin ]] || { ui_err "$(t srv_start_fail "$name")"; return 1; }
+    chmod 750 "$bin" 2>/dev/null || true
+
+    ui_step_start "$(t srv_start "$name")"
+
+    local args=()
+    [[ -n ${SERVER_ARGS[$name]:-} ]] && read -r -a args <<<"${SERVER_ARGS[$name]}"
+
+    ( cd "$dir" && exec nohup "./$name" ${args[@]+"${args[@]}"} >>"$(out_file "$name")" 2>&1 ) &
+    pid=$!
+    echo "$pid" >"$(pid_file "$name")"
+
+    sleep 2
+    if [[ ! -d "/proc/$pid" ]]; then
+        ui_step_end fail
+        ui_err "$(t srv_start_fail "$name")"
+        tail -n 15 "$(out_file "$name")" 2>/dev/null | sed 's/^/      /'
+        return 1
+    fi
+
+    wait_for_socket "$pid" || true
+
+    if [[ ! -d "/proc/$pid" ]]; then
+        ui_step_end fail
+        ui_err "$(t srv_start_fail "$name")"
+        tail -n 15 "$(out_file "$name")" 2>/dev/null | sed 's/^/      /'
+        return 1
+    fi
+
+    SERVER_PID["$name"]=$pid
+    ui_step_end ok "$(t srv_started "$name" "$pid")"
+    return 0
+}
+
+shutdown_all() {
+    trap - INT TERM
+    printf '\n'
+    if [[ ${AK_MANAGED:-0} == 1 ]]; then
+        ak_log "managed by systemd, leaving shutdown to ExecStop"
+        exit 0
+    fi
+    if [[ -x "$INSTALL_DIR/stop" ]]; then
+        "$INSTALL_DIR/stop"
+    else
+        local name pid
+        for name in "${AK_SERVERS[@]}"; do
+            pid=$(server_pid "$name") && kill -TERM "$pid" 2>/dev/null || true
+        done
+    fi
+    exit 0
+}
+
+read_cpu_total() {
+    local a b c d rest
+    read -r _ a b c d rest </proc/stat
+    CPU_TOTAL=$(( a + b + c + d ))
+    CPU_IDLE=$d
+}
+
+cpu_percent() {
+    local prev_total=$CPU_TOTAL prev_idle=$CPU_IDLE
+    read_cpu_total
+    local dt=$(( CPU_TOTAL - prev_total )) di=$(( CPU_IDLE - prev_idle ))
+    (( dt <= 0 )) && { printf '0.0'; return; }
+    awk -v dt="$dt" -v di="$di" 'BEGIN { printf "%.1f", (dt - di) * 100 / dt }'
+}
+
+mem_percent() {
+    awk '/MemTotal/{t=$2} /MemAvailable/{a=$2} END{ printf "%.1f", (t - a) * 100 / t }' /proc/meminfo
+}
+
+format_uptime() {
+    local s=$1
+    printf '%dd %02dh %02dm %02ds' $(( s / 86400 )) $(( (s % 86400) / 3600 )) $(( (s % 3600) / 60 )) $(( s % 60 ))
+}
+
+monitor() {
+    local start_ts=$SECONDS name pid
+    local l_up l_cpu l_ram l_hint
+    l_up=$(t dash_uptime); l_cpu=$(t dash_cpu); l_ram=$(t dash_ram); l_hint=$(t dash_hint)
+    read_cpu_total
+    while :; do
+        for name in "${!SERVER_PID[@]}"; do
+            if ! pid=$(server_pid "$name"); then
+                printf '\n'
+                ui_err "$(t srv_crashed "$name" "$(out_file "$name")")"
+                unset 'SERVER_PID[$name]'
+            fi
+        done
+
+        if (( ${#SERVER_PID[@]} == 0 )); then
+            printf '\n'
+            ui_err "$(t fail_hint "$SESSION_LOG")"
+            return 1
+        fi
+
+        if (( DASHBOARD == 1 )); then
+            printf '%s  %s%s%s %s  %s%s%s %s%%  %s%s%s %s%%  %s%s%s' \
+                "$C_ERASE" \
+                "$C_GREY" "$l_up" "$C_RESET" "$(format_uptime $(( SECONDS - start_ts )))" \
+                "$C_GREY" "$l_cpu" "$C_RESET" "$(cpu_percent)" \
+                "$C_GREY" "$l_ram" "$C_RESET" "$(mem_percent)" \
+                "$C_GREY" "$l_hint" "$C_RESET"
+            sleep 2
+        else
+            sleep 15
+        fi
+    done
+}
+
+trap shutdown_all INT TERM
+
+ui_banner "$(t start_title)" "$INSTALL_DIR"
+
+for name in "${AK_SERVERS[@]}"; do
+    pid=$(server_pid "$name") && kill -TERM "$pid" 2>/dev/null || true
+done
+
+AK_STEP_TOTAL=${#AK_SERVERS[@]}
+failed=0
+for name in "${AK_SERVERS[@]}"; do
+    start_server "$name" || { failed=1; break; }
+done
+
+if (( failed == 1 )); then
+    ui_err "$(t fail_hint "$SESSION_LOG")"
+    [[ -x "$INSTALL_DIR/stop" ]] && "$INSTALL_DIR/stop" >/dev/null 2>&1 || true
+    exit 1
+fi
+
+printf '\n'
+ui_ok "$(t all_started)"
+(( DASHBOARD == 1 )) || ui_info "$(t sum_log): $SESSION_LOG"
+printf '\n'
+
+monitor

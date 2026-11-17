@@ -1,0 +1,94 @@
+[
+  {
+    "path": "map/model/S703/S703.nif",
+    "size": 11665958,
+    "crc": "49b76e12",
+    "original_crc": "49b76e12",
+    "matches_original": true,
+    "sha256": "03c3963c3c6b06cdc1a95016215f1536d33ea249a24a0a28702100b35f33b851",
+    "embedded_names": {
+      "S703": 19608,
+      "S741": -1,
+      "s703": 29900,
+      "s741": -1
+    }
+  },
+  {
+    "path": "map/model/S703/S703.ini",
+    "size": 7212,
+    "crc": "7b7ac349",
+    "original_crc": "7b7ac349",
+    "matches_original": true,
+    "sha256": "683d84157fa76eaffa051d30484d56f7416504642df022762975b4fe392d9751"
+  },
+  {
+    "path": "map/sknodemap/S703.pgp",
+    "size": 20169,
+    "crc": "da7badab",
+    "original_crc": "da7badab",
+    "matches_original": true,
+    "sha256": "519008982afd73795e2bfbbedc0529da199e6d61f081979cab006ad3ed53c571"
+  },
+  {
+    "path": "map/sknodemap/S703.smp",
+    "size": 262174,
+    "crc": "ad181fa5",
+    "original_crc": "ad181fa5",
+    "matches_original": true,
+    "sha256": "35f0de4afbbc4a29268f6831cfc3f823a092e458ba959aa25be8f4cb70a1749a"
+  },
+  {
+    "path": "map/sknodemap/S703.fsmp",
+    "size": 262175,
+    "crc": "7cd144f9",
+    "original_crc": "7cd144f9",
+    "matches_original": true,
+    "sha256": "a2faab00f34e6a127310dc1d2aa252e040daf05d0aff3c148729570b698d5c1e"
+  },
+  {
+    "path": "map/model/S741/S741.nif",
+    "size": 8481574,
+    "crc": "b2545cc5",
+    "original_crc": "b2545cc5",
+    "matches_original": true,
+    "sha256": "ffec721b307e24837db95845b322bfb5ba284acb93dc0dbe39ac6f4f2c0ab093",
+    "embedded_names": {
+      "S703": -1,
+      "S741": 21165,
+      "s703": -1,
+      "s741": -1
+    }
+  },
+  {
+    "path": "map/model/S741/S741.ini",
+    "size": 7205,
+    "crc": "eb7ff410",
+    "original_crc": "eb7ff410",
+    "matches_original": true,
+    "sha256": "ebb0b229820104d52a6fdad295f2d933fea8ba023fdd6e57b719ce47f1c17592"
+  },
+  {
+    "path": "map/sknodemap/S741.pgp",
+    "size": 40925,
+    "crc": "8d82ec09",
+    "original_crc": "8d82ec09",
+    "matches_original": true,
+    "sha256": "87bb07d6ef46db63d67fdb354aaa360be26dd1e9f65170b062c86266a35f5f5f"
+  },
+  {
+    "path": "map/sknodemap/S741.smp",
+    "size": 262174,
+    "crc": "97d0201b",
+    "original_crc": "97d0201b",
+    "matches_original": true,
+    "sha256": "54072167061c8d34705ee817ff2c678e47d4cccbfec836bad6a7eb3feb5dba32"
+  },
+  {
+    "path": "map/sknodemap/S741.fsmp",
+    "size": 262175,
+    "crc": "1baa0b0d",
+    "original_crc": "1baa0b0d",
+    "matches_original": true,
+    "sha256": "916c9fd87c6c637c5330c6d8e795d2cc39487d9117cbac107d0d8c236fb1def2"
+  }
+]

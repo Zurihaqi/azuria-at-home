@@ -1,0 +1,295 @@
+[
+  {
+    "group": 101,
+    "cached_items": 12,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 102,
+    "cached_items": 42,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 103,
+    "cached_items": 55,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 104,
+    "cached_items": 20,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 105,
+    "cached_items": 35,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 106,
+    "cached_items": 10627,
+    "catalog_items": 10627,
+    "catalog_detail_counts": {
+      "1": 89,
+      "2": 84,
+      "3": 82,
+      "4": 93,
+      "5": 81,
+      "6": 80,
+      "7": 81,
+      "8": 81,
+      "9": 79,
+      "10": 81,
+      "11": 80,
+      "12": 83,
+      "13": 81,
+      "14": 76,
+      "15": 79,
+      "16": 37,
+      "17": 75,
+      "18": 77,
+      "19": 164,
+      "20": 174,
+      "21": 163,
+      "22": 167,
+      "23": 167,
+      "24": 146,
+      "25": 157,
+      "26": 157,
+      "27": 202,
+      "28": 39,
+      "29": 37,
+      "30": 99,
+      "31": 922,
+      "32": 1720,
+      "33": 302,
+      "34": 2160,
+      "35": 764,
+      "36": 101,
+      "37": 99,
+      "38": 99,
+      "39": 99,
+      "40": 99,
+      "41": 15,
+      "42": 146,
+      "43": 999,
+      "44": 11
+    },
+    "invalid_catalog_prices": 0,
+    "samples": [
+      {
+        "index": 2938,
+        "id": 10752,
+        "detail": 1
+      },
+      {
+        "index": 2939,
+        "id": 30274,
+        "detail": 1
+      },
+      {
+        "index": 2940,
+        "id": 39009,
+        "detail": 1
+      }
+    ]
+  },
+  {
+    "group": 108,
+    "cached_items": 1172,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 147,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 148,
+    "cached_items": 4,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 149,
+    "cached_items": 13,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 151,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 152,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 199,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 202,
+    "cached_items": 42,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 203,
+    "cached_items": 55,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 204,
+    "cached_items": 20,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 205,
+    "cached_items": 18,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 208,
+    "cached_items": 1172,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 247,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 248,
+    "cached_items": 4,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 299,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 302,
+    "cached_items": 64,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 303,
+    "cached_items": 46,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 304,
+    "cached_items": 12,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 305,
+    "cached_items": 41,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 308,
+    "cached_items": 75,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 347,
+    "cached_items": 6,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 349,
+    "cached_items": 8,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  },
+  {
+    "group": 399,
+    "cached_items": 3,
+    "catalog_items": 0,
+    "catalog_detail_counts": {},
+    "invalid_catalog_prices": 0,
+    "samples": []
+  }
+]

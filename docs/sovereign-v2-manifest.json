@@ -1,0 +1,569 @@
+{
+  "required_level": 130,
+  "cap": 150,
+  "files": [
+    {
+      "name": "S_Enchant.ini",
+      "before_sha256": "8a0730483006ba71bea5e11024d3a999cc5825a9d705a810d1f574b422490f6f",
+      "after_sha256": "78b813539fd68e2baf7e265bb7e430423c25ef85cd51824cf41b3fcc2f7dd843",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\staging\\pen-source\\S_Enchant.ini"
+    },
+    {
+      "name": "C_Enchant.ini",
+      "before_sha256": "f9c8a25323b5dd2e5336e1ac519d3f816ceb2a55d4c1964c2a4ac933e3560981",
+      "after_sha256": "51fcd0a0d9611c9e8afcd689a0cf5f1d682e05d617b79f657bd9a4d42a7a494d",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\C_Enchant.ini"
+    },
+    {
+      "name": "T_Enchant.ini",
+      "before_sha256": "d3521a6486f5a429728f993dedfd7cb3a6c83ad693c82907147ad8545b1cfaf9",
+      "after_sha256": "68d34baeee13bf82a995a7b55423b85e5e6f0410515829297d3a620dd5b1dc45",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Enchant.ini"
+    },
+    {
+      "name": "S_Item.ini",
+      "before_sha256": "92a2cad55edc554d3671c4cd6f881ade2677888bf0cdd91671d882b898b93525",
+      "after_sha256": "0165d30f0025e59912dd9e19cb197a495391dca4e373d1f2912000ed971def67",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\staging\\pen-source\\S_Item.ini"
+    },
+    {
+      "name": "C_Item.ini",
+      "before_sha256": "49eb85d58cb8a2f193f1e5ee7af9a477cef4110d3ba3fdcf911d1379994f139a",
+      "after_sha256": "f2558ec0650ce931bcd0be25f0bc48a1ca2dd767c42a28594e5482936d0bee6f",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\C_Item.ini"
+    },
+    {
+      "name": "T_Item.ini",
+      "before_sha256": "b29ec93b9eb512f6c6fa76fc74424f414a84793192d1e1ae1daf56fd4468b836",
+      "after_sha256": "b23a2bcfa7d6e134bae47bd03be38027abf3200d6b3f4cdb332a8de17f762d0d",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Item.ini"
+    },
+    {
+      "name": "S_EquipSet.ini",
+      "before_sha256": "be48083908ecbfcbfa83f7c91fb964b0caf59f83dfa0da6822ce764f105f160e",
+      "after_sha256": "6e98fd39330a0e6dee4abaa316ac31eac43f36f5c5895b427814e58481a59ee1",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\staging\\pen-source\\S_EquipSet.ini"
+    },
+    {
+      "name": "C_EquipSet.ini",
+      "before_sha256": "1f8cd4354807d0f28a0cdb96aa2332b03bfb38a2f45008ae185928fbd940e5ec",
+      "after_sha256": "d77db8717afa84a1ee7279eb07ad4345b928b4b0ecd5439533a83863b23122be",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\C_EquipSet.ini"
+    },
+    {
+      "name": "T_EquipSet.ini",
+      "before_sha256": "146f460b6c2d85aefb61b626ad5fc581a91ead9cf1d7890d9641fba145ee8bd6",
+      "after_sha256": "510265bdd344d77039980c41544327a316ca0252d1b06af1ac1090d47ec07836",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_EquipSet.ini"
+    },
+    {
+      "name": "S_Parameter.ini",
+      "before_sha256": "1bea464421691d5558d6619f19356b0e32dcc0db8dbeebdea571e2e0d8dc4086",
+      "after_sha256": "8c9d0fe89137cab4dd329654f6606faa9c414e27f9d2a7120c40598af61bd0ea",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\staging\\pen-source\\S_Parameter.ini"
+    },
+    {
+      "name": "C_Parameter.ini",
+      "before_sha256": "9b76c283c63cacfc444d2ade4c1cf179b0581a62de7536a113c1b88e853e6004",
+      "after_sha256": "622d7285d201e744829c8073e7a4085d95e39a08419aae524ec657c312a91a8a",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\C_Parameter.ini"
+    },
+    {
+      "name": "T_ItemMall.ini",
+      "before_sha256": "c5f8c54d41b803b94fa718b62365ee7a2d436963dfe555dab56bfd73ad94b096",
+      "after_sha256": "3ad094b2416a945d0f5effe419a542463a05a56f880bddbc32d34f7118293f6d",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_ItemMall.ini"
+    },
+    {
+      "name": "T_Biology.ini",
+      "before_sha256": "3990d1c98ab4d6447f1ba33a3a42be411203875f1a69d4623c52624f9d4a011f",
+      "after_sha256": "dba981144a5a7ed8262a869f997e945adabda13d2fbf5dc9745cbd6c28ecda6b",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Biology.ini"
+    },
+    {
+      "name": "T_Mission.ini",
+      "before_sha256": "8bf4933edb113141049a949511d0dd24ada95ec8e1c2363c354a5480f221e909",
+      "after_sha256": "c8bdcd2349815d9c2c179ea12ce254ae7b9a10be7423db536b40807e06a0501b",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Mission.ini"
+    },
+    {
+      "name": "T_Title.ini",
+      "before_sha256": "8a3e9e357c7eb993cecb1c278e0f01bc2f234f173a48b743baf5e189564682f0",
+      "after_sha256": "373fe16c17a90c79e5c55e64b4f8ccab9db8588b014ad9e972fb99da7de5fdb8",
+      "source": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom\\data\\db\\T_Title.ini"
+    }
+  ],
+  "translations": {
+    "Item": {
+      "native_name": 1171,
+      "records_repaired": 1225,
+      "english_alias": 51
+    },
+    "ItemMall": {
+      "records_repaired": 683,
+      "native_name": 466,
+      "english_alias": 1
+    },
+    "Biology": {
+      "native_name": 1165,
+      "records_repaired": 1267,
+      "english_alias": 99,
+      "unused_labels": 3
+    },
+    "Mission": {
+      "english_alias": 15,
+      "records_repaired": 96,
+      "native_name": 81
+    },
+    "Title": {
+      "unused_labels": 2463,
+      "records_repaired": 3053,
+      "native_name": 588,
+      "english_alias": 1
+    }
+  },
+  "items": [
+    {
+      "id": 61586,
+      "type": 24,
+      "stats": [
+        3000000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        20
+      ],
+      "level": 130,
+      "enchants": "180001;180002;180004"
+    },
+    {
+      "id": 61587,
+      "type": 1,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61588,
+      "type": 2,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        20000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61589,
+      "type": 3,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61590,
+      "type": 4,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61591,
+      "type": 5,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        100
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61592,
+      "type": 6,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61593,
+      "type": 37,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61594,
+      "type": 38,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61595,
+      "type": 39,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    },
+    {
+      "id": 61596,
+      "type": 39,
+      "stats": [
+        500000,
+        250000,
+        250000,
+        5000000,
+        500000,
+        250000,
+        75,
+        75,
+        50,
+        0
+      ],
+      "level": 130,
+      "enchants": "180003"
+    }
+  ],
+  "enchants": {
+    "180001": {
+      "name": "Zrymund's Sovereign Hunger",
+      "commands": [
+        [
+          2021,
+          [
+            100,
+            100
+          ]
+        ],
+        [
+          2022,
+          [
+            100,
+            100
+          ]
+        ],
+        [
+          2043,
+          [
+            500
+          ]
+        ],
+        [
+          2051,
+          [
+            150
+          ]
+        ]
+      ]
+    },
+    "180002": {
+      "name": "Zrymund's Absolute Dominion",
+      "commands": [
+        [
+          2033,
+          [
+            300,
+            300
+          ]
+        ],
+        [
+          2034,
+          [
+            -90,
+            -90
+          ]
+        ],
+        [
+          2097,
+          [
+            999,
+            0
+          ]
+        ],
+        [
+          2046,
+          [
+            300,
+            300,
+            300,
+            300,
+            300,
+            300
+          ]
+        ]
+      ]
+    },
+    "180003": {
+      "name": "Zrymund's Astral Breach",
+      "commands": [
+        [
+          2097,
+          [
+            100,
+            0
+          ]
+        ],
+        [
+          2155,
+          [
+            0,
+            100,
+            0
+          ]
+        ]
+      ]
+    },
+    "180004": {
+      "name": "Zrymund's Starbreaker Authority",
+      "commands": [
+        [
+          2155,
+          [
+            0,
+            500,
+            0
+          ]
+        ],
+        [
+          2096,
+          [
+            100
+          ]
+        ]
+      ]
+    },
+    "180005": {
+      "name": "Zrymund's Undying Constellation",
+      "commands": [
+        [
+          2085,
+          [
+            0,
+            0,
+            0,
+            50,
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    "180006": {
+      "name": "Zrymund's Celestial Supremacy",
+      "commands": [
+        [
+          2097,
+          [
+            200,
+            0
+          ]
+        ],
+        [
+          2155,
+          [
+            0,
+            200,
+            0
+          ]
+        ],
+        [
+          2096,
+          [
+            50
+          ]
+        ]
+      ]
+    },
+    "180007": {
+      "name": "Zrymund's Cosmic Dominion",
+      "commands": [
+        [
+          2033,
+          [
+            50,
+            50
+          ]
+        ],
+        [
+          2043,
+          [
+            200
+          ]
+        ],
+        [
+          2096,
+          [
+            50
+          ]
+        ],
+        [
+          2155,
+          [
+            0,
+            300,
+            0
+          ]
+        ]
+      ]
+    },
+    "180008": {
+      "name": "Zrymund's Infinite Singularity",
+      "commands": [
+        [
+          2097,
+          [
+            200,
+            0
+          ]
+        ],
+        [
+          2155,
+          [
+            0,
+            300,
+            0
+          ]
+        ],
+        [
+          2091,
+          [
+            0,
+            100
+          ]
+        ]
+      ]
+    }
+  },
+  "sets": [
+    {
+      "id": 1001,
+      "name": "Astral Sovereign - Undying Constellation",
+      "fields": {
+        "3": 61587,
+        "4": 61588,
+        "5": 61589,
+        "6": 61590,
+        "7": 61591,
+        "18": 61600,
+        "21": 61601
+      }
+    },
+    {
+      "id": 1002,
+      "name": "Astral Sovereign - Cosmic Dominion",
+      "fields": {
+        "8": 61592,
+        "14": 61593,
+        "15": 61594,
+        "19": 61602
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Astral Sovereign - Infinite Singularity",
+      "fields": {
+        "16": 61596,
+        "17": 61595,
+        "18": 61603
+      }
+    }
+  ]
+}

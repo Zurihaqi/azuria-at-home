@@ -1,0 +1,44 @@
+[
+  {
+    "name": "C_Biology.ini",
+    "size": 4204802,
+    "sha256": "f47d61e6adf8e1a7e3d4f20c4ff60f7d37a12ff8c87b00949a4082e80ca7b3ce",
+    "adler32_verified": true
+  },
+  {
+    "name": "C_Enchant.ini",
+    "size": 7370090,
+    "sha256": "9aed3be163bad06a8356271bfe1a56f4ed23eb2ee829107cff746e556d5430b7",
+    "adler32_verified": true
+  },
+  {
+    "name": "C_EquipSet.ini",
+    "size": 32571,
+    "sha256": "cbbe6b8411bc4021928f724b2c066cae6c6be42b40320f2230062c0bd229a522",
+    "adler32_verified": true
+  },
+  {
+    "name": "C_Item.ini",
+    "size": 4988394,
+    "sha256": "149c78dabc0dc7aeb8413ba085645653b9d15140439def76b890b4df298cad3b",
+    "adler32_verified": true
+  },
+  {
+    "name": "C_ItemMall.ini",
+    "size": 4318075,
+    "sha256": "0beaa9e5d9141744194b68ed923bd30d15fd6f8b2bb1716a722e11690313e324",
+    "adler32_verified": true
+  },
+  {
+    "name": "C_Mission.ini",
+    "size": 1112012,
+    "sha256": "657b983730dcc1a1f820df8e2c1d651dac2bd24ddf72a9e29d9bb0223c1d603e",
+    "adler32_verified": true
+  },
+  {
+    "name": "C_Title.ini",
+    "size": 501230,
+    "sha256": "51115728a5bdb9a0c570bddfd8532bf89e8e2e31da73dbf3049e7974b66a2a58",
+    "adler32_verified": true
+  }
+]

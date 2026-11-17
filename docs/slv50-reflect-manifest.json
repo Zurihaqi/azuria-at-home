@@ -1,0 +1,48 @@
+{
+  "files": [
+    {
+      "name": "S_Level.ini",
+      "before": "468285a04b40c70eb8d3f5fa170b8eeaaacd74b616a4be48243021b5e1087a3e",
+      "after": "8587dd8aa8ae0fba6055ea524f0b5d8dab295ad2495ef4c26e7fd45def24a9cc"
+    },
+    {
+      "name": "S_Item.ini",
+      "before": "4dbacd46dbd9eaf0a4f16d2cc7bb00c7a15775bd67a970aa9e4dcfddeea2bbf3",
+      "after": "bc43ecb8db4490d9f84c43e846bf7d065f457a4b76ea0c967a5ea01092634f55"
+    },
+    {
+      "name": "S_Enchant.ini",
+      "before": "cf8d59f821978a72e42a0541f5b7de92f8c8183063507a7ad9ffc0234c3c99be",
+      "after": "4f66163c4f3a02c820938f369d8fa764b7f1e530b0ff04b52798fd97b74f0ac0"
+    },
+    {
+      "name": "C_Level.ini",
+      "before": "8121d2f684463e726963acd96091622d764e10d6558629e82d2a6a8a585663f4",
+      "after": "4676410c5fa1d7136a87b369bf728f399da8ede5521128be5722319b30c7b483"
+    },
+    {
+      "name": "C_Item.ini",
+      "before": "5fe37a8dd0d28cefb86900e3a3bcd453cfa35f7130f16a5e84e53cfc82c81e95",
+      "after": "53ba8a93bae4a199a82726e788e80cf764ff10d8fabcca684de223127d068120"
+    },
+    {
+      "name": "C_Enchant.ini",
+      "before": "5dca84eb9409ec029115ba5ae650dd6d608f07eceb26c670558847fb38be51a7",
+      "after": "6b3456eda6aad7cc3709d92228c3dd149ee8470b6d8448b9ac649ac1f5226086"
+    },
+    {
+      "name": "T_Item.ini",
+      "before": "ceb3e819e6e671c800090f4a6ad0b3fd381f73cdebc0ef331086b1baa9b5ce14",
+      "after": "4d72ef686ec20c5d0f1faa070a74e352f9ce76ee3634f7cf4a68df2d456d826d"
+    },
+    {
+      "name": "T_Enchant.ini",
+      "before": "59aaef2bbf26bc2ef8fd6a3a010f2a30e7c0b16a94eb92fc25d7edcbebe7b80e",
+      "after": "e5ada27a4c8d2f9897fdebeb830736896fdee0f093567b9ec8e3ed24f7716ea6"
+    }
+  ],
+  "level_recovery": 149,
+  "playable_cap": 150,
+  "reference_level": 151,
+  "reflection_id": 180020
+}

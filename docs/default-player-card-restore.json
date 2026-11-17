@@ -1,0 +1,22 @@
+{
+  "client": "D:\\Games\\Aura Kingdom Private Server\\client\\Requiem Aurakingdom",
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\default-player-card-20261025T142717Z",
+  "change": "main.imageset now loads the original V15 main.dds atlas",
+  "source": "Matching V15 archive manifest; existing local DDS verified by size and CRC32",
+  "texture_crc32": "539f456b",
+  "texture_sha256": "70f3e5f2ff60543d65758f9f4ebb1409c3964b067465ec7b50dd303efb387be7",
+  "imageset_before_sha256": "534f93f58865cbbea66cea8642dc92345d4947d0cd9e026af6e2695dcf8aadb9",
+  "imageset_after_sha256": "7c487cd6bb87d0abc3b5d91978d349520209ec816400aa5040db1997c013a4cb",
+  "region_count": 360,
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "validation": "XML parsed; all region names/coordinates preserved; card regions inside texture bounds; original RGBA retained",
+  "existing_outside_regions_preserved": [
+    "Coin7"
+  ],
+  "gameplay_changed": false,
+  "restart_client_required": true,
+  "in_game_confirmation": "pending"
+}

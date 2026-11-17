@@ -1,0 +1,9 @@
+[Unit]
+Description=Daily Aura Kingdom backup at 04:00 Jakarta time
+
+[Timer]
+OnCalendar=*-*-* 04:00:00 Asia/Jakarta
+Persistent=true
+
+[Install]
+WantedBy=timers.target

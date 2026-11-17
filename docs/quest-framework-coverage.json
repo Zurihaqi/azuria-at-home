@@ -1,0 +1,44 @@
+{
+  "total_quests": 2870,
+  "executable_by_declared_drivers": 2263,
+  "live_validation": "Required per quest; compile coverage is not correctness coverage",
+  "commands": {
+    "MonsterKilled": 1369,
+    "ItemCollect": 858,
+    "NPCTalk": 649,
+    "CheckBuff": 571,
+    "MonsterTreasureGot": 486,
+    "AreaTravel": 182,
+    "ItemGiven": 70,
+    "NPCItem": 59,
+    "ItemGot": 46,
+    "EquipItem": 38,
+    "CombineAndMakingItem": 28,
+    "PlayerLevel": 19,
+    "CardFightWin": 5,
+    "CoupleMission": 1,
+    "AddCouple": 1
+  },
+  "blockers": {
+    "ItemCollect: item source has not been resolved": 858,
+    "ItemGot: item source has not been resolved": 46,
+    "CombineAndMakingItem: driver unavailable": 28,
+    "CardFightWin: driver unavailable": 5,
+    "CoupleMission: driver unavailable": 1,
+    "AddCouple: driver unavailable": 1
+  },
+  "semantic_overrides": [
+    {
+      "quest": 1010,
+      "objective": 0,
+      "driver": "wake_workers",
+      "evidence": "item 30297 / enchant 45131 / actor 40338"
+    },
+    {
+      "quest": 1014,
+      "objective": 0,
+      "driver": "drink_quest_potion",
+      "evidence": "granted item 30300 / enchant 45138 / client objective says drink"
+    }
+  ]
+}

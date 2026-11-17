@@ -1,0 +1,57 @@
+{
+  "backup": "/var/backups/aurakingdom/guitar-switch-20261031T052426Z",
+  "character": "Zrymund",
+  "main": "Guitar",
+  "sub": "Whip",
+  "envoy_abilities": 49,
+  "mastery_tiers": 160,
+  "selected_masteries": [
+    {
+      "slot": 1,
+      "before": 49166,
+      "after": 50136
+    },
+    {
+      "slot": 2,
+      "before": 48016,
+      "after": 48016
+    },
+    {
+      "slot": 3,
+      "before": 49182,
+      "after": 50148
+    },
+    {
+      "slot": 4,
+      "before": 48048,
+      "after": 48048
+    },
+    {
+      "slot": 5,
+      "before": 48056,
+      "after": 48056
+    },
+    {
+      "slot": 6,
+      "before": 48630,
+      "after": 48630
+    }
+  ],
+  "weapon_specialization_levels": [
+    70,
+    70
+  ],
+  "item": {
+    "id": 50000351,
+    "item_id": 61604,
+    "container_index": 8,
+    "loc": 12,
+    "strengthen": 61440,
+    "evo_level": 5
+  },
+  "bag_display_number": 9,
+  "slot_display_number": 13,
+  "name": "Zrymund's Astral Sovereign - Worldshatter Guitar",
+  "quest_data_unchanged": true,
+  "level_currency_and_character_fields_unchanged": true
+}

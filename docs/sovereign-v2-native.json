@@ -1,0 +1,13 @@
+{
+  "items_verified": 11,
+  "hidden_bonus_items": 4,
+  "enchants_loaded": 8,
+  "level_vectors": {
+    "AllLevelExp": 150,
+    "AllSurvivalLevelExp": 150,
+    "AllWeaponExpertExp": 70,
+    "AllWeaponExp": 0,
+    "AllFriendLevelExp": 10,
+    "AllPartyExp": 151
+  }
+}

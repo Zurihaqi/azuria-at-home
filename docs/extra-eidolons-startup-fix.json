@@ -1,0 +1,9 @@
+{
+  "time": "2026-10-31T11:24:42.580935+00:00",
+  "file": "T_Enchant.ini",
+  "added_labels": 120,
+  "sha256": "87a673f02cfa2f3a517168a582dbde6430d3cdeb43633a4bbac45052b67eda2a",
+  "port_retained": true,
+  "startup_verified": "character selection in error.log",
+  "limitation": "New effect labels are generic; unverified Chinese descriptions omitted."
+}

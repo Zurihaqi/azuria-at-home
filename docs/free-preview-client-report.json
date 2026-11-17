@@ -1,0 +1,51 @@
+{
+  "address": "0xd500cd",
+  "offset": 9761997,
+  "before": "0f8e23020000",
+  "after": "0f8c23020000",
+  "backup": "D:\\Games\\Aura Kingdom Private Server\\private\\client-original\\free-preview-20261031T080426Z",
+  "tests": [
+    {
+      "item": 51974,
+      "price": 0,
+      "result": "available"
+    },
+    {
+      "item": 53460,
+      "price": 0,
+      "result": "available"
+    },
+    {
+      "item": 51974,
+      "price": 22,
+      "result": "available"
+    },
+    {
+      "item": 51974,
+      "price": -1,
+      "result": "unavailable"
+    },
+    {
+      "item": 51974,
+      "price": -2147483648,
+      "result": "unavailable"
+    },
+    {
+      "item": 51974,
+      "price": 2147483647,
+      "result": "available"
+    },
+    {
+      "item": 0,
+      "price": 0,
+      "result": "unavailable"
+    },
+    {
+      "item": 0,
+      "price": 22,
+      "result": "unavailable"
+    }
+  ],
+  "before_sha256": "242d9908febed1427e56eaaef298af27050f538d1f40854161f8f353d057bc1f",
+  "after_sha256": "318940330526f09ae1dfd275b16660dd92cf337255464cca89de4dc5f473e813"
+}

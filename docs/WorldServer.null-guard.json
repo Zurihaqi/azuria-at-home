@@ -1,0 +1,19 @@
+{
+  "file": "/root/hxsy/WorldServer/WorldServer",
+  "original_sha256": "65f6591723a3c17a9e6b606e63dac58d4020607e48a27ef938fe1553295538c2",
+  "patched_sha256": "d4221ababb0f601a61aee9a7775f58876eb8a07e4ba94cfd569e30da9d5c4f7c",
+  "guards": [
+    {
+      "site": "0x63056c",
+      "skip": "0x630560",
+      "thunk": "0xf39000",
+      "original": "6683380275ee"
+    },
+    {
+      "site": "0x630624",
+      "skip": "0x630618",
+      "thunk": "0xf39018",
+      "original": "6683380275ee"
+    }
+  ]
+}

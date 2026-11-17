@@ -1,0 +1,22 @@
+{
+  "code_address": 23830592,
+  "table_address": 23834624,
+  "sites": [
+    {
+      "site": 8157311,
+      "target": 23830592
+    },
+    {
+      "site": 8158992,
+      "target": 23830944
+    }
+  ],
+  "code_size": 704,
+  "fortification_cap": 30,
+  "star_cap": 5,
+  "scope": "Item Mall category 6, eligible catalog equipment only",
+  "original_sha256": "433b43a6da745c137c90cc08b4b0dd5e1ea2a8add362cd4aa17338497622486c",
+  "patched_sha256": "8eb910bb90198bb811cba3c92254a2f600e36999e8b7deb22457b19fdb19e639",
+  "backup": "/root/hxsy/ZoneServer/ZoneServer.pre-mall-enhancement",
+  "validation": "18 emulator cases passed; live purchase test pending"
+}
