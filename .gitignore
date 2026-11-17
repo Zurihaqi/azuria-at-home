@@ -1,4 +1,7 @@
-# Local secrets, SSH keys, credentials, and backups
+# Local secrets, .env, SSH keys, credentials, and backups
+.env
+.env.*
+!.env.example
 private/
 
 # VirtualBox VM images, client binaries, and staging assets

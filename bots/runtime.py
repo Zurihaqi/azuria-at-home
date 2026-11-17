@@ -20,6 +20,11 @@ def server_ip():
         for line in conf.read_text().splitlines():
             if line.startswith('AK_SERVER_IP='):
                 return line.split('=', 1)[1].strip().strip('"\'')
+    env_file = Path(__file__).resolve().parent.parent / '.env'
+    if env_file.is_file():
+        for line in env_file.read_text(encoding='utf-8').splitlines():
+            if line.startswith('AK_SERVER_IP='):
+                return line.split('=', 1)[1].strip().strip('"\'')
     local_cfg = Path(__file__).resolve().parent.parent / 'private/network-config.json'
     if local_cfg.is_file():
         return json.loads(local_cfg.read_text()).get('server_vpn_ip', '100.64.0.10')
